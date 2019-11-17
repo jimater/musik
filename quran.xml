@@ -1,0 +1,267 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+  <channel>
+    <itunes:type>episodic</itunes:type>
+    <language>en-ca</language>
+    <title>Quirks and Quarks from CBC Radio</title>
+    <link>http://www.cbc.ca/radio/podcasts/science-and-tech/quirks-quarks/</link>
+    <description>CBC Radio&apos;s Quirks and Quarks covers the quirks of the expanding universe to the quarks within a single atom... and everything in between.</description>
+    <itunes:summary>CBC Radio&apos;s Quirks and Quarks covers the quirks of the expanding universe to the quarks within a single atom... and everything in between.</itunes:summary>
+    <itunes:owner>
+      <itunes:name>CBC</itunes:name>
+      <itunes:email>podcasting@cbc.ca</itunes:email>
+    </itunes:owner>
+    <copyright>Copyright © CBC 2019</copyright>
+    <itunes:category text="Science" />
+    <itunes:author>CBC Radio</itunes:author>
+    <itunes:image href="https://www.cbc.ca/radio/podcasts/images/promo-quirks.jpg"/>
+    <itunes:explicit>No</itunes:explicit>
+    <item>
+      <guid>quirksaio-818f1cfd-f4c8-4315-9fd4-44965f242b5b</guid>
+      <title>Watching wildfire with radar, the return of race science, laundry and microplastic, submarines for your bloodstream and oxygen for airplanes.</title>
+      <description>New high-powered radar gives scientists a 3D view of wildfires in real time; The return of race science — the quest to fortify racism with bad biology; Your laundry and plastic pollution — which fabrics shed the most microplastics; Tiny submarines could make a &apos;fantastic voyage&apos; into our bodies; How do high-flying airplanes have enough oxygen for their engines?</description>
+      <itunes:subtitle>New high-powered radar gives scientists a 3D view of wildfires in real time; The return of race science — the quest to fortify racism with bad biology; Your laundry and plastic pollution — which fabrics shed the most microplastics; Tiny submarines could make a &apos;fantastic voyage&apos; into our bodies; How do high-flying airplanes have enough oxygen for their engines?</itunes:subtitle>
+      <itunes:summary>New high-powered radar gives scientists a 3D view of wildfires in real time; The return of race science — the quest to fortify racism with bad biology; Your laundry and plastic pollution — which fabrics shed the most microplastics; Tiny submarines could make a &apos;fantastic voyage&apos; into our bodies; How do high-flying airplanes have enough oxygen for their engines?</itunes:summary>
+      <pubDate>Fri, 15 Nov 2019 00:10:00 EST</pubDate>
+      <itunes:duration>00:54:11</itunes:duration>
+      <itunes:explicit>No</itunes:explicit>
+      <enclosure url="http://cbc.mc.tritondigital.com/CBC_QUIRKSAIO_P/media/quirksaio-dF8h5rlU-20191115.mp3" length="52250511"
+        type="audio/mpeg" />
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <guid>quirksaio-cf502a55-2f62-4769-a67c-a3e9879f91e3</guid>
+      <title>Lionfish are super digesters, Voyager 2 goes interstellar, carbon capture, AI reads scientific literature, fear, trauma and inheritance and animal heart attacks</title>
+      <description>The lionfish is an Olympic athlete of digestion — and that&apos;s an ecological disaster; After a 42-year journey, Voyager 2 goes interstellar; &apos;We have to do everything:&apos; Why capturing carbon shows real promise; AI is reviewing scientists&apos; old work and discovering things they missed; Fear and trauma are useful for animals — can we learn from them how to live without it?; Do animals ever have heart attacks or is it just humans?</description>
+      <itunes:subtitle>The lionfish is an Olympic athlete of digestion — and that&apos;s an ecological disaster; After a 42-year journey, Voyager 2 goes interstellar; &apos;We have to do everything:&apos; Why capturing carbon shows real promise; AI is reviewing scientists&apos; old work and discovering things they missed; Fear and trauma are useful for animals — can we learn from them how to live without it?; Do animals ever have heart attacks or is it just humans?</itunes:subtitle>
+      <itunes:summary>The lionfish is an Olympic athlete of digestion — and that&apos;s an ecological disaster; After a 42-year journey, Voyager 2 goes interstellar; &apos;We have to do everything:&apos; Why capturing carbon shows real promise; AI is reviewing scientists&apos; old work and discovering things they missed; Fear and trauma are useful for animals — can we learn from them how to live without it?; Do animals ever have heart attacks or is it just humans?</itunes:summary>
+      <pubDate>Fri, 08 Nov 2019 00:10:00 EST</pubDate>
+      <itunes:duration>00:54:11</itunes:duration>
+      <itunes:explicit>No</itunes:explicit>
+      <enclosure url="http://cbc.mc.tritondigital.com/CBC_QUIRKSAIO_P/media/quirksaio-omIGW8HA-20191108.mp3" length="52243551"
+        type="audio/mpeg" />
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <guid>quirksaio-6b93df65-a7b3-4341-890a-403686b9ecb7</guid>
+      <title>Roadway pollution, fungus promotes pancreatic cancer, the bang in the Big Bang, infant eels magnetic migration and the pathway to Mars.</title>
+      <description>Pollution sniffing investigators find air near roads is high in contaminants; A common fungus may drive tumour growth in pancreatic cancer; The universe was full of cold goop, then came the big bang; Infant eels use the moon and an internal compass to finish their trans-ocean migration; Pathway to Mars — what’s the biggest challenge, money or technology?</description>
+      <itunes:subtitle>Pollution sniffing investigators find air near roads is high in contaminants; A common fungus may drive tumour growth in pancreatic cancer; The universe was full of cold goop, then came the big bang; Infant eels use the moon and an internal compass to finish their trans-ocean migration; Pathway to Mars — what’s the biggest challenge, money or technology?</itunes:subtitle>
+      <itunes:summary>Pollution sniffing investigators find air near roads is high in contaminants; A common fungus may drive tumour growth in pancreatic cancer; The universe was full of cold goop, then came the big bang; Infant eels use the moon and an internal compass to finish their trans-ocean migration; Pathway to Mars — what’s the biggest challenge, money or technology?</itunes:summary>
+      <pubDate>Fri, 01 Nov 2019 00:10:00 EDT</pubDate>
+      <itunes:duration>00:54:11</itunes:duration>
+      <itunes:explicit>No</itunes:explicit>
+      <enclosure url="http://cbc.mc.tritondigital.com/CBC_QUIRKSAIO_P/media/quirksaio-h6ML0pmt-20191101.mp3" length="52247565"
+        type="audio/mpeg" />
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <guid>quirksaio-4efe0181-5a3c-4c37-a9c8-3d12449d009e</guid>
+      <title>World’s loudest bird, a six-fingered lemur, a microbrewery in your gut, earthworms and the climate underground, a patient researcher and a question of indigestion</title>
+      <description>Females flinch from the mating call of the world’s loudest bird; A lemur from Madagascar has been hiding a sixth finger on its hand; Beer belly — a rare yeast infection makes the gut into a microbrewery; Climate science goes underground to understand the implications for earthworms; The patient researcher: a scientist’s cancer diagnosis changes her life’s work; What is indigestion and why is it so painful?</description>
+      <itunes:subtitle>Females flinch from the mating call of the world’s loudest bird; A lemur from Madagascar has been hiding a sixth finger on its hand; Beer belly — a rare yeast infection makes the gut into a microbrewery; Climate science goes underground to understand the implications for earthworms; The patient researcher: a scientist’s cancer diagnosis changes her life’s work; What is indigestion and why is it so painful?</itunes:subtitle>
+      <itunes:summary>Females flinch from the mating call of the world’s loudest bird; A lemur from Madagascar has been hiding a sixth finger on its hand; Beer belly — a rare yeast infection makes the gut into a microbrewery; Climate science goes underground to understand the implications for earthworms; The patient researcher: a scientist’s cancer diagnosis changes her life’s work; What is indigestion and why is it so painful?</itunes:summary>
+      <pubDate>Fri, 25 Oct 2019 00:10:00 EDT</pubDate>
+      <itunes:duration>00:54:46</itunes:duration>
+      <itunes:explicit>No</itunes:explicit>
+      <enclosure url="http://cbc.mc.tritondigital.com/CBC_QUIRKSAIO_P/media/quirksaio-7ajwjJSu-20191025.mp3" length="52803762"
+        type="audio/mpeg" />
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <guid>quirksaio-8ca0b256-f756-427f-aee0-1597268ad937</guid>
+      <title>Understanding the Anthropocene extinction, regenerating cartilage, autism and touch, a prosthetic that feels and where’s my Lyme vaccine?</title>
+      <description>Understanding extinction — humanity has destroyed half the life on Earth; Could we prevent arthritis by regenerating cartilage?; Building a better cyborg leg — adding a sense of touch to artificial limbs; People with autism might be suffering from an oversensitivity to touch; Why isn&apos;t there a Lyme disease vaccine for humans?</description>
+      <itunes:subtitle>Understanding extinction — humanity has destroyed half the life on Earth; Could we prevent arthritis by regenerating cartilage?; Building a better cyborg leg — adding a sense of touch to artificial limbs; People with autism might be suffering from an oversensitivity to touch; Why isn&apos;t there a Lyme disease vaccine for humans?</itunes:subtitle>
+      <itunes:summary>Understanding extinction — humanity has destroyed half the life on Earth; Could we prevent arthritis by regenerating cartilage?; Building a better cyborg leg — adding a sense of touch to artificial limbs; People with autism might be suffering from an oversensitivity to touch; Why isn&apos;t there a Lyme disease vaccine for humans?</itunes:summary>
+      <pubDate>Fri, 18 Oct 2019 00:10:00 EDT</pubDate>
+      <itunes:duration>00:54:11</itunes:duration>
+      <itunes:explicit>No</itunes:explicit>
+      <enclosure url="http://cbc.mc.tritondigital.com/CBC_QUIRKSAIO_P/media/quirksaio-m1KFzCwn-20191018.mp3" length="52245155"
+        type="audio/mpeg" />
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <guid>quirksaio-bf9e8b73-9048-432c-b948-f7e1563b38a7</guid>
+      <title>Canada’s latest Nobel laureate and our election science policy debate</title>
+      <description>Hear from Canadian-born cosmologist James Peebles about his Nobel Prize; The Quirks &amp; Quarks science and environmental policy debate</description>
+      <itunes:subtitle>Hear from Canadian-born cosmologist James Peebles about his Nobel Prize; The Quirks &amp; Quarks science and environmental policy debate</itunes:subtitle>
+      <itunes:summary>Hear from Canadian-born cosmologist James Peebles about his Nobel Prize; The Quirks &amp; Quarks science and environmental policy debate</itunes:summary>
+      <pubDate>Fri, 11 Oct 2019 00:10:00 EDT</pubDate>
+      <itunes:duration>00:54:11</itunes:duration>
+      <itunes:explicit>No</itunes:explicit>
+      <enclosure url="http://cbc.mc.tritondigital.com/CBC_QUIRKSAIO_P/media/quirksaio-K0sWPcQO-20191011.mp3" length="52246870"
+        type="audio/mpeg" />
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <guid>quirksaio-50aa231a-88bf-4d05-ba00-a47293020ff5</guid>
+      <title>Red meat might not be bad, deflecting asteroids, politics making us sick, growing human brains in the lab, evolution and orgasms and animals in the midnight sun.</title>
+      <description>Hear from the scientist who says red might not be so bad for us after all; NASA is testing a plan to deflect killer asteroids — by crashing into one; Could modern political strife be making us sick?; We&apos;re making tiny brains in the lab — should we be worried for them?; Hear from a researcher who’s investigating how evolution explains the female orgasm; How does 24 hour daylight impact animals in the far North?</description>
+      <itunes:subtitle>Hear from the scientist who says red might not be so bad for us after all; NASA is testing a plan to deflect killer asteroids — by crashing into one; Could modern political strife be making us sick?; We&apos;re making tiny brains in the lab — should we be worried for them?; Hear from a researcher who’s investigating how evolution explains the female orgasm; How does 24 hour daylight impact animals in the far North?</itunes:subtitle>
+      <itunes:summary>Hear from the scientist who says red might not be so bad for us after all; NASA is testing a plan to deflect killer asteroids — by crashing into one; Could modern political strife be making us sick?; We&apos;re making tiny brains in the lab — should we be worried for them?; Hear from a researcher who’s investigating how evolution explains the female orgasm; How does 24 hour daylight impact animals in the far North?</itunes:summary>
+      <pubDate>Fri, 04 Oct 2019 00:10:00 EDT</pubDate>
+      <itunes:duration>00:54:01</itunes:duration>
+      <itunes:explicit>No</itunes:explicit>
+      <enclosure url="http://cbc.mc.tritondigital.com/CBC_QUIRKSAIO_P/media/quirksaio-dNxc9Vn3-20191004.mp3" length="52092657"
+        type="audio/mpeg" />
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <guid>quirksaio-93e9ee14-c536-43a0-9ea6-c36934e36867</guid>
+      <title>Plastic tea-bag particles, Venus was habitable, driver memory fail, earliest North American migrants, Plants ‘terraformed’ the Earth</title>
+      <description>New plastic tea-bags shed billions of tiny particles into the cup; Venus is a hellscape now, but might once have been blue like Earth; Lethal memory fail: why drivers see, and then forget motorcyclists; Ever older remains of early migrants rewrite the story of the first North Americans; Making Eden - how plants &apos;terraformed&apos; the Earth.</description>
+      <itunes:subtitle>New plastic tea-bags shed billions of tiny particles into the cup; Venus is a hellscape now, but might once have been blue like Earth; Lethal memory fail: why drivers see, and then forget motorcyclists; Ever older remains of early migrants rewrite the story of the first North Americans; Making Eden - how plants &apos;terraformed&apos; the Earth.</itunes:subtitle>
+      <itunes:summary>New plastic tea-bags shed billions of tiny particles into the cup; Venus is a hellscape now, but might once have been blue like Earth; Lethal memory fail: why drivers see, and then forget motorcyclists; Ever older remains of early migrants rewrite the story of the first North Americans; Making Eden - how plants &apos;terraformed&apos; the Earth.</itunes:summary>
+      <pubDate>Fri, 27 Sep 2019 12:00:00 EDT</pubDate>
+      <itunes:duration>00:54:11</itunes:duration>
+      <itunes:explicit>No</itunes:explicit>
+      <enclosure url="http://cbc.mc.tritondigital.com/CBC_QUIRKSAIO_P/media/quirksaio-TDCC2kn2-20190927.mp3" length="52247201"
+        type="audio/mpeg" />
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <guid>quirksaio-5c0965f1-9624-4c0b-8338-fa4369496ddc</guid>
+      <title>Quirks &amp; Quarks women in science special — How science has done women wrong</title>
+      <description>The glass obstacle course: Why so few women hold the top spots in STEM disciplines; Women’s brains ARE built for science. Modern neuroscience explodes an old myth; Women and science suffer when medical research doesn’t study females.</description>
+      <itunes:subtitle>The glass obstacle course: Why so few women hold the top spots in STEM disciplines; Women’s brains ARE built for science. Modern neuroscience explodes an old myth; Women and science suffer when medical research doesn’t study females.</itunes:subtitle>
+      <itunes:summary>The glass obstacle course: Why so few women hold the top spots in STEM disciplines; Women’s brains ARE built for science. Modern neuroscience explodes an old myth; Women and science suffer when medical research doesn’t study females.</itunes:summary>
+      <pubDate>Fri, 20 Sep 2019 12:00:00 EDT</pubDate>
+      <itunes:duration>00:54:11</itunes:duration>
+      <itunes:explicit>No</itunes:explicit>
+      <enclosure url="http://cbc.mc.tritondigital.com/CBC_QUIRKSAIO_P/media/quirksaio-taBEQ3rx-20190920.mp3" length="52244425"
+        type="audio/mpeg" />
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <guid>quirksaio-a3c6bdc7-0fbd-4c1e-9bb1-da3814bb31c0</guid>
+      <title>Ground zero for dinosaur extinction, space archeology, toes on the brain, Finding a lost jet engine on Greenland, mystery of the wandering whales and barren tablelands</title>
+      <description>Rocks recovered from ground zero reveal how the dinosaurs died; Archaeology from space - discovering history from a few hundred kilometres up; A jumbo jet lost an engine over Greenland — these researchers found it; The toes of foot painters are mapped in the brain as if they were fingers; Why are right whales roaming into danger off the East coast?; Why are the Tablelands of Gros Morne National Park barren?</description>
+      <itunes:subtitle>Rocks recovered from ground zero reveal how the dinosaurs died; Archaeology from space - discovering history from a few hundred kilometres up; A jumbo jet lost an engine over Greenland — these researchers found it; The toes of foot painters are mapped in the brain as if they were fingers; Why are right whales roaming into danger off the East coast?; Why are the Tablelands of Gros Morne National Park barren?</itunes:subtitle>
+      <itunes:summary>Rocks recovered from ground zero reveal how the dinosaurs died; Archaeology from space - discovering history from a few hundred kilometres up; A jumbo jet lost an engine over Greenland — these researchers found it; The toes of foot painters are mapped in the brain as if they were fingers; Why are right whales roaming into danger off the East coast?; Why are the Tablelands of Gros Morne National Park barren?</itunes:summary>
+      <pubDate>Fri, 13 Sep 2019 12:00:00 EDT</pubDate>
+      <itunes:duration>00:54:11</itunes:duration>
+      <itunes:explicit>No</itunes:explicit>
+      <enclosure url="http://cbc.mc.tritondigital.com/CBC_QUIRKSAIO_P/media/quirksaio-HwCZapgL-20190913.mp3" length="52244794"
+        type="audio/mpeg" />
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <guid>quirksaio-74c800cb-f128-4ff1-afe8-e913083304d7</guid>
+      <title>Quirks &amp; Quarks ‘science in the field’ special — the summer adventures of scientists working in exotic and remote locations</title>
+      <description>Dodging venomous vipers and plant poachers to study how climate change impacts insects; Searching for dinosaurs in BC’s rockies — and finding grizzly bears instead; When the desert doesn’t bloom fake flowers are a scientist’s solution; A moment of distraction leads to near disaster while studying insects in a tropical paradise; Projectile vomiting birds are among the challenges in studying arctic lakes.</description>
+      <itunes:subtitle>Dodging venomous vipers and plant poachers to study how climate change impacts insects; Searching for dinosaurs in BC’s rockies — and finding grizzly bears instead; When the desert doesn’t bloom fake flowers are a scientist’s solution; A moment of distraction leads to near disaster while studying insects in a tropical paradise; Projectile vomiting birds are among the challenges in studying arctic lakes.</itunes:subtitle>
+      <itunes:summary>Dodging venomous vipers and plant poachers to study how climate change impacts insects; Searching for dinosaurs in BC’s rockies — and finding grizzly bears instead; When the desert doesn’t bloom fake flowers are a scientist’s solution; A moment of distraction leads to near disaster while studying insects in a tropical paradise; Projectile vomiting birds are among the challenges in studying arctic lakes.</itunes:summary>
+      <pubDate>Fri, 06 Sep 2019 12:00:00 EDT</pubDate>
+      <itunes:duration>00:54:11</itunes:duration>
+      <itunes:explicit>No</itunes:explicit>
+      <enclosure url="http://cbc.mc.tritondigital.com/CBC_QUIRKSAIO_P/media/quirksaio-sW2lCchU-20190906.mp3" length="52243613"
+        type="audio/mpeg" />
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <guid>quirksaio-6c50c460-fdb5-4526-9205-fbb1faea837c</guid>
+      <title>Quirks &amp; Quarks is on hiatus. There will no more podcasts until September</title>
+      <description>Check back for our new season September on 7.  Enjoy your summer</description>
+      <itunes:subtitle>Check back for our new season September on 7.  Enjoy your summer</itunes:subtitle>
+      <itunes:summary>Check back for our new season September on 7.  Enjoy your summer</itunes:summary>
+      <pubDate>Fri, 26 Jul 2019 12:00:00 EDT</pubDate>
+      <itunes:duration>00:00:51</itunes:duration>
+      <itunes:explicit>No</itunes:explicit>
+      <enclosure url="http://cbc.mc.tritondigital.com/CBC_QUIRKSAIO_P/media/quirksaio-BvT4rpvG-20190628.mp3" length="1012404"
+        type="audio/mpeg" />
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <guid>quirksaio-4cdfae8d-b8ce-4b9b-85af-e5e52b9c640b</guid>
+      <title>50 years ago we walked on the moon, and it transformed life on Earth</title>
+      <description>Quirks &amp; Quarks is celebrating the 50th anniversary of Armstrong and Aldrin putting the first human boot prints on the Moon. We’ve collected reminiscences and reflections from Canadian astronauts and from scientists across a diverse range of fields. They explain how the historic Apollo 11 landing inspired them and shaped the future that they’re continuing to create.</description>
+      <itunes:subtitle>Quirks &amp; Quarks is celebrating the 50th anniversary of Armstrong and Aldrin putting the first human boot prints on the Moon. We’ve collected reminiscences and reflections from Canadian astronauts and from scientists across a diverse range of fields. They explain how the historic Apollo 11 landing inspired them and shaped the future that they’re continuing to create.</itunes:subtitle>
+      <itunes:summary>Quirks &amp; Quarks is celebrating the 50th anniversary of Armstrong and Aldrin putting the first human boot prints on the Moon. We’ve collected reminiscences and reflections from Canadian astronauts and from scientists across a diverse range of fields. They explain how the historic Apollo 11 landing inspired them and shaped the future that they’re continuing to create.</itunes:summary>
+      <pubDate>Fri, 19 Jul 2019 12:00:00 EDT</pubDate>
+      <itunes:duration>00:54:10</itunes:duration>
+      <itunes:explicit>No</itunes:explicit>
+      <enclosure url="http://cbc.mc.tritondigital.com/CBC_QUIRKSAIO_P/media/quirksaio-DWtToPDc-20190628.mp3" length="52185822"
+        type="audio/mpeg" />
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <guid>quirksaio-17892d8b-9365-4332-a1ff-3ac5ea379f24</guid>
+      <title>Quirks &amp; Quarks is on hiatus. There will be no podcasts until our July 20th Apollo 11 anniversary special</title>
+      <description>We&apos;re taking a little summer break, but check back for a new program celebrating the 50th anniversary of the moon landing on July 20.</description>
+      <itunes:subtitle>We&apos;re taking a little summer break, but check back for a new program celebrating the 50th anniversary of the moon landing on July 20.</itunes:subtitle>
+      <itunes:summary>We&apos;re taking a little summer break, but check back for a new program celebrating the 50th anniversary of the moon landing on July 20.</itunes:summary>
+      <pubDate>Fri, 28 Jun 2019 12:00:00 EDT</pubDate>
+      <itunes:duration>00:00:59</itunes:duration>
+      <itunes:explicit>No</itunes:explicit>
+      <enclosure url="http://cbc.mc.tritondigital.com/CBC_QUIRKSAIO_P/media/quirksaio-1J3768JL-20190628.mp3" length="1142490"
+        type="audio/mpeg" />
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <guid>quirksaio-c990df61-bb1e-4321-b914-22f84ae986a4</guid>
+      <title>Is your Wi-Fi watching you? Dog’s manipulative eyebrows, Darwin’s finches in danger, An AI learns numbers, genetics of smell, bonobo wing-mums, sponge scientists and electric car questions</title>
+      <description>Your Wi-Fi router could be used to watch you breathe and monitor your heartbeat; We’ve bred dogs to have expressive eyebrows that manipulate our emotions; A face-eating parasite is devastating Darwin’s famous Galapagos finches; AI is now learning to do things it hasn’t been taught; Do your genes smell bad? DNA shows what our noses know; Bonobo mothers act as wing-mums for their sons; A research assistant named Spongebob? Sea sponges collect data for science; Do electric car batteries take more CO2 to make than they save?</description>
+      <itunes:subtitle>Your Wi-Fi router could be used to watch you breathe and monitor your heartbeat; We’ve bred dogs to have expressive eyebrows that manipulate our emotions; A face-eating parasite is devastating Darwin’s famous Galapagos finches; AI is now learning to do things it hasn’t been taught; Do your genes smell bad? DNA shows what our noses know; Bonobo mothers act as wing-mums for their sons; A research assistant named Spongebob? Sea sponges collect data for science; Do electric car batteries take more CO2 to make than they save?</itunes:subtitle>
+      <itunes:summary>Your Wi-Fi router could be used to watch you breathe and monitor your heartbeat; We’ve bred dogs to have expressive eyebrows that manipulate our emotions; A face-eating parasite is devastating Darwin’s famous Galapagos finches; AI is now learning to do things it hasn’t been taught; Do your genes smell bad? DNA shows what our noses know; Bonobo mothers act as wing-mums for their sons; A research assistant named Spongebob? Sea sponges collect data for science; Do electric car batteries take more CO2 to make than they save?</itunes:summary>
+      <pubDate>Fri, 21 Jun 2019 12:00:00 EDT</pubDate>
+      <itunes:duration>01:09:49</itunes:duration>
+      <itunes:explicit>No</itunes:explicit>
+      <enclosure url="http://cbc.mc.tritondigital.com/CBC_QUIRKSAIO_P/media/quirksaio-8GKSHpEn-20190621.mp3" length="67220106"
+        type="audio/mpeg" />
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <guid>quirksaio-1bfb9350-8a14-4320-8307-324f81c66139</guid>
+      <title>Should we have humans in space? A Quirks &amp; Quarks public debate</title>
+      <description>In our first ever Quirks &amp; Quarks public debate, recorded live in Toronto, astronaut Chris Hadfield, cosmologist Renée Hložek, planetary scientist Marianne Mader and space flight historian Amy Shira Teitel weigh in on whether we should leave space to the robots.  An extended podcast edition includes Q&amp;A segments not in the radio broadcast.</description>
+      <itunes:subtitle>In our first ever Quirks &amp; Quarks public debate, recorded live in Toronto, astronaut Chris Hadfield, cosmologist Renée Hložek, planetary scientist Marianne Mader and space flight historian Amy Shira Teitel weigh in on whether we should leave space to the robots.  An extended podcast edition includes Q&amp;A segments not in the radio broadcast.</itunes:subtitle>
+      <itunes:summary>In our first ever Quirks &amp; Quarks public debate, recorded live in Toronto, astronaut Chris Hadfield, cosmologist Renée Hložek, planetary scientist Marianne Mader and space flight historian Amy Shira Teitel weigh in on whether we should leave space to the robots.  An extended podcast edition includes Q&amp;A segments not in the radio broadcast.</itunes:summary>
+      <pubDate>Fri, 14 Jun 2019 12:00:00 EDT</pubDate>
+      <itunes:duration>01:06:03</itunes:duration>
+      <itunes:explicit>No</itunes:explicit>
+      <enclosure url="http://cbc.mc.tritondigital.com/CBC_QUIRKSAIO_P/media/quirksaio-xAhnTFg1-20190614.mp3" length="63597424"
+        type="audio/mpeg" />
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <guid>quirksaio-410da8ac-7c2a-405a-b75f-3f6f776eccdd</guid>
+      <title>A diet of microplastic, Canada&apos;s northern limits, elephants smell numbers, depression genetics, magnetic therapy for concussion and aurorae on other planets.</title>
+      <description>We&apos;re consuming a lot of plastic and have no idea of the risks; Canada is using science to lay claim to the North Pole; The elephant&apos;s mathematical trunk can smell numbers; Depressing conclusion as new research reverses 25 years of research; Concussion symptoms reversed in mice using magnetic therapy; Do auroras occur on other planets and moons?</description>
+      <itunes:subtitle>We&apos;re consuming a lot of plastic and have no idea of the risks; Canada is using science to lay claim to the North Pole; The elephant&apos;s mathematical trunk can smell numbers; Depressing conclusion as new research reverses 25 years of research; Concussion symptoms reversed in mice using magnetic therapy; Do auroras occur on other planets and moons?</itunes:subtitle>
+      <itunes:summary>We&apos;re consuming a lot of plastic and have no idea of the risks; Canada is using science to lay claim to the North Pole; The elephant&apos;s mathematical trunk can smell numbers; Depressing conclusion as new research reverses 25 years of research; Concussion symptoms reversed in mice using magnetic therapy; Do auroras occur on other planets and moons?</itunes:summary>
+      <pubDate>Fri, 07 Jun 2019 12:00:00 EDT</pubDate>
+      <itunes:duration>00:54:28</itunes:duration>
+      <itunes:explicit>No</itunes:explicit>
+      <enclosure url="http://cbc.mc.tritondigital.com/CBC_QUIRKSAIO_P/media/quirksaio-sLxjzLwz-20190607.mp3" length="52481556"
+        type="audio/mpeg" />
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <guid>quirksaio-3101eb39-f88d-4a01-a7e0-a6ff77d57b65</guid>
+      <title>The benefits of video games, composting corpses, brewing ancient beer, right whales in the wrong place and supernovas and bipedalism</title>
+      <description>Video games aren&apos;t corrupting young minds - they may be building them; Don&apos;t bury or cremate - soon you may compost your corpse; Drink like an Egyptian - 5000 year old yeast is resurrected to brew ancient beer; Right whales were in the wrong place because of the wrong climate; Did our ancestors evolve to walk upright because of supernovae?</description>
+      <itunes:subtitle>Video games aren&apos;t corrupting young minds - they may be building them; Don&apos;t bury or cremate - soon you may compost your corpse; Drink like an Egyptian - 5000 year old yeast is resurrected to brew ancient beer; Right whales were in the wrong place because of the wrong climate; Did our ancestors evolve to walk upright because of supernovae?</itunes:subtitle>
+      <itunes:summary>Video games aren&apos;t corrupting young minds - they may be building them; Don&apos;t bury or cremate - soon you may compost your corpse; Drink like an Egyptian - 5000 year old yeast is resurrected to brew ancient beer; Right whales were in the wrong place because of the wrong climate; Did our ancestors evolve to walk upright because of supernovae?</itunes:summary>
+      <pubDate>Fri, 31 May 2019 12:00:00 EDT</pubDate>
+      <itunes:duration>00:54:29</itunes:duration>
+      <itunes:explicit>No</itunes:explicit>
+      <enclosure url="http://cbc.mc.tritondigital.com/CBC_QUIRKSAIO_P/media/quirksaio-VKJZ7YUF-20190531.mp3" length="52495317"
+        type="audio/mpeg" />
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <guid>quirksaio-a364b7ce-3196-4905-8185-aa1a9e7cd303</guid>
+      <title>Sharks on a bird diet, fossils of fungus, &apos;lifelike&apos; machines, giant beaver extinction, the beauty of calculus and oil spill dispersants</title>
+      <description>Flying food for fish? Tiger sharks are somehow eating songbirds; Fungus fossils shows the complexity of Earth&apos;s life a billion-years-ago; Scientists create robot-like biomaterial with key traits of life; Ancient beavers as big as bears died out because of their woodless diet; No, really, calculus can be beautiful and this mathematician will tell us why; What happens to oil spills after dispersant is used?</description>
+      <itunes:subtitle>Flying food for fish? Tiger sharks are somehow eating songbirds; Fungus fossils shows the complexity of Earth&apos;s life a billion-years-ago; Scientists create robot-like biomaterial with key traits of life; Ancient beavers as big as bears died out because of their woodless diet; No, really, calculus can be beautiful and this mathematician will tell us why; What happens to oil spills after dispersant is used?</itunes:subtitle>
+      <itunes:summary>Flying food for fish? Tiger sharks are somehow eating songbirds; Fungus fossils shows the complexity of Earth&apos;s life a billion-years-ago; Scientists create robot-like biomaterial with key traits of life; Ancient beavers as big as bears died out because of their woodless diet; No, really, calculus can be beautiful and this mathematician will tell us why; What happens to oil spills after dispersant is used?</itunes:summary>
+      <pubDate>Fri, 24 May 2019 12:00:00 EDT</pubDate>
+      <itunes:duration>00:54:39</itunes:duration>
+      <itunes:explicit>No</itunes:explicit>
+      <enclosure url="http://cbc.mc.tritondigital.com/CBC_QUIRKSAIO_P/media/quirksaio-HDAGWsoD-20190524.mp3" length="52653795"
+        type="audio/mpeg" />
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+  </channel>
+</rss>
