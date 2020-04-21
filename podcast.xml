@@ -30,9 +30,9 @@ xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
 <guid isPermaLink="false">https://raw.githubusercontent.com/komting98/pdgw/master/catatan</guid>
 <description><![CDATA[by : Iron Maiden2 Minutes To Midnight (Official Video)]]></description>
 <wfw:commentRss>https://raw.githubusercontent.com/komting98/pdgw/master/catatan</wfw:commentRss>
-<slash:comments>0</slash:comments>
+<slash:comments>slash</slash:comments>
 <enclosure url="https://archive.org/download/hanicantik/01.mp3" length="1048576" type="audio/mpeg" />
-<itunes:summary>0</itunes:summary>
+<itunes:summary>2 Minutes To Midnight Summary</itunes:summary>
 <itunes:subtitle>Iron Maiden</itunes:subtitle>
 </item>
 
