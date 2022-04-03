@@ -28,28 +28,6319 @@ xmlns:georss="http://www.georss.org/georss" xmlns:geo="http://www.w3.org/2003/01
 	<height>32</height>
 </image> 
 <site xmlns="com-wordpress:feed-additions:1">65950383</site>
-<item>
-		<title>Cara Download</title>
-		<pubDate>Fri, 02 Aug 2018 11:10:57 +0000</pubDate>
-		<guid isPermaLink="false">https://jimater.blogspot.com/?p=5087</guid>
-		<description><![CDATA[Untuk melihat update anda bisa melakukan reload playlist dengan menyentuh tombol &quot;<strong>Refresh</strong>&quot;.</p>
-<p style="text-align: center;"><img alt="" src="https://1.bp.blogspot.com/-tYdpJ2pN9yY/XV6eOzX8KgI/AAAAAAAAABA/0qCjZ2lvsLUyqO-AsMfTom9lgx9ZMNrnACLcBGAs/s1600/content_refresh.png" alt="" data-recalc-dims="1"/></p>
-<strong>Cara download dan dengarkan cerita secara offline&nbsp;</strong>:</p>
-<ul>
-	<li>Tekan dan tahan salah satu cerita.</li>
-</ul>
-<p style="text-align: center;"><img alt="" src="https://1.bp.blogspot.com/-CDiMEXSsh8c/XV6eOD_9VkI/AAAAAAAAAA4/lqKvtPUdZxUWNsZslI2FY0PYZzZSsRGYQCLcBGAs/s1600/content_1.png"  alt="" data-recalc-dims="1"/></p>
-<ul>
-	<li>Pilih &quot;<strong>Set as ringtone</strong>&quot;.</li>
-</ul>
-<p style="text-align: center;"><img alt="" src="https://1.bp.blogspot.com/-2tcelCf17ao/XV6eOFtWZ8I/AAAAAAAAAA8/6hvdHl19b_IHo1k1qpDwaORUhwCwSTpWACLcBGAs/s1600/content_2.png" alt="" data-recalc-dims="1"/></p>
-<ul>
-	<li>Hasil download akan disimpan di folder &quot;<strong>Ringtones</strong>&quot;.</li>
-</ul>
-<p style="text-align: center;"><img alt="" src="https://1.bp.blogspot.com/-6XOHeQ80PrU/XV6eOJiY5ZI/AAAAAAAAAA0/hIQrkeC7-yUvJ53zLr_fuG4xu53PRLCjACLcBGAs/s1600/content_3.png" alt="" data-recalc-dims="1"/></p>
-<br/><div class="right">
-
-]]></description>
-</item>	
+<files>
+<file name="001.afpk" source="derivative">
+<format>Columbia Peaks</format>
+<original>001.mp3</original>
+<mtime>1575476513</mtime>
+<size>9232</size>
+<md5>f73bff8fd780c00c3a8b278adf3a12a3</md5>
+<crc32>3ba8142b</crc32>
+<sha1>579d2dc8be18ba0efe065dba3548e1315288d141</sha1>
+</file>
+<file name="001.mp3" source="original">
+<mtime>1575454841</mtime>
+<size>100024</size>
+<md5>cf7d58cd948aea83b19d3d23f39fa13c</md5>
+<crc32>d85d22d1</crc32>
+<sha1>680d4f73a8b379b740550c13344d04cd92ffd2f6</sha1>
+<format>VBR MP3</format>
+<length>48.99</length>
+<height>0</height>
+<width>0</width>
+<title/>
+<creator/>
+<album/>
+<track>01</track>
+</file>
+<file name="001.ogg" source="derivative">
+<format>Ogg Vorbis</format>
+<original>001.mp3</original>
+<mtime>1575472707</mtime>
+<size>151153</size>
+<md5>cab7dd116a691486da9c030608960f6c</md5>
+<crc32>454969e7</crc32>
+<sha1>0eeee088cb3a2bdfacc90d9beb258d9534589a27</sha1>
+<length>48.92</length>
+<height>0</height>
+<width>0</width>
+</file>
+<file name="001.png" source="derivative">
+<format>PNG</format>
+<original>001.mp3</original>
+<mtime>1575474892</mtime>
+<size>32449</size>
+<md5>8635f6a99c0f2e5cfb4bca5fcc51c962</md5>
+<crc32>47ceefe9</crc32>
+<sha1>44092d31d6160115fff2a79dfe2b71f7afbe3461</sha1>
+</file>
+<file name="001_spectrogram.png" source="derivative">
+<format>Spectrogram</format>
+<original>001.mp3</original>
+<mtime>1575475612</mtime>
+<size>183958</size>
+<md5>44450858399ce7dd63126a77c47830e7</md5>
+<crc32>51214735</crc32>
+<sha1>12e30faf947a68cf8a293ad11de6ee8be0ebc6a8</sha1>
+</file>
+<file name="002.afpk" source="derivative">
+<format>Columbia Peaks</format>
+<original>002.mp3</original>
+<mtime>1575478608</mtime>
+<size>1394408</size>
+<md5>2b754addbe9acb0a718f9241f2d6f2a6</md5>
+<crc32>96fe0dd6</crc32>
+<sha1>f5257e3816df525a9dc71b81cc07eea8614e40ee</sha1>
+</file>
+<file name="002.mp3" source="original">
+<mtime>1575454938</mtime>
+<size>15881272</size>
+<md5>d16bdb145986da9419503e1e3707cd0a</md5>
+<crc32>760bb426</crc32>
+<sha1>0aaebdff1a37fb1b152aacf540f77f318eba007b</sha1>
+<format>VBR MP3</format>
+<length>7939.61</length>
+<height>0</height>
+<width>0</width>
+<title/>
+<creator/>
+<album/>
+<track>02</track>
+</file>
+<file name="002.ogg" source="derivative">
+<format>Ogg Vorbis</format>
+<original>002.mp3</original>
+<mtime>1575474325</mtime>
+<size>25474240</size>
+<md5>0d42cbe1f86600abf5895f57d3e9a70c</md5>
+<crc32>098cf381</crc32>
+<sha1>4b5b40941c06717ba774cea4fadb7d49c45bb2d6</sha1>
+<length>7939.55</length>
+<height>0</height>
+<width>0</width>
+</file>
+<file name="002.png" source="derivative">
+<format>PNG</format>
+<original>002.mp3</original>
+<mtime>1575475184</mtime>
+<size>33922</size>
+<md5>0fd62a8cff35332cc2ca2f6fb5ee9144</md5>
+<crc32>a166b652</crc32>
+<sha1>5d5b8b3b5795c239d301ceae46b17dbfd9aab514</sha1>
+</file>
+<file name="002_spectrogram.png" source="derivative">
+<format>Spectrogram</format>
+<original>002.mp3</original>
+<mtime>1575475633</mtime>
+<size>183353</size>
+<md5>e253445a60d3e6800602b25940863add</md5>
+<crc32>7ac31069</crc32>
+<sha1>31cf326b956a35209a581e2d2b553cecd7d36742</sha1>
+</file>
+<file name="003.afpk" source="derivative">
+<format>Columbia Peaks</format>
+<original>003.mp3</original>
+<mtime>1575478342</mtime>
+<size>759672</size>
+<md5>7b7dce9b823c5824d9f8ce14b9df1f0d</md5>
+<crc32>823f7bea</crc32>
+<sha1>d0303bf31224d0df70c3c71bdb08757c3e37c667</sha1>
+</file>
+<file name="003.mp3" source="original">
+<mtime>1575454995</mtime>
+<size>9125584</size>
+<md5>8a69b65f9ebcf8400d1bfa563c8be930</md5>
+<crc32>b1f59256</crc32>
+<sha1>66977595e6fb00994ae4f97848b94763a3ac2d8f</sha1>
+<format>VBR MP3</format>
+<length>4561.77</length>
+<height>0</height>
+<width>0</width>
+<title/>
+<creator/>
+<album/>
+<track>03</track>
+</file>
+<file name="003.ogg" source="derivative">
+<format>Ogg Vorbis</format>
+<original>003.mp3</original>
+<mtime>1575474181</mtime>
+<size>15000484</size>
+<md5>13ca5872b1f06669b71a8efc46808f67</md5>
+<crc32>1b2959b1</crc32>
+<sha1>4569bc1aa60988cbc1743f490ae57c888b2b99d9</sha1>
+<length>4561.7</length>
+<height>0</height>
+<width>0</width>
+</file>
+<file name="003.png" source="derivative">
+<format>PNG</format>
+<original>003.mp3</original>
+<mtime>1575474886</mtime>
+<size>33128</size>
+<md5>2cb3fd5742693c9fb21cff31aa2e7439</md5>
+<crc32>5852f3da</crc32>
+<sha1>001882bcd342523f2a0ef20959a6dfa612cd695d</sha1>
+</file>
+<file name="003_spectrogram.png" source="derivative">
+<format>Spectrogram</format>
+<original>003.mp3</original>
+<mtime>1575475594</mtime>
+<size>176450</size>
+<md5>2a8d251bb60a6ee3ccd459e86c705afc</md5>
+<crc32>9fd95fa1</crc32>
+<sha1>427b2ac1931ff13262b773ae9268e07568caf68a</sha1>
+</file>
+<file name="004.afpk" source="derivative">
+<format>Columbia Peaks</format>
+<original>004.mp3</original>
+<mtime>1575478185</mtime>
+<size>884880</size>
+<md5>dcc8bfa2445ec34bb60a3f9c0fc5285a</md5>
+<crc32>c3bde8ce</crc32>
+<sha1>e4871a2f16edbded7bf03b9193ef8b501b260d96</sha1>
+</file>
+<file name="004.mp3" source="original">
+<mtime>1575455013</mtime>
+<size>10202848</size>
+<md5>88c1e7f80e0712226988b3ef3f0b0382</md5>
+<crc32>3c740f75</crc32>
+<sha1>7f97e7370400104be170d939601d4a93bf618007</sha1>
+<format>VBR MP3</format>
+<length>5100.4</length>
+<height>0</height>
+<width>0</width>
+<title/>
+<creator/>
+<album/>
+<track>04</track>
+</file>
+<file name="004.ogg" source="derivative">
+<format>Ogg Vorbis</format>
+<original>004.mp3</original>
+<mtime>1575474099</mtime>
+<size>17289895</size>
+<md5>1217c703d7e83238ffed77f186a3138f</md5>
+<crc32>549810f3</crc32>
+<sha1>1f1653791b605761e67da5343ddbf3cc30762970</sha1>
+<length>5100.34</length>
+<height>0</height>
+<width>0</width>
+</file>
+<file name="004.png" source="derivative">
+<format>PNG</format>
+<original>004.mp3</original>
+<mtime>1575474915</mtime>
+<size>34087</size>
+<md5>1234eb4d06c192d18415f7d2219cb689</md5>
+<crc32>0f20eec6</crc32>
+<sha1>f9d8cd38b91538a9c952ccf99e82387d62a20c69</sha1>
+</file>
+<file name="004_spectrogram.png" source="derivative">
+<format>Spectrogram</format>
+<original>004.mp3</original>
+<mtime>1575475682</mtime>
+<size>175974</size>
+<md5>bdf34699496f44bdae1188ddd7021e7e</md5>
+<crc32>285decba</crc32>
+<sha1>6e3d5f8ead1bd13a5665e2d27690300911184e1d</sha1>
+</file>
+<file name="005.afpk" source="derivative">
+<format>Columbia Peaks</format>
+<original>005.mp3</original>
+<mtime>1575477984</mtime>
+<size>669584</size>
+<md5>30b80f78aeba57f19cd1558d357db23a</md5>
+<crc32>03a196fc</crc32>
+<sha1>0b867d3195f830a217f69ddcbadc1b21d087140d</sha1>
+</file>
+<file name="005.mp3" source="original">
+<mtime>1575455050</mtime>
+<size>7600480</size>
+<md5>a431e938bcf8ed5a4929670821e904ad</md5>
+<crc32>c91f7b53</crc32>
+<sha1>95a12e9e058481a72b2a0db140b11d48e7c0b31d</sha1>
+<format>VBR MP3</format>
+<length>3799.22</length>
+<height>0</height>
+<width>0</width>
+<title/>
+<creator/>
+<album/>
+<track>05</track>
+</file>
+<file name="005.ogg" source="derivative">
+<format>Ogg Vorbis</format>
+<original>005.mp3</original>
+<mtime>1575473652</mtime>
+<size>12605683</size>
+<md5>b40de24c3e5f3e1c2eb29b2551f3b516</md5>
+<crc32>b23351c3</crc32>
+<sha1>9b09a7b47ee3b141a5fa3ac230ed1022793cd576</sha1>
+<length>3799.15</length>
+<height>0</height>
+<width>0</width>
+</file>
+<file name="005.png" source="derivative">
+<format>PNG</format>
+<original>005.mp3</original>
+<mtime>1575474933</mtime>
+<size>35316</size>
+<md5>2e50f29601cf6bac187dcc365d7074f2</md5>
+<crc32>557142f2</crc32>
+<sha1>d5ce45072c5d96831979bb451bef58c26b8f49c6</sha1>
+</file>
+<file name="005_spectrogram.png" source="derivative">
+<format>Spectrogram</format>
+<original>005.mp3</original>
+<mtime>1575475582</mtime>
+<size>175356</size>
+<md5>f6cdc5d6138605d1e8f0e9006df4c533</md5>
+<crc32>13432d13</crc32>
+<sha1>30145340d8c486ab01f05f13b1b78f33624db73e</sha1>
+</file>
+<file name="006.afpk" source="derivative">
+<format>Columbia Peaks</format>
+<original>006.mp3</original>
+<mtime>1575477851</mtime>
+<size>756624</size>
+<md5>448a0adac06a3e073eff9e24213476b1</md5>
+<crc32>c45096a2</crc32>
+<sha1>c7927e4726803620a224f047ea869fcb9a88e28c</sha1>
+</file>
+<file name="006.mp3" source="original">
+<mtime>1575455090</mtime>
+<size>8572048</size>
+<md5>a43294a62d54a8e398cff94e7f40ec78</md5>
+<crc32>59782ca7</crc32>
+<sha1>6461cef23a144558e1709edb97fef3a299459b75</sha1>
+<format>VBR MP3</format>
+<length>4285</length>
+<height>0</height>
+<width>0</width>
+<title/>
+<creator/>
+<album/>
+<track>06</track>
+</file>
+<file name="006.ogg" source="derivative">
+<format>Ogg Vorbis</format>
+<original>006.mp3</original>
+<mtime>1575474009</mtime>
+<size>14684534</size>
+<md5>f471801bcbc5c2c8e47cf5df184cc64a</md5>
+<crc32>9a20ddde</crc32>
+<sha1>98fed2c8ba2b196cb93a93443c927862885eb53a</sha1>
+<length>4284.94</length>
+<height>0</height>
+<width>0</width>
+</file>
+<file name="006.png" source="derivative">
+<format>PNG</format>
+<original>006.mp3</original>
+<mtime>1575474955</mtime>
+<size>35216</size>
+<md5>0120220939d92fe14e09ff3533401ca7</md5>
+<crc32>01f876c0</crc32>
+<sha1>72bd411cf4c67d5ab8172d1de1250d4bd55acca8</sha1>
+</file>
+<file name="006_spectrogram.png" source="derivative">
+<format>Spectrogram</format>
+<original>006.mp3</original>
+<mtime>1575475831</mtime>
+<size>174942</size>
+<md5>b7e890654c358fa277ba43a6b72b6161</md5>
+<crc32>df7f4624</crc32>
+<sha1>6e4f4fe6ffd8baf7a6602a486ea0fac586fcbd84</sha1>
+</file>
+<file name="007.afpk" source="derivative">
+<format>Columbia Peaks</format>
+<original>007.mp3</original>
+<mtime>1575477690</mtime>
+<size>764488</size>
+<md5>8f490f1238fd45dc85379d46fbe8b2ea</md5>
+<crc32>cab66de7</crc32>
+<sha1>c7c625f4d6d4427b56769a31c84cc4439e994ff6</sha1>
+</file>
+<file name="007.mp3" source="original">
+<mtime>1575455127</mtime>
+<size>8807632</size>
+<md5>8593fede650cf5ca86ae799d4699a38d</md5>
+<crc32>68e612d4</crc32>
+<sha1>d29d35eb38ed7b4efd310ca116fa9f25630df40f</sha1>
+<format>VBR MP3</format>
+<length>4402.79</length>
+<height>0</height>
+<width>0</width>
+<title/>
+<creator/>
+<album/>
+<track>07</track>
+</file>
+<file name="007.ogg" source="derivative">
+<format>Ogg Vorbis</format>
+<original>007.mp3</original>
+<mtime>1575473911</mtime>
+<size>15094673</size>
+<md5>980faf520b8314da585b8bf1639c05c1</md5>
+<crc32>df0c9627</crc32>
+<sha1>d9782ec852c083a26cedaf0976ba688860308857</sha1>
+<length>4402.73</length>
+<height>0</height>
+<width>0</width>
+</file>
+<file name="007.png" source="derivative">
+<format>PNG</format>
+<original>007.mp3</original>
+<mtime>1575474982</mtime>
+<size>33151</size>
+<md5>0539c15f95329f2f1b9efb46b9f09f54</md5>
+<crc32>feb7e7cf</crc32>
+<sha1>1216adf449e75b67693a42a89ab86dcefe3ba0c4</sha1>
+</file>
+<file name="007_spectrogram.png" source="derivative">
+<format>Spectrogram</format>
+<original>007.mp3</original>
+<mtime>1575475902</mtime>
+<size>176910</size>
+<md5>3db0b16a0db7ea58c8b3df3484208fb7</md5>
+<crc32>9745137f</crc32>
+<sha1>d9b3cf02a4e5913949e40d6d37a659fd1806ea43</sha1>
+</file>
+<file name="008.afpk" source="derivative">
+<format>Columbia Peaks</format>
+<original>008.mp3</original>
+<mtime>1575478014</mtime>
+<size>260608</size>
+<md5>638cd6f25dfb250021f3f57ee238a81e</md5>
+<crc32>828467e0</crc32>
+<sha1>8b1a49f0cbff369094e8726e260c6d0cac5645f7</sha1>
+</file>
+<file name="008.mp3" source="original">
+<mtime>1575455199</mtime>
+<size>3171616</size>
+<md5>00fe90f0adbbeb7c651ae72dd544654a</md5>
+<crc32>351ac9ea</crc32>
+<sha1>7893ca8be53ae0d7594d05e60b769a4c754d4e79</sha1>
+<format>VBR MP3</format>
+<length>1584.78</length>
+<height>0</height>
+<width>0</width>
+<title/>
+<creator/>
+<album/>
+<track>08</track>
+</file>
+<file name="008.ogg" source="derivative">
+<format>Ogg Vorbis</format>
+<original>008.mp3</original>
+<mtime>1575474356</mtime>
+<size>5345843</size>
+<md5>29c6da5d996ae6101444569baac4907e</md5>
+<crc32>ce153533</crc32>
+<sha1>395f0097fb2275159ba6eed3d02780042111ce5a</sha1>
+<length>1584.72</length>
+<height>0</height>
+<width>0</width>
+</file>
+<file name="008.png" source="derivative">
+<format>PNG</format>
+<original>008.mp3</original>
+<mtime>1575474900</mtime>
+<size>35816</size>
+<md5>0beb500d1204ba1235b2d4a1e4e59a01</md5>
+<crc32>a3e2e67a</crc32>
+<sha1>922c196ab31a67d2fc364c4c13131091f565126f</sha1>
+</file>
+<file name="008_spectrogram.png" source="derivative">
+<format>Spectrogram</format>
+<original>008.mp3</original>
+<mtime>1575475878</mtime>
+<size>183997</size>
+<md5>47f4a9ef7cd10a4a79b4a4813ae2dedf</md5>
+<crc32>bbf2ffb9</crc32>
+<sha1>54f9ab89e29b4dd0b56e94b5b325d7129669e606</sha1>
+</file>
+<file name="009.afpk" source="derivative">
+<format>Columbia Peaks</format>
+<original>009.mp3</original>
+<mtime>1575476796</mtime>
+<size>494848</size>
+<md5>11552c924889f8b0943dfe8fc7df4870</md5>
+<crc32>3393c695</crc32>
+<sha1>86b489b27965bc0378d1a9a73a3576c0d927ab61</sha1>
+</file>
+<file name="009.mp3" source="original">
+<mtime>1575455230</mtime>
+<size>6220528</size>
+<md5>d17a84545f4a9ac1b9ce782cc6faef6f</md5>
+<crc32>a079b29c</crc32>
+<sha1>97c4939c254930084285a171024da0cffda448e9</sha1>
+<format>VBR MP3</format>
+<length>3109.24</length>
+<height>0</height>
+<width>0</width>
+<title/>
+<creator/>
+<album/>
+<track>09</track>
+</file>
+<file name="009.ogg" source="derivative">
+<format>Ogg Vorbis</format>
+<original>009.mp3</original>
+<mtime>1575473552</mtime>
+<size>10480942</size>
+<md5>7859282a572eca4c4cd54e63e153912a</md5>
+<crc32>5784beaf</crc32>
+<sha1>983686e986db0aa4b416e416c1f0f0998d427f7d</sha1>
+<length>3109.18</length>
+<height>0</height>
+<width>0</width>
+</file>
+<file name="009.png" source="derivative">
+<format>PNG</format>
+<original>009.mp3</original>
+<mtime>1575474846</mtime>
+<size>33214</size>
+<md5>67e63a051a0196d8c7522ba2bfea309a</md5>
+<crc32>a16eed1b</crc32>
+<sha1>799e9d98e4b658d3836344b71d2a8a681b84dc15</sha1>
+</file>
+<file name="009_spectrogram.png" source="derivative">
+<format>Spectrogram</format>
+<original>009.mp3</original>
+<mtime>1575475606</mtime>
+<size>177750</size>
+<md5>2390e7a0ac8b6fdd9c0567ae01af24ab</md5>
+<crc32>b1a56dbb</crc32>
+<sha1>22dcbd9b4828909e9b2772c669871973dbb4a09e</sha1>
+</file>
+<file name="010.afpk" source="derivative">
+<format>Columbia Peaks</format>
+<original>010.mp3</original>
+<mtime>1575476744</mtime>
+<size>379000</size>
+<md5>f21c5298b9b5e7014bf1c8473bd08d23</md5>
+<crc32>23b9e139</crc32>
+<sha1>c29db07ad3f70d4e8a8bbfd3aaa2fcd85bd9d435</sha1>
+</file>
+<file name="010.mp3" source="original">
+<mtime>1575455251</mtime>
+<size>4450552</size>
+<md5>7ff47e0e84b97c874ef816d94cf01446</md5>
+<crc32>7f42f863</crc32>
+<sha1>0248114c6675d436c4c531f1b4daa24553ef1587</sha1>
+<format>VBR MP3</format>
+<length>2224.25</length>
+<height>0</height>
+<width>0</width>
+<title/>
+<creator/>
+<album/>
+<track>10</track>
+</file>
+<file name="010.ogg" source="derivative">
+<format>Ogg Vorbis</format>
+<original>010.mp3</original>
+<mtime>1575473100</mtime>
+<size>7440885</size>
+<md5>57e9bbb0d2b6a312fe2e0ba9f16d9d79</md5>
+<crc32>1aad26cc</crc32>
+<sha1>1701734cad4d8b26560bb8617384884c9531e1dc</sha1>
+<length>2224.19</length>
+<height>0</height>
+<width>0</width>
+</file>
+<file name="010.png" source="derivative">
+<format>PNG</format>
+<original>010.mp3</original>
+<mtime>1575475065</mtime>
+<size>36981</size>
+<md5>bdd14c2f62bf50f81891098b2558bef4</md5>
+<crc32>fbf7af51</crc32>
+<sha1>33c00defa1619960ad9da8c0e062e5eff4c4ffc1</sha1>
+</file>
+<file name="010_spectrogram.png" source="derivative">
+<format>Spectrogram</format>
+<original>010.mp3</original>
+<mtime>1575475653</mtime>
+<size>179251</size>
+<md5>7d2485c7036ac7894cceb1aefc19880a</md5>
+<crc32>78b4665f</crc32>
+<sha1>79d316e1783cbdf6cecfad7a1b3a724eac1d6e8e</sha1>
+</file>
+<file name="011.afpk" source="derivative">
+<format>Columbia Peaks</format>
+<original>011.mp3</original>
+<mtime>1575476691</mtime>
+<size>431872</size>
+<md5>5e49e7128eba6fcf4208cb5cb6a3847e</md5>
+<crc32>f0087e7e</crc32>
+<sha1>693cafee315bd86d242dac3c0a18916f221ed6ae</sha1>
+</file>
+<file name="011.mp3" source="original">
+<mtime>1575455838</mtime>
+<size>5077672</size>
+<md5>6b2564f611107db3fa0e067cfaa56f58</md5>
+<crc32>b9323e99</crc32>
+<sha1>abca094eeccb0ec4ad6e6d29baead63bfa2a2c3b</sha1>
+<format>VBR MP3</format>
+<length>2537.81</length>
+<height>0</height>
+<width>0</width>
+<title/>
+<creator/>
+<album/>
+<track>11</track>
+</file>
+<file name="011.ogg" source="derivative">
+<format>Ogg Vorbis</format>
+<original>011.mp3</original>
+<mtime>1575473496</mtime>
+<size>8394789</size>
+<md5>8fc0ee450e17d7c32553948278fa0136</md5>
+<crc32>b47d9228</crc32>
+<sha1>d9077e5463ef64b45ed888556839a55021d2581e</sha1>
+<length>2537.75</length>
+<height>0</height>
+<width>0</width>
+</file>
+<file name="011.png" source="derivative">
+<format>PNG</format>
+<original>011.mp3</original>
+<mtime>1575475098</mtime>
+<size>33924</size>
+<md5>02e0aa92d2ef9d9b585a6028a8b0cc15</md5>
+<crc32>bf26bb9c</crc32>
+<sha1>0abcdc9e1813f092edfa42670203010a35beacd2</sha1>
+</file>
+<file name="011_spectrogram.png" source="derivative">
+<format>Spectrogram</format>
+<original>011.mp3</original>
+<mtime>1575475565</mtime>
+<size>182476</size>
+<md5>e62c7710a39693510682066157d9488f</md5>
+<crc32>73cc56fe</crc32>
+<sha1>6ababe48fd6650398d7f299a54506b65b4fad7a0</sha1>
+</file>
+<file name="012.afpk" source="derivative">
+<format>Columbia Peaks</format>
+<original>012.mp3</original>
+<mtime>1575477181</mtime>
+<size>366160</size>
+<md5>ba209823fb9e68181624d5fb6c21faf6</md5>
+<crc32>3a214c00</crc32>
+<sha1>85175e096eaaf259f2ef21f3e04fbe150e589fcd</sha1>
+</file>
+<file name="012.mp3" source="original">
+<mtime>1575455880</mtime>
+<size>4134472</size>
+<md5>cf0a6dce1b325b4b0fc16a3df161580f</md5>
+<crc32>40dc46f4</crc32>
+<sha1>648c06e1ed482b2e197a7173566f3e63272d474f</sha1>
+<format>VBR MP3</format>
+<length>2066.21</length>
+<height>0</height>
+<width>0</width>
+<title/>
+<creator/>
+<album/>
+<track>12</track>
+</file>
+<file name="012.ogg" source="derivative">
+<format>Ogg Vorbis</format>
+<original>012.mp3</original>
+<mtime>1575473282</mtime>
+<size>6823618</size>
+<md5>2ec095337a4b15e7073c2ae383638ddb</md5>
+<crc32>c73b7fa3</crc32>
+<sha1>a94a3e8b91bcf5e905801f4d3a0d03c9604d1007</sha1>
+<length>2066.15</length>
+<height>0</height>
+<width>0</width>
+</file>
+<file name="012.png" source="derivative">
+<format>PNG</format>
+<original>012.mp3</original>
+<mtime>1575474942</mtime>
+<size>38056</size>
+<md5>90f1239fc02e6a13dfc6e2dbf101cc14</md5>
+<crc32>2e820806</crc32>
+<sha1>9098abf92545d669fa291ba87218b583bf62414f</sha1>
+</file>
+<file name="012_spectrogram.png" source="derivative">
+<format>Spectrogram</format>
+<original>012.mp3</original>
+<mtime>1575475672</mtime>
+<size>182931</size>
+<md5>ab0067ba707f4a1db5ee892bb6d6df2d</md5>
+<crc32>9dc6159f</crc32>
+<sha1>91ed1182c75da430961b7c688b401dfe6a1a598e</sha1>
+</file>
+<file name="013.afpk" source="derivative">
+<format>Columbia Peaks</format>
+<original>013.mp3</original>
+<mtime>1575477203</mtime>
+<size>202136</size>
+<md5>a580ea5655708fc39c34071b0d3374ad</md5>
+<crc32>a7f61d87</crc32>
+<sha1>28210213c42df261cf6e72fb6ec73a248585cd8a</sha1>
+</file>
+<file name="013.mp3" source="original">
+<mtime>1575455897</mtime>
+<size>2243032</size>
+<md5>56a71122b1087fe8ff30fb6a0b7be815</md5>
+<crc32>796d5d48</crc32>
+<sha1>f429f3cfdb4e45e4ea413b8a78903f7f119d7da4</sha1>
+<format>VBR MP3</format>
+<length>1120.49</length>
+<height>0</height>
+<width>0</width>
+<title/>
+<creator/>
+<album/>
+<track>13</track>
+</file>
+<file name="013.ogg" source="derivative">
+<format>Ogg Vorbis</format>
+<original>013.mp3</original>
+<mtime>1575473931</mtime>
+<size>3741291</size>
+<md5>144ab6b2b9bbba840991eba7688765b5</md5>
+<crc32>f09b8069</crc32>
+<sha1>22f939ed59d318d900de400cf0398a3d26a1b1bf</sha1>
+<length>1120.43</length>
+<height>0</height>
+<width>0</width>
+</file>
+<file name="013.png" source="derivative">
+<format>PNG</format>
+<original>013.mp3</original>
+<mtime>1575475165</mtime>
+<size>39544</size>
+<md5>700ac57e569ef229b9477495e7de74ce</md5>
+<crc32>a48a954d</crc32>
+<sha1>5c49dce086467ebe163dfce7602e17f240b30749</sha1>
+</file>
+<file name="013_spectrogram.png" source="derivative">
+<format>Spectrogram</format>
+<original>013.mp3</original>
+<mtime>1575475908</mtime>
+<size>187889</size>
+<md5>0ed6a58adcc7ba9f78ddc82b0b8716f8</md5>
+<crc32>6a33f08f</crc32>
+<sha1>b423d5ecbdf9396a8586277bef56909b5bac669a</sha1>
+</file>
+<file name="014.afpk" source="derivative">
+<format>Columbia Peaks</format>
+<original>014.mp3</original>
+<mtime>1575478656</mtime>
+<size>199152</size>
+<md5>7f0043830648f87fabb3798145c0cb1b</md5>
+<crc32>3b77433e</crc32>
+<sha1>da64a26acbe71ed08bd41968101568f53af501e0</sha1>
+</file>
+<file name="014.mp3" source="original">
+<mtime>1575455903</mtime>
+<size>2321152</size>
+<md5>b58ed55278c2f03fd8d2facefe501df0</md5>
+<crc32>d0a66c46</crc32>
+<sha1>bf03b0250fd778b5e809349250950884f5e99d2c</sha1>
+<format>VBR MP3</format>
+<length>1159.55</length>
+<height>0</height>
+<width>0</width>
+<title/>
+<creator/>
+<album/>
+<track>14</track>
+</file>
+<file name="014.ogg" source="derivative">
+<format>Ogg Vorbis</format>
+<original>014.mp3</original>
+<mtime>1575474437</mtime>
+<size>3839008</size>
+<md5>04af06ffeb533242524b612cb9e405ec</md5>
+<crc32>ccee3a2b</crc32>
+<sha1>f5646cb0813ef10aa756e063a5f92e0eba40a9d3</sha1>
+<length>1159.49</length>
+<height>0</height>
+<width>0</width>
+</file>
+<file name="014.png" source="derivative">
+<format>PNG</format>
+<original>014.mp3</original>
+<mtime>1575474735</mtime>
+<size>38429</size>
+<md5>c7887fc165350aaf7a73b95155d5093f</md5>
+<crc32>d8d702b4</crc32>
+<sha1>891d979bcbdbbc7bb9b476a867da728cf1cd4be5</sha1>
+</file>
+<file name="014_spectrogram.png" source="derivative">
+<format>Spectrogram</format>
+<original>014.mp3</original>
+<mtime>1575475715</mtime>
+<size>185698</size>
+<md5>0bebf26f6e74250cad5dcf38bd8c2039</md5>
+<crc32>56c7dbd9</crc32>
+<sha1>d8ec8e6d814b612982010a7d67a08fec8bbb94cd</sha1>
+</file>
+<file name="015.afpk" source="derivative">
+<format>Columbia Peaks</format>
+<original>015.mp3</original>
+<mtime>1575478634</mtime>
+<size>149944</size>
+<md5>d3bfe8d48f9c2da9bf0607ac2d9031e9</md5>
+<crc32>050ff101</crc32>
+<sha1>64607acff678973e923521e0feea6f144ba38474</sha1>
+</file>
+<file name="015.mp3" source="original">
+<mtime>1575455908</mtime>
+<size>1753936</size>
+<md5>0fe8724d31102849a77a41d5935f780b</md5>
+<crc32>5342a08c</crc32>
+<sha1>31865fd895b4a43f7a523a6b0f6bc2b7c07c83a1</sha1>
+<format>VBR MP3</format>
+<length>875.94</length>
+<height>0</height>
+<width>0</width>
+<title/>
+<creator/>
+<album/>
+<track>15</track>
+</file>
+<file name="015.ogg" source="derivative">
+<format>Ogg Vorbis</format>
+<original>015.mp3</original>
+<mtime>1575474416</mtime>
+<size>2912722</size>
+<md5>93bdae93d43141c7b9ef829fa5ce7bf9</md5>
+<crc32>7f7f6b58</crc32>
+<sha1>1be11b9d6a4d21f849a8e08f836b2d3ff41bb292</sha1>
+<length>875.88</length>
+<height>0</height>
+<width>0</width>
+</file>
+<file name="015.png" source="derivative">
+<format>PNG</format>
+<original>015.mp3</original>
+<mtime>1575474968</mtime>
+<size>39305</size>
+<md5>81da06e2e183edbbf4f57d198963481b</md5>
+<crc32>5bf5ab8d</crc32>
+<sha1>969b71458d2a0e10ecec7da438a9eee68c85ff6a</sha1>
+</file>
+<file name="015_spectrogram.png" source="derivative">
+<format>Spectrogram</format>
+<original>015.mp3</original>
+<mtime>1575475708</mtime>
+<size>187427</size>
+<md5>2a19aa07fb860217efdb90d6f2732a24</md5>
+<crc32>3ab68cb1</crc32>
+<sha1>9ad4164324feafb474eeae321841676419767c3e</sha1>
+</file>
+<file name="016.afpk" source="derivative">
+<format>Columbia Peaks</format>
+<original>016.mp3</original>
+<mtime>1575477511</mtime>
+<size>434696</size>
+<md5>a9da47008903c5d9bb8533dba30d41fa</md5>
+<crc32>0a7b754c</crc32>
+<sha1>a87b8e2e5501d775d6cd08233ad4691e0985cff0</sha1>
+</file>
+<file name="016.mp3" source="original">
+<mtime>1575455967</mtime>
+<size>4732000</size>
+<md5>9714c9bffacf568765ea747e4c601ad5</md5>
+<crc32>533b867b</crc32>
+<sha1>ea3d03c60df78ebe2c368fb5887ad0df7c504905</sha1>
+<format>VBR MP3</format>
+<length>2364.98</length>
+<height>0</height>
+<width>0</width>
+<title/>
+<creator/>
+<album/>
+<track>16</track>
+</file>
+<file name="016.ogg" source="derivative">
+<format>Ogg Vorbis</format>
+<original>016.mp3</original>
+<mtime>1575474400</mtime>
+<size>7804424</size>
+<md5>adcc4591eb032af7e186f740dccce8b4</md5>
+<crc32>f62dda93</crc32>
+<sha1>94cfd942db496e8f49e9ff830968eb47d8b691fb</sha1>
+<length>2364.91</length>
+<height>0</height>
+<width>0</width>
+</file>
+<file name="016.png" source="derivative">
+<format>PNG</format>
+<original>016.mp3</original>
+<mtime>1575475087</mtime>
+<size>36225</size>
+<md5>238f54e65e1413772f43c91e02232a94</md5>
+<crc32>8eed4f71</crc32>
+<sha1>bd254d784ee6e4ae8a6b6456d4f3b787aaddc270</sha1>
+</file>
+<file name="016_spectrogram.png" source="derivative">
+<format>Spectrogram</format>
+<original>016.mp3</original>
+<mtime>1575475868</mtime>
+<size>180598</size>
+<md5>23b67a035623071c7a5ff9bf8c43ebdc</md5>
+<crc32>95a39f15</crc32>
+<sha1>29714151d88440c129487dd32b175099930dfb4f</sha1>
+</file>
+<file name="017.afpk" source="derivative">
+<format>Columbia Peaks</format>
+<original>017.mp3</original>
+<mtime>1575477252</mtime>
+<size>337664</size>
+<md5>17908c8d11f23851c6899b367e245217</md5>
+<crc32>447dcb4e</crc32>
+<sha1>41293cbbc083f790753f44e331711eebff83a5f9</sha1>
+</file>
+<file name="017.mp3" source="original">
+<mtime>1575455974</mtime>
+<size>3791320</size>
+<md5>e0b2ec16de1be031e84301a75d117f9b</md5>
+<crc32>8c0323f6</crc32>
+<sha1>f17df4a72da5225af0b8ed5acbdb6adfd5588ab9</sha1>
+<format>VBR MP3</format>
+<length>1894.64</length>
+<height>0</height>
+<width>0</width>
+<title/>
+<creator/>
+<album/>
+<track>17</track>
+</file>
+<file name="017.ogg" source="derivative">
+<format>Ogg Vorbis</format>
+<original>017.mp3</original>
+<mtime>1575473827</mtime>
+<size>6161505</size>
+<md5>16e3fd5c133874ec14c0430ee2175c2a</md5>
+<crc32>f4af8a12</crc32>
+<sha1>1fbbe6b6eccc29dbbfad445a2b22eb281e69167c</sha1>
+<length>1894.57</length>
+<height>0</height>
+<width>0</width>
+</file>
+<file name="017.png" source="derivative">
+<format>PNG</format>
+<original>017.mp3</original>
+<mtime>1575474858</mtime>
+<size>36102</size>
+<md5>5e774aa7f7071bf414f9402f1a3f3658</md5>
+<crc32>0e3546f6</crc32>
+<sha1>a7b9d0a4898546b99d31c56c6c368214f4c5c3ab</sha1>
+</file>
+<file name="017_spectrogram.png" source="derivative">
+<format>Spectrogram</format>
+<original>017.mp3</original>
+<mtime>1575475721</mtime>
+<size>193286</size>
+<md5>499ad67096603ff7019bc4645ebaab0e</md5>
+<crc32>84b1ac48</crc32>
+<sha1>eb122c74f2dbf35ec1d269c34761830074dcad3a</sha1>
+</file>
+<file name="018.afpk" source="derivative">
+<format>Columbia Peaks</format>
+<original>018.mp3</original>
+<mtime>1575476612</mtime>
+<size>309192</size>
+<md5>948868f74661c5b1a06206fd57b9e341</md5>
+<crc32>9ad17240</crc32>
+<sha1>dd0ccbeb83061109e71332d23e3c9a73a7285664</sha1>
+</file>
+<file name="018.mp3" source="original">
+<mtime>1575455981</mtime>
+<size>3810976</size>
+<md5>4aec03665c68e8e32312569853b5012c</md5>
+<crc32>84350a57</crc32>
+<sha1>d28748539db3c0b2038afec12db59571e4ebc084</sha1>
+<format>VBR MP3</format>
+<length>1904.46</length>
+<height>0</height>
+<width>0</width>
+<title/>
+<creator/>
+<album/>
+<track>18</track>
+</file>
+<file name="018.ogg" source="derivative">
+<format>Ogg Vorbis</format>
+<original>018.mp3</original>
+<mtime>1575473586</mtime>
+<size>6638299</size>
+<md5>93bdfb054b49586f74077308a650c2f2</md5>
+<crc32>c3665fa2</crc32>
+<sha1>f408fbf99f29da5415e5ecb9a3c3ddc1da40c656</sha1>
+<length>1904.4</length>
+<height>0</height>
+<width>0</width>
+</file>
+<file name="018.png" source="derivative">
+<format>PNG</format>
+<original>018.mp3</original>
+<mtime>1575475055</mtime>
+<size>38378</size>
+<md5>c3b7627d05e6fbadfd9340fafc3af038</md5>
+<crc32>c48890a5</crc32>
+<sha1>052e4eaf8177c58ac72aca7f8c403d39036017e0</sha1>
+</file>
+<file name="018_spectrogram.png" source="derivative">
+<format>Spectrogram</format>
+<original>018.mp3</original>
+<mtime>1575475729</mtime>
+<size>179342</size>
+<md5>456e0f66ed3bd2cf07b1ad5cf851302b</md5>
+<crc32>83bc91e3</crc32>
+<sha1>2b64efbafcbd7de3e51c2a75703687c6d1810718</sha1>
+</file>
+<file name="019.afpk" source="derivative">
+<format>Columbia Peaks</format>
+<original>019.mp3</original>
+<mtime>1575476372</mtime>
+<size>190024</size>
+<md5>b757e03b227044dbb2c84188d574d0bc</md5>
+<crc32>5f7bc5ad</crc32>
+<sha1>8cf24fd103888c0fdfaf951d9989c11c69feb008</sha1>
+</file>
+<file name="019.mp3" source="original">
+<mtime>1575455999</mtime>
+<size>2360968</size>
+<md5>be8d374559470bdd8ee7b18de9745d03</md5>
+<crc32>9b951829</crc32>
+<sha1>37af8b6bf00c89924dd12be6c6c4c3f49e156470</sha1>
+<format>VBR MP3</format>
+<length>1179.46</length>
+<height>0</height>
+<width>0</width>
+<title/>
+<creator/>
+<album/>
+<track>19</track>
+</file>
+<file name="019.ogg" source="derivative">
+<format>Ogg Vorbis</format>
+<original>019.mp3</original>
+<mtime>1575473035</mtime>
+<size>3998991</size>
+<md5>7394fc106cb4539d29c8b51f1dbf1173</md5>
+<crc32>70fb2102</crc32>
+<sha1>99db0b3c673a09f009e2d3a73d306aea93b62023</sha1>
+<length>1179.4</length>
+<height>0</height>
+<width>0</width>
+</file>
+<file name="019.png" source="derivative">
+<format>PNG</format>
+<original>019.mp3</original>
+<mtime>1575475025</mtime>
+<size>38507</size>
+<md5>609b76cdd1a52a42ed2e82c93d252463</md5>
+<crc32>f8fbc76d</crc32>
+<sha1>c3541c559147ee143ffce3678135c2b0c067fc01</sha1>
+</file>
+<file name="019_spectrogram.png" source="derivative">
+<format>Spectrogram</format>
+<original>019.mp3</original>
+<mtime>1575475797</mtime>
+<size>186512</size>
+<md5>396993789d6acfd58568b679cac743a7</md5>
+<crc32>3778defb</crc32>
+<sha1>5fca071fdac43026dddc784ef3b1769e4ae9f9fc</sha1>
+</file>
+<file name="020.afpk" source="derivative">
+<format>Columbia Peaks</format>
+<original>020.mp3</original>
+<mtime>1575476331</mtime>
+<size>249288</size>
+<md5>4f356cd9d44ed46f4b5b37be99a415c1</md5>
+<crc32>dcfb3181</crc32>
+<sha1>be66b1fb4b0b95b42ac4a702ab9280859ade959d</sha1>
+</file>
+<file name="020.mp3" source="original">
+<mtime>1575456011</mtime>
+<size>3147064</size>
+<md5>904d02b2ac63fa37572c2f5d42eb9cda</md5>
+<crc32>4c4dd04c</crc32>
+<sha1>e861385e43df460f101d7cf267b63d3d1f1588a8</sha1>
+<format>VBR MP3</format>
+<length>1572.51</length>
+<height>0</height>
+<width>0</width>
+<title/>
+<creator/>
+<album/>
+<track>20</track>
+</file>
+<file name="020.ogg" source="derivative">
+<format>Ogg Vorbis</format>
+<original>020.mp3</original>
+<mtime>1575472904</mtime>
+<size>5438856</size>
+<md5>7c3dbb3c23a135680cbdfa327fc0c415</md5>
+<crc32>8860d07b</crc32>
+<sha1>3f1bbb02042173551ca0b22932f44b79065411e3</sha1>
+<length>1572.44</length>
+<height>0</height>
+<width>0</width>
+</file>
+<file name="020.png" source="derivative">
+<format>PNG</format>
+<original>020.mp3</original>
+<mtime>1575474742</mtime>
+<size>36985</size>
+<md5>fbac33919c9b3f24ab913c0009a5e4b1</md5>
+<crc32>6d0828ed</crc32>
+<sha1>a16eb2cea74cc665c4ec59b4777927452be71290</sha1>
+</file>
+<file name="020_spectrogram.png" source="derivative">
+<format>Spectrogram</format>
+<original>020.mp3</original>
+<mtime>1575475765</mtime>
+<size>181758</size>
+<md5>72376f22bb3ce4373f156c3d9550742a</md5>
+<crc32>d95e5a9b</crc32>
+<sha1>737b7faaae5e4489e41476b081d45b23348f9bf7</sha1>
+</file>
+<file name="021.afpk" source="derivative">
+<format>Columbia Peaks</format>
+<original>021.mp3</original>
+<mtime>1575476300</mtime>
+<size>284928</size>
+<md5>6d82847837a0ef66a739dd70b2bbfa44</md5>
+<crc32>31cda60e</crc32>
+<sha1>8976d4e3e9d8f08ae8d690fc1de208e1ed9db094</sha1>
+</file>
+<file name="021.mp3" source="original">
+<mtime>1575456071</mtime>
+<size>3169888</size>
+<md5>7db9b852791ded800b3536de49b90fa9</md5>
+<crc32>ec27972f</crc32>
+<sha1>47780581bd7ed2fbb708002b257d8c9168afbca3</sha1>
+<format>VBR MP3</format>
+<length>1583.92</length>
+<height>0</height>
+<width>0</width>
+<title/>
+<creator/>
+<album/>
+<track>21</track>
+</file>
+<file name="021.ogg" source="derivative">
+<format>Ogg Vorbis</format>
+<original>021.mp3</original>
+<mtime>1575472863</mtime>
+<size>5500446</size>
+<md5>fa7fc13b821d7f9e4b1e6c0df5920a89</md5>
+<crc32>fd63164e</crc32>
+<sha1>258d5b2eeef6d8e84f8053a4d2d8369e58c1be80</sha1>
+<length>1583.86</length>
+<height>0</height>
+<width>0</width>
+</file>
+<file name="021.png" source="derivative">
+<format>PNG</format>
+<original>021.mp3</original>
+<mtime>1575474713</mtime>
+<size>36367</size>
+<md5>124936970045e003338882c9b1f6d374</md5>
+<crc32>516952b9</crc32>
+<sha1>a6d94d12f93337f60787372a569e17e5b00ab947</sha1>
+</file>
+<file name="021_spectrogram.png" source="derivative">
+<format>Spectrogram</format>
+<original>021.mp3</original>
+<mtime>1575475781</mtime>
+<size>177282</size>
+<md5>99de381e74a8540d95e52fd6683e7394</md5>
+<crc32>96326b81</crc32>
+<sha1>1637583539e94a771f2b263ad5c1fdf3d2d84906</sha1>
+</file>
+<file name="022.afpk" source="derivative">
+<format>Columbia Peaks</format>
+<original>022.mp3</original>
+<mtime>1575476267</mtime>
+<size>275640</size>
+<md5>eee9e7d2add1cfe255855e3be72a721b</md5>
+<crc32>4710f5e3</crc32>
+<sha1>dbce2cf3d9092296f652c42493ba41042a8d65e1</sha1>
+</file>
+<file name="022.mp3" source="original">
+<mtime>1575456085</mtime>
+<size>3124960</size>
+<md5>2015ab5f01ef4c895b65e206c63d58b0</md5>
+<crc32>ce2ffdf9</crc32>
+<sha1>04bef8549478f68a09b7735cd0b903b1fd26c071</sha1>
+<format>VBR MP3</format>
+<length>1561.46</length>
+<height>0</height>
+<width>0</width>
+<title/>
+<creator/>
+<album/>
+<track>22</track>
+</file>
+<file name="022.ogg" source="derivative">
+<format>Ogg Vorbis</format>
+<original>022.mp3</original>
+<mtime>1575472833</mtime>
+<size>5305547</size>
+<md5>3232249ca483aa468407d02af3744360</md5>
+<crc32>304179ca</crc32>
+<sha1>21c2b232a80a8ba03de7ec9640625d1deb348af1</sha1>
+<length>1561.39</length>
+<height>0</height>
+<width>0</width>
+</file>
+<file name="022.png" source="derivative">
+<format>PNG</format>
+<original>022.mp3</original>
+<mtime>1575474705</mtime>
+<size>34270</size>
+<md5>fa75683235423a2c4c29cc112856600b</md5>
+<crc32>5b64942f</crc32>
+<sha1>ac02bbb0e01fbdea4f34cc0de16db58abcae117b</sha1>
+</file>
+<file name="022_spectrogram.png" source="derivative">
+<format>Spectrogram</format>
+<original>022.mp3</original>
+<mtime>1575475769</mtime>
+<size>180203</size>
+<md5>84b2bbec0194d6256b7f4cd8dc90c8b6</md5>
+<crc32>65cfc962</crc32>
+<sha1>dc8654f3141443680eb8a429b6b3961a42fa7491</sha1>
+</file>
+<file name="023.afpk" source="derivative">
+<format>Columbia Peaks</format>
+<original>023.mp3</original>
+<mtime>1575476237</mtime>
+<size>217088</size>
+<md5>75f646b141c76354a93d6b10326da45a</md5>
+<crc32>4bcc277a</crc32>
+<sha1>5240e5b70278306c1c60c15eded99d80b74d2deb</sha1>
+</file>
+<file name="023.mp3" source="original">
+<mtime>1575456095</mtime>
+<size>2773168</size>
+<md5>0d459284ca59b6f5aa3a2c2d99d7e92a</md5>
+<crc32>05b58de3</crc32>
+<sha1>c4430b600c39d89f09e508e817e536aeb9206b17</sha1>
+<format>VBR MP3</format>
+<length>1385.56</length>
+<height>0</height>
+<width>0</width>
+<title/>
+<creator/>
+<album/>
+<track>23</track>
+</file>
+<file name="023.ogg" source="derivative">
+<format>Ogg Vorbis</format>
+<original>023.mp3</original>
+<mtime>1575472801</mtime>
+<size>4785926</size>
+<md5>7c79ac43b389b98da74a4327b8439947</md5>
+<crc32>b2abcb75</crc32>
+<sha1>4f0d94efdcc3771c15ca252ba4983ceec3a647b3</sha1>
+<length>1385.5</length>
+<height>0</height>
+<width>0</width>
+</file>
+<file name="023.png" source="derivative">
+<format>PNG</format>
+<original>023.mp3</original>
+<mtime>1575475073</mtime>
+<size>37072</size>
+<md5>1442c113712ead8c3762445a37b2e4e8</md5>
+<crc32>7f6ad349</crc32>
+<sha1>320ce3a4a1fc48b036dea1ac24b4873bb96f4c7b</sha1>
+</file>
+<file name="023_spectrogram.png" source="derivative">
+<format>Spectrogram</format>
+<original>023.mp3</original>
+<mtime>1575475743</mtime>
+<size>183168</size>
+<md5>08ed589e20135666bced03205757ea61</md5>
+<crc32>f96a0be5</crc32>
+<sha1>a3af99fa56f31e533c709136e81c418335cdf0e2</sha1>
+</file>
+<file name="024.afpk" source="derivative">
+<format>Columbia Peaks</format>
+<original>024.mp3</original>
+<mtime>1575477284</mtime>
+<size>298144</size>
+<md5>a6f25891af5959fca6c9ffb8790e5408</md5>
+<crc32>7f536a8d</crc32>
+<sha1>644b697ca9394511ddc5264bac785a6b8f0ae6f5</sha1>
+</file>
+<file name="024.mp3" source="original">
+<mtime>1575456110</mtime>
+<size>3600376</size>
+<md5>c386eba44daa61d64549780aa2ce7163</md5>
+<crc32>8dc56332</crc32>
+<sha1>b755d1cbf601e6033a0ffad4336276b8eb59727a</sha1>
+<format>VBR MP3</format>
+<length>1799.16</length>
+<height>0</height>
+<width>0</width>
+<title/>
+<creator/>
+<album/>
+<track>24</track>
+</file>
+<file name="024.ogg" source="derivative">
+<format>Ogg Vorbis</format>
+<original>024.mp3</original>
+<mtime>1575473013</mtime>
+<size>6241551</size>
+<md5>5099a3d829cf73b7380ca1f35e2778c9</md5>
+<crc32>33f31972</crc32>
+<sha1>6e1d2df775c5f44dce2a9c0918b7df91e9d90490</sha1>
+<length>1799.1</length>
+<height>0</height>
+<width>0</width>
+</file>
+<file name="024.png" source="derivative">
+<format>PNG</format>
+<original>024.mp3</original>
+<mtime>1575475148</mtime>
+<size>38414</size>
+<md5>34183ba63b9f37315c1d39e58120752a</md5>
+<crc32>b53ee0b2</crc32>
+<sha1>3d8125b1d92d7f20da3dd47c810a734b8952b62a</sha1>
+</file>
+<file name="024_spectrogram.png" source="derivative">
+<format>Spectrogram</format>
+<original>024.mp3</original>
+<mtime>1575475849</mtime>
+<size>180646</size>
+<md5>5707f98860adcf3fda7b34add9de2044</md5>
+<crc32>dad403e9</crc32>
+<sha1>5332b66270d34d9bdadc3f3cf9ac099424c17c9e</sha1>
+</file>
+<file name="025.afpk" source="derivative">
+<format>Columbia Peaks</format>
+<original>025.mp3</original>
+<mtime>1575477469</mtime>
+<size>188000</size>
+<md5>a85c9b497565f2aaf0aceab9005bfbe8</md5>
+<crc32>d31580b2</crc32>
+<sha1>689d7020855868f2f41a00f8e7cbd5169dcdaa80</sha1>
+</file>
+<file name="025.mp3" source="original">
+<mtime>1575456133</mtime>
+<size>2224240</size>
+<md5>2f668407d97c3a61793e3d32b889ef4b</md5>
+<crc32>bea8ebd1</crc32>
+<sha1>c39fb83e22e48cc48dd57bf3485be25521732aeb</sha1>
+<format>VBR MP3</format>
+<length>1111.1</length>
+<height>0</height>
+<width>0</width>
+<title/>
+<creator/>
+<album/>
+<track>25</track>
+</file>
+<file name="025.ogg" source="derivative">
+<format>Ogg Vorbis</format>
+<original>025.mp3</original>
+<mtime>1575473793</mtime>
+<size>3839508</size>
+<md5>dcb3f07d7569b5e50e8e393caa954116</md5>
+<crc32>05fc3870</crc32>
+<sha1>2283b9ce63c9e16c608f7c1a39674c8af4bfe49c</sha1>
+<length>1111.03</length>
+<height>0</height>
+<width>0</width>
+</file>
+<file name="025.png" source="derivative">
+<format>PNG</format>
+<original>025.mp3</original>
+<mtime>1575474872</mtime>
+<size>36836</size>
+<md5>a44d9b3d35a86c7b4b317cbb7ee0a4ab</md5>
+<crc32>c1cbe24c</crc32>
+<sha1>bea18b68649b5380699301bb74988baecf986bc6</sha1>
+</file>
+<file name="025_spectrogram.png" source="derivative">
+<format>Spectrogram</format>
+<original>025.mp3</original>
+<mtime>1575475971</mtime>
+<size>182142</size>
+<md5>a2f64a780e26458e6e5126b621294a01</md5>
+<crc32>f526d5a3</crc32>
+<sha1>18141da854c2897ead4f490c62b181026983d971</sha1>
+</file>
+<file name="026.afpk" source="derivative">
+<format>Columbia Peaks</format>
+<original>026.mp3</original>
+<mtime>1575477440</mtime>
+<size>284864</size>
+<md5>668a25ccb690ccb5a707d39a04fa838e</md5>
+<crc32>76c0a579</crc32>
+<sha1>32817cc609e10f8688df68694e0fc1a6fece763e</sha1>
+</file>
+<file name="026.mp3" source="original">
+<mtime>1575456142</mtime>
+<size>3363856</size>
+<md5>ba458e734279e32a0768ac422c96cb56</md5>
+<crc32>5b122559</crc32>
+<sha1>61b0de6a4dde6c0577d91474f7c8599cf3e7e0b9</sha1>
+<format>VBR MP3</format>
+<length>1680.9</length>
+<height>0</height>
+<width>0</width>
+<title/>
+<creator/>
+<album/>
+<track>26</track>
+</file>
+<file name="026.ogg" source="derivative">
+<format>Ogg Vorbis</format>
+<original>026.mp3</original>
+<mtime>1575473771</mtime>
+<size>5786175</size>
+<md5>b73d0a1653980717ffa581aa33b9aa8c</md5>
+<crc32>864ddc3b</crc32>
+<sha1>0fe26ae33be3bc9b0cc4a9d22958bd8cd742cb18</sha1>
+<length>1680.84</length>
+<height>0</height>
+<width>0</width>
+</file>
+<file name="026.png" source="derivative">
+<format>PNG</format>
+<original>026.mp3</original>
+<mtime>1575475015</mtime>
+<size>36979</size>
+<md5>1c03be9202bc3c00604ba5ce3a0859bb</md5>
+<crc32>174bc35e</crc32>
+<sha1>a647cf547a7186e1ae14f724325143eb08ec2992</sha1>
+</file>
+<file name="026_spectrogram.png" source="derivative">
+<format>Spectrogram</format>
+<original>026.mp3</original>
+<mtime>1575475997</mtime>
+<size>183868</size>
+<md5>bfb49b7d01cad0853c29fab2471860f2</md5>
+<crc32>96697d67</crc32>
+<sha1>11b29daa66586e822fddca6a8e4319ca8af2fc05</sha1>
+</file>
+<file name="027.afpk" source="derivative">
+<format>Columbia Peaks</format>
+<original>027.mp3</original>
+<mtime>1575477411</mtime>
+<size>255840</size>
+<md5>9e8f8a110baf92d1a532c5c5dbea1904</md5>
+<crc32>a561f568</crc32>
+<sha1>c188367b5882e051bcc76293c3ac7c23bc5c1bfc</sha1>
+</file>
+<file name="027.mp3" source="original">
+<mtime>1575456183</mtime>
+<size>2978440</size>
+<md5>9c70b1a7a60b24dae423d781c50c45b2</md5>
+<crc32>a856ec49</crc32>
+<sha1>4ab0704f5f01171176e33cdc92c2a467e0c6713d</sha1>
+<format>VBR MP3</format>
+<length>1488.2</length>
+<height>0</height>
+<width>0</width>
+<title/>
+<creator/>
+<album/>
+<track>27</track>
+</file>
+<file name="027.ogg" source="derivative">
+<format>Ogg Vorbis</format>
+<original>027.mp3</original>
+<mtime>1575473741</mtime>
+<size>5092813</size>
+<md5>fd19dfcf6dad114270685f9140c301cc</md5>
+<crc32>13a848e7</crc32>
+<sha1>49d525ba61f66fe2640abc893d50fbf88bddc425</sha1>
+<length>1488.13</length>
+<height>0</height>
+<width>0</width>
+</file>
+<file name="027.png" source="derivative">
+<format>PNG</format>
+<original>027.mp3</original>
+<mtime>1575475157</mtime>
+<size>37968</size>
+<md5>a3157c87bed39f09ad166e82404325d0</md5>
+<crc32>81f4bf96</crc32>
+<sha1>e6a31a47baaefbbb91e814f43f35636f307b4e25</sha1>
+</file>
+<file name="027_spectrogram.png" source="derivative">
+<format>Spectrogram</format>
+<original>027.mp3</original>
+<mtime>1575475983</mtime>
+<size>186872</size>
+<md5>a48f01834f1de6c8481294140112c526</md5>
+<crc32>951c2375</crc32>
+<sha1>8adacdf1c54c5ebcd37a34010cd62564db14be68</sha1>
+</file>
+<file name="028.afpk" source="derivative">
+<format>Columbia Peaks</format>
+<original>028.mp3</original>
+<mtime>1575477315</mtime>
+<size>293928</size>
+<md5>f706becf7560af67b563765de97c15b8</md5>
+<crc32>7f64b754</crc32>
+<sha1>7b71adde88f353f731a570e93bd49074ed8d100f</sha1>
+</file>
+<file name="028.mp3" source="original">
+<mtime>1575456216</mtime>
+<size>3548320</size>
+<md5>649e0a77f941e66f88ad529a895b4ccd</md5>
+<crc32>5862a128</crc32>
+<sha1>bae9181d7973ad9390434829c04f5ba98d160aa2</sha1>
+<format>VBR MP3</format>
+<length>1773.14</length>
+<height>0</height>
+<width>0</width>
+<title/>
+<creator/>
+<album/>
+<track>28</track>
+</file>
+<file name="028.ogg" source="derivative">
+<format>Ogg Vorbis</format>
+<original>028.mp3</original>
+<mtime>1575473714</mtime>
+<size>6146575</size>
+<md5>27e06a5a843f8f6de399ec9763ddc06b</md5>
+<crc32>354adf8a</crc32>
+<sha1>726edfb487e7d0e30d022eb0a8cebd71d07cf093</sha1>
+<length>1773.07</length>
+<height>0</height>
+<width>0</width>
+</file>
+<file name="028.png" source="derivative">
+<format>PNG</format>
+<original>028.mp3</original>
+<mtime>1575475139</mtime>
+<size>38157</size>
+<md5>36a1c0216c11009e124e36b16ff8adf6</md5>
+<crc32>9d2cfea7</crc32>
+<sha1>601302f4973f8b9c6cc58d65d18572f6c35452cc</sha1>
+</file>
+<file name="028_spectrogram.png" source="derivative">
+<format>Spectrogram</format>
+<original>028.mp3</original>
+<mtime>1575475962</mtime>
+<size>179997</size>
+<md5>276fef4c909031d6daf0aaf8ff6170c2</md5>
+<crc32>6ca82268</crc32>
+<sha1>7f01488e967a0becc0086969d7544d9c2f7329b9</sha1>
+</file>
+<file name="029.afpk" source="derivative">
+<format>Columbia Peaks</format>
+<original>029.mp3</original>
+<mtime>1575477370</mtime>
+<size>209512</size>
+<md5>1917141b9efc9574037ac37b7d0a733c</md5>
+<crc32>82eed3d3</crc32>
+<sha1>a97ae7f40e844de4769278e82cfea49be2975973</sha1>
+</file>
+<file name="029.mp3" source="original">
+<mtime>1575456224</mtime>
+<size>2480776</size>
+<md5>d3720db49a0d0de092effc6c12072995</md5>
+<crc32>f00d1f23</crc32>
+<sha1>ac30fa7ec5e2ad5ffbc7d5fba03824d5fe7a5dd0</sha1>
+<format>VBR MP3</format>
+<length>1239.36</length>
+<height>0</height>
+<width>0</width>
+<title/>
+<creator/>
+<album/>
+<track>29</track>
+</file>
+<file name="029.ogg" source="derivative">
+<format>Ogg Vorbis</format>
+<original>029.mp3</original>
+<mtime>1575474474</mtime>
+<size>4218339</size>
+<md5>3a56c1cb01a5ad7ff6c02d9cf21a5c51</md5>
+<crc32>5d1bdd0f</crc32>
+<sha1>ec5fc2cbbac733625b471dd33a31f4df6bc118a3</sha1>
+<length>1239.3</length>
+<height>0</height>
+<width>0</width>
+</file>
+<file name="029.png" source="derivative">
+<format>PNG</format>
+<original>029.mp3</original>
+<mtime>1575475129</mtime>
+<size>38461</size>
+<md5>bb3eed58b805455f1892a2e533be6df7</md5>
+<crc32>43b95d1b</crc32>
+<sha1>f433a9e61d99ed09feac996b93c94cbf2d693279</sha1>
+</file>
+<file name="029_spectrogram.png" source="derivative">
+<format>Spectrogram</format>
+<original>029.mp3</original>
+<mtime>1575475953</mtime>
+<size>182781</size>
+<md5>3314eddcf4c2ce6fb86ed36709d388c8</md5>
+<crc32>8f564839</crc32>
+<sha1>c5606fc0386d6eedb6a7cf9d32fce4976bae4f63</sha1>
+</file>
+<file name="030.afpk" source="derivative">
+<format>Columbia Peaks</format>
+<original>030.mp3</original>
+<mtime>1575477348</mtime>
+<size>166144</size>
+<md5>4610476b27ff6f33d480901107e5c223</md5>
+<crc32>6768b0f1</crc32>
+<sha1>3d572552babbbf837483f6dbcc9592f31b02bc2d</sha1>
+</file>
+<file name="030.mp3" source="original">
+<mtime>1575456235</mtime>
+<size>1997584</size>
+<md5>b052f4ffe147152e172ae8e4527f4da0</md5>
+<crc32>14f2ea3a</crc32>
+<sha1>f535337b1ea8619b958035b8b21844eff0e2d21c</sha1>
+<format>VBR MP3</format>
+<length>997.77</length>
+<height>0</height>
+<width>0</width>
+<title/>
+<creator/>
+<album/>
+<track>30</track>
+</file>
+<file name="030.ogg" source="derivative">
+<format>Ogg Vorbis</format>
+<original>030.mp3</original>
+<mtime>1575473683</mtime>
+<size>3506970</size>
+<md5>40ba8e150b7a3f467847c6744e3d7945</md5>
+<crc32>a0728a37</crc32>
+<sha1>61431f92e685685c974999bd380517fe7f91c56e</sha1>
+<length>997.7</length>
+<height>0</height>
+<width>0</width>
+</file>
+<file name="030.png" source="derivative">
+<format>PNG</format>
+<original>030.mp3</original>
+<mtime>1575475106</mtime>
+<size>37696</size>
+<md5>0094995da546821f547f27ca4fe3b9da</md5>
+<crc32>15a2e272</crc32>
+<sha1>b95b31750e48981be3abf6ec4393687c55b936ff</sha1>
+</file>
+<file name="030_spectrogram.png" source="derivative">
+<format>Spectrogram</format>
+<original>030.mp3</original>
+<mtime>1575475933</mtime>
+<size>185358</size>
+<md5>fae9a7759507a39a6a42b8dec92073ee</md5>
+<crc32>569434e6</crc32>
+<sha1>5ab8e91a05d3f0f61ed4b928919e8261ee69cf40</sha1>
+</file>
+<file name="031.afpk" source="derivative">
+<format>Columbia Peaks</format>
+<original>031.mp3</original>
+<mtime>1575477330</mtime>
+<size>112536</size>
+<md5>813a90f2db219dcfd803f8879276a233</md5>
+<crc32>bd0d4894</crc32>
+<sha1>e5224ea476f0d0155227494cc67769287e9e68a7</sha1>
+</file>
+<file name="031.mp3" source="original">
+<mtime>1575456243</mtime>
+<size>1374784</size>
+<md5>9e240610c569e8ae541bda5faa0764a3</md5>
+<crc32>a5b096c3</crc32>
+<sha1>44048d603efec17ec504f91f15ea8cc60c7d8958</sha1>
+<format>VBR MP3</format>
+<length>686.37</length>
+<height>0</height>
+<width>0</width>
+<title/>
+<creator/>
+<album/>
+<track>31</track>
+</file>
+<file name="031.ogg" source="derivative">
+<format>Ogg Vorbis</format>
+<original>031.mp3</original>
+<mtime>1575473664</mtime>
+<size>2396755</size>
+<md5>75d7666b5c780576066175a54013d098</md5>
+<crc32>d7b92de4</crc32>
+<sha1>41e5becbc17ed56531771d6ef61cb34cd15e8af9</sha1>
+<length>686.3</length>
+<height>0</height>
+<width>0</width>
+</file>
+<file name="031.png" source="derivative">
+<format>PNG</format>
+<original>031.mp3</original>
+<mtime>1575474727</mtime>
+<size>36689</size>
+<md5>fa81e32298dbd30d66a44f650a2df7b5</md5>
+<crc32>fae2cbbb</crc32>
+<sha1>c6e15000358c6dfffdfcfd8fe9ccaec0c467c4b9</sha1>
+</file>
+<file name="031_spectrogram.png" source="derivative">
+<format>Spectrogram</format>
+<original>031.mp3</original>
+<mtime>1575475749</mtime>
+<size>188907</size>
+<md5>40435942fe2a2992c0457fdceaaadd7c</md5>
+<crc32>03f4b9da</crc32>
+<sha1>a5b94801324325be21ab6c99772df19965962d94</sha1>
+</file>
+<file name="032.afpk" source="derivative">
+<format>Columbia Peaks</format>
+<original>032.mp3</original>
+<mtime>1575476922</mtime>
+<size>78200</size>
+<md5>4172a7fbae6e29ffa89b69c9f764053c</md5>
+<crc32>3a95df31</crc32>
+<sha1>211fd634ae7f653b7401e5a8bee26203a6b22256</sha1>
+</file>
+<file name="032.mp3" source="original">
+<mtime>1575456248</mtime>
+<size>951208</size>
+<md5>7c2e55a17bdca2f7bf0aaa38c4cd6202</md5>
+<crc32>5f2926d1</crc32>
+<sha1>0fce997a57f380a6c1315bfc309a954c4be139e6</sha1>
+<format>VBR MP3</format>
+<length>474.58</length>
+<height>0</height>
+<width>0</width>
+<title/>
+<creator/>
+<album/>
+<track>32</track>
+</file>
+<file name="032.ogg" source="derivative">
+<format>Ogg Vorbis</format>
+<original>032.mp3</original>
+<mtime>1575473837</mtime>
+<size>1692778</size>
+<md5>63b05fd60830b92549d8e4b96194a2c8</md5>
+<crc32>c6c98137</crc32>
+<sha1>952d6d4b9344d08ef60d0e7a04bcf73f9368177a</sha1>
+<length>474.52</length>
+<height>0</height>
+<width>0</width>
+</file>
+<file name="032.png" source="derivative">
+<format>PNG</format>
+<original>032.mp3</original>
+<mtime>1575475335</mtime>
+<size>36878</size>
+<md5>00ea88969d10da83691561972e760468</md5>
+<crc32>64c6d0bf</crc32>
+<sha1>ab2b6a71d11fa36e281fda83efcc9a5da4cd0d21</sha1>
+</file>
+<file name="032_spectrogram.png" source="derivative">
+<format>Spectrogram</format>
+<original>032.mp3</original>
+<mtime>1575475745</mtime>
+<size>192475</size>
+<md5>555d199e048e26e1efd9d88c2c62d9c8</md5>
+<crc32>e5105ca3</crc32>
+<sha1>6a5f05802a5bd5b6b2ad48a5a1463fbc2331c30e</sha1>
+</file>
+<file name="033.afpk" source="derivative">
+<format>Columbia Peaks</format>
+<original>033.mp3</original>
+<mtime>1575477074</mtime>
+<size>297792</size>
+<md5>967cc6e8cc2a4c11f9f0399eeb47519a</md5>
+<crc32>e0c36708</crc32>
+<sha1>fad4880c052fcbb16a0ac91023592087a9f5e43b</sha1>
+</file>
+<file name="033.mp3" source="original">
+<mtime>1575456267</mtime>
+<size>3598504</size>
+<md5>7f6340057fe94de2711326c4cf34b01b</md5>
+<crc32>5cbc545c</crc32>
+<sha1>fe5b2fc090ad0c2386c3ca337e8ff8cd60cb84a5</sha1>
+<format>VBR MP3</format>
+<length>1798.23</length>
+<height>0</height>
+<width>0</width>
+<title/>
+<creator/>
+<album/>
+<track>33</track>
+</file>
+<file name="033.ogg" source="derivative">
+<format>Ogg Vorbis</format>
+<original>033.mp3</original>
+<mtime>1575473360</mtime>
+<size>6416490</size>
+<md5>d4a43e787dac8c2e5921f3c830feb017</md5>
+<crc32>3139e2d1</crc32>
+<sha1>b7ba725cbeea025c1a738ba7cb9547744ee88eab</sha1>
+<length>1798.16</length>
+<height>0</height>
+<width>0</width>
+</file>
+<file name="033.png" source="derivative">
+<format>PNG</format>
+<original>033.mp3</original>
+<mtime>1575475290</mtime>
+<size>36304</size>
+<md5>3a0258f571dc79e7d5c586eca24a5630</md5>
+<crc32>98a70599</crc32>
+<sha1>36061bb6bd2e348598385198a400d0ac4ab66829</sha1>
+</file>
+<file name="033_spectrogram.png" source="derivative">
+<format>Spectrogram</format>
+<original>033.mp3</original>
+<mtime>1575475941</mtime>
+<size>181300</size>
+<md5>35557fc2dde3bfd617b4259c1b1e98df</md5>
+<crc32>672fc31b</crc32>
+<sha1>1e43bacd0b543da02b271831c0d52f6d9fe3deab</sha1>
+</file>
+<file name="034.afpk" source="derivative">
+<format>Columbia Peaks</format>
+<original>034.mp3</original>
+<mtime>1575477121</mtime>
+<size>192176</size>
+<md5>1e8761712c4c07a32e5ba1e97dbd7ec2</md5>
+<crc32>a980f4b5</crc32>
+<sha1>91d5cddb35a603f2d5e313e42aba4b543cd7f70c</sha1>
+</file>
+<file name="034.mp3" source="original">
+<mtime>1575456276</mtime>
+<size>2335480</size>
+<md5>84981fcd697b2e6a7d67fda1a285c9ed</md5>
+<crc32>db2e89f2</crc32>
+<sha1>67c31889d16230252ca31a2a3f48990c072f7f42</sha1>
+<format>VBR MP3</format>
+<length>1166.72</length>
+<height>0</height>
+<width>0</width>
+<title/>
+<creator/>
+<album/>
+<track>34</track>
+</file>
+<file name="034.ogg" source="derivative">
+<format>Ogg Vorbis</format>
+<original>034.mp3</original>
+<mtime>1575473416</mtime>
+<size>4046642</size>
+<md5>6f18f92a8fd4a785ca4527a363335e82</md5>
+<crc32>3c931dc3</crc32>
+<sha1>48e165ebfbc782ce605a2afaf83d6615332fcd11</sha1>
+<length>1166.65</length>
+<height>0</height>
+<width>0</width>
+</file>
+<file name="034.png" source="derivative">
+<format>PNG</format>
+<original>034.mp3</original>
+<mtime>1575475260</mtime>
+<size>26559</size>
+<md5>7f0e63c8409b64ac3d116c0f493f7ccf</md5>
+<crc32>d07d7532</crc32>
+<sha1>f6fa4d2055e571f31c7f37d139b8b975272da139</sha1>
+</file>
+<file name="034_spectrogram.png" source="derivative">
+<format>Spectrogram</format>
+<original>034.mp3</original>
+<mtime>1575475977</mtime>
+<size>197976</size>
+<md5>2f37e03760aff185e4ea605da65c1bd6</md5>
+<crc32>544e2dd2</crc32>
+<sha1>5a389b0ed93308b66508603a4b3b32764b598df1</sha1>
+</file>
+<file name="035.afpk" source="derivative">
+<format>Columbia Peaks</format>
+<original>035.mp3</original>
+<mtime>1575476994</mtime>
+<size>175408</size>
+<md5>2261897675adbb045f3425502f95cb78</md5>
+<crc32>98378887</crc32>
+<sha1>36e529036571c32e8d2f24e9680ecac17a582314</sha1>
+</file>
+<file name="035.mp3" source="original">
+<mtime>1575456281</mtime>
+<size>2049280</size>
+<md5>1131142ca159894ca0f9f1619ecccf2d</md5>
+<crc32>bb6b6696</crc32>
+<sha1>50defcf5712e01c28dbd73f0035a574a760f7be2</sha1>
+<format>VBR MP3</format>
+<length>1023.62</length>
+<height>0</height>
+<width>0</width>
+<title/>
+<creator/>
+<album/>
+<track>35</track>
+</file>
+<file name="035.ogg" source="derivative">
+<format>Ogg Vorbis</format>
+<original>035.mp3</original>
+<mtime>1575473436</mtime>
+<size>3405198</size>
+<md5>9b84f038df06fd93b91991e6d9a14bda</md5>
+<crc32>d02a0518</crc32>
+<sha1>69ed38811dae23efbf0c8adaeb957c683632a890</sha1>
+<length>1023.55</length>
+<height>0</height>
+<width>0</width>
+</file>
+<file name="035.png" source="derivative">
+<format>PNG</format>
+<original>035.mp3</original>
+<mtime>1575475245</mtime>
+<size>39688</size>
+<md5>90e8247b4f97e56365859b300d2ed05a</md5>
+<crc32>715132fe</crc32>
+<sha1>384fdea145806fdf60378ea3de13c9542a9b6c4d</sha1>
+</file>
+<file name="035_spectrogram.png" source="derivative">
+<format>Spectrogram</format>
+<original>035.mp3</original>
+<mtime>1575476001</mtime>
+<size>189427</size>
+<md5>4b85994a5bc9aba2cf6e9976ddbc7c6d</md5>
+<crc32>f40e952e</crc32>
+<sha1>a5a47ef2022efd109cef36a0c47321649e081352</sha1>
+</file>
+<file name="036.afpk" source="derivative">
+<format>Columbia Peaks</format>
+<original>036.mp3</original>
+<mtime>1575476892</mtime>
+<size>152824</size>
+<md5>c8f5d470ecc556dac2ed75e26065cb0b</md5>
+<crc32>d0de9ce2</crc32>
+<sha1>6351242f9cf0d0c7361c3ce2a7f3e40a8437c18d</sha1>
+</file>
+<file name="036.mp3" source="original">
+<mtime>1575456289</mtime>
+<size>1727368</size>
+<md5>c653017dca6660c26548834c49cf2055</md5>
+<crc32>d8b58eb6</crc32>
+<sha1>75375217355592e9331180154be91e7dd667fc66</sha1>
+<format>VBR MP3</format>
+<length>862.66</length>
+<height>0</height>
+<width>0</width>
+<title/>
+<creator/>
+<album/>
+<track>36</track>
+</file>
+<file name="036.ogg" source="derivative">
+<format>Ogg Vorbis</format>
+<original>036.mp3</original>
+<mtime>1575473160</mtime>
+<size>2856448</size>
+<md5>fcd2307e017e14250cb80a9b26785e34</md5>
+<crc32>4916b9cc</crc32>
+<sha1>a8f5f4432b888ee72b1daea3d96ca96f9ab426d5</sha1>
+<length>862.6</length>
+<height>0</height>
+<width>0</width>
+</file>
+<file name="036.png" source="derivative">
+<format>PNG</format>
+<original>036.mp3</original>
+<mtime>1575474828</mtime>
+<size>37658</size>
+<md5>08a0bd51c864208840e5c418fcfa017e</md5>
+<crc32>a470724c</crc32>
+<sha1>552e33e9f216fbbca00969ac6e8f85e463d6e671</sha1>
+</file>
+<file name="036_spectrogram.png" source="derivative">
+<format>Spectrogram</format>
+<original>036.mp3</original>
+<mtime>1575475885</mtime>
+<size>189329</size>
+<md5>a7be37474d24143b5047b4227dc96db1</md5>
+<crc32>5b0f1307</crc32>
+<sha1>1b33c00c06a8c09426c6a9cb3f7173c85940d42b</sha1>
+</file>
+<file name="037.afpk" source="derivative">
+<format>Columbia Peaks</format>
+<original>037.mp3</original>
+<mtime>1575476649</mtime>
+<size>214224</size>
+<md5>c55c5269c36bc294b083386440a40f0a</md5>
+<crc32>1a2362b9</crc32>
+<sha1>c9a37cff9411d0483b1f13fd6d9a0d0b6b655a8d</sha1>
+</file>
+<file name="037.mp3" source="original">
+<mtime>1575456294</mtime>
+<size>2377096</size>
+<md5>6d4d8393c4a3ed295d63867533b4eefb</md5>
+<crc32>cf9ca4c2</crc32>
+<sha1>b3abb5c3552ccad42335ff0dc08edd27147393ee</sha1>
+<format>VBR MP3</format>
+<length>1187.52</length>
+<height>0</height>
+<width>0</width>
+<title/>
+<creator/>
+<album/>
+<track>37</track>
+</file>
+<file name="037.ogg" source="derivative">
+<format>Ogg Vorbis</format>
+<original>037.mp3</original>
+<mtime>1575473194</mtime>
+<size>4017606</size>
+<md5>3216b3d02c13a4227e6318fb2e404921</md5>
+<crc32>384c9225</crc32>
+<sha1>25815c9be631cd1a563465e339f7ec9336276680</sha1>
+<length>1187.46</length>
+<height>0</height>
+<width>0</width>
+</file>
+<file name="037.png" source="derivative">
+<format>PNG</format>
+<original>037.mp3</original>
+<mtime>1575475482</mtime>
+<size>38384</size>
+<md5>3ebd73ab7950af6e122f89dd08824126</md5>
+<crc32>5c53a7e6</crc32>
+<sha1>35bc8f18324297c7d6b9828223141dc6b2e0ffb1</sha1>
+</file>
+<file name="037_spectrogram.png" source="derivative">
+<format>Spectrogram</format>
+<original>037.mp3</original>
+<mtime>1575475812</mtime>
+<size>188057</size>
+<md5>b392deecdd7a4a75018168212a357167</md5>
+<crc32>32be61f2</crc32>
+<sha1>e966cbc5b985cdbf7b090ac0fd09685bdb6ba1d1</sha1>
+</file>
+<file name="038.afpk" source="derivative">
+<format>Columbia Peaks</format>
+<original>038.mp3</original>
+<mtime>1575476962</mtime>
+<size>157792</size>
+<md5>9502b9d773f293e246783c4b788cab3d</md5>
+<crc32>fe894045</crc32>
+<sha1>2dc2ed17dc433ab03635e9f1683dc68b42c5f6c6</sha1>
+</file>
+<file name="038.mp3" source="original">
+<mtime>1575456312</mtime>
+<size>1774672</size>
+<md5>16535e6b0512c09c79dbd413e9dbcee5</md5>
+<crc32>166dbecf</crc32>
+<sha1>803f5dc427bee1cbdb17dd9a8936d596d8f45483</sha1>
+<format>VBR MP3</format>
+<length>886.31</length>
+<height>0</height>
+<width>0</width>
+<title/>
+<creator/>
+<album/>
+<track>38</track>
+</file>
+<file name="038.ogg" source="derivative">
+<format>Ogg Vorbis</format>
+<original>038.mp3</original>
+<mtime>1575473058</mtime>
+<size>3042795</size>
+<md5>d2f919c60cf722d7eefc1ab017f89479</md5>
+<crc32>c62affc5</crc32>
+<sha1>86533748887866036eb3397ad59449b670182434</sha1>
+<length>886.25</length>
+<height>0</height>
+<width>0</width>
+</file>
+<file name="038.png" source="derivative">
+<format>PNG</format>
+<original>038.mp3</original>
+<mtime>1575475522</mtime>
+<size>38579</size>
+<md5>25a2734d69a5c6e3b52ea4cccd20c8cd</md5>
+<crc32>61c2c78a</crc32>
+<sha1>5fc3865e921ae254ce8c9a85b4f407475d228bca</sha1>
+</file>
+<file name="038_spectrogram.png" source="derivative">
+<format>Spectrogram</format>
+<original>038.mp3</original>
+<mtime>1575475784</mtime>
+<size>185472</size>
+<md5>691ca0836cf61d6e94583248f1f7e551</md5>
+<crc32>6e5f3669</crc32>
+<sha1>9809b44769b3e212a8e07508c774d78f233f9d24</sha1>
+</file>
+<file name="039.afpk" source="derivative">
+<format>Columbia Peaks</format>
+<original>039.mp3</original>
+<mtime>1575476866</mtime>
+<size>261488</size>
+<md5>9ff38871444301add869bbf4b9a596e3</md5>
+<crc32>2ea8db6b</crc32>
+<sha1>35aefcadf95806112fbda83ec34153df1fdda499</sha1>
+</file>
+<file name="039.mp3" source="original">
+<mtime>1575456322</mtime>
+<size>3070888</size>
+<md5>919e91d854a5b53cc705462479bbdae3</md5>
+<crc32>4b2b8a11</crc32>
+<sha1>2537ae5f870fbcc91ab878c2f9151ab7f287877e</sha1>
+<format>VBR MP3</format>
+<length>1534.42</length>
+<height>0</height>
+<width>0</width>
+<title/>
+<creator/>
+<album/>
+<track>39</track>
+</file>
+<file name="039.ogg" source="derivative">
+<format>Ogg Vorbis</format>
+<original>039.mp3</original>
+<mtime>1575473130</mtime>
+<size>5276958</size>
+<md5>a499c60823ff4318a2475b7f7621bb78</md5>
+<crc32>3724442e</crc32>
+<sha1>0b8661573f3c1f55e3aa0b96f74862f98c1950f7</sha1>
+<length>1534.36</length>
+<height>0</height>
+<width>0</width>
+</file>
+<file name="039.png" source="derivative">
+<format>PNG</format>
+<original>039.mp3</original>
+<mtime>1575475541</mtime>
+<size>38305</size>
+<md5>fe731003e5d6200ac246a1c3b277f17e</md5>
+<crc32>e188cf70</crc32>
+<sha1>be725c9076b74e8cd18ffcd1d0ee5398af18c61e</sha1>
+</file>
+<file name="039_spectrogram.png" source="derivative">
+<format>Spectrogram</format>
+<original>039.mp3</original>
+<mtime>1575475804</mtime>
+<size>185300</size>
+<md5>19de0b3adbb572988dfa409e61050c00</md5>
+<crc32>d144360e</crc32>
+<sha1>b52a55652b27caf1d3b8f24769af30b9839fcd90</sha1>
+</file>
+<file name="040.afpk" source="derivative">
+<format>Columbia Peaks</format>
+<original>040.mp3</original>
+<mtime>1575476823</mtime>
+<size>256056</size>
+<md5>be80b4b646c0708a6643372f533c3f2d</md5>
+<crc32>556e02ef</crc32>
+<sha1>cf2e11fb7dfb76a5cd6e32154eb3e7f80269d370</sha1>
+</file>
+<file name="040.mp3" source="original">
+<mtime>1575456334</mtime>
+<size>3097312</size>
+<md5>cea4172d3560fa348755cb7666cfea5a</md5>
+<crc32>3bd6f630</crc32>
+<sha1>99392119636c67ee87fd1118df2351fab3bb770a</sha1>
+<format>VBR MP3</format>
+<length>1547.63</length>
+<height>0</height>
+<width>0</width>
+<title/>
+<creator/>
+<album/>
+<track>40</track>
+</file>
+<file name="040.ogg" source="derivative">
+<format>Ogg Vorbis</format>
+<original>040.mp3</original>
+<mtime>1575473222</mtime>
+<size>5403038</size>
+<md5>d0b2c19f825713c891d75c82be645d14</md5>
+<crc32>18ffb876</crc32>
+<sha1>58e0a908f9862994b92c79a216c36206be807420</sha1>
+<length>1547.57</length>
+<height>0</height>
+<width>0</width>
+</file>
+<file name="040.png" source="derivative">
+<format>PNG</format>
+<original>040.mp3</original>
+<mtime>1575474762</mtime>
+<size>36158</size>
+<md5>2af8b4a30412e4497ab1aaf27e8fe067</md5>
+<crc32>23155a79</crc32>
+<sha1>2e49cda40b39fb9856f1108310e44cd636fc9a0f</sha1>
+</file>
+<file name="040_spectrogram.png" source="derivative">
+<format>Spectrogram</format>
+<original>040.mp3</original>
+<mtime>1575475754</mtime>
+<size>180023</size>
+<md5>b14decceedff121c256b4e1c37d6df22</md5>
+<crc32>e1aaee1b</crc32>
+<sha1>60c6ae38f90417d614fc290b12d9922b19c6fb08</sha1>
+</file>
+<file name="041.afpk" source="derivative">
+<format>Columbia Peaks</format>
+<original>041.mp3</original>
+<mtime>1575477144</mtime>
+<size>176408</size>
+<md5>d945bf8ef524ba33f80f1c09413b4b31</md5>
+<crc32>84cbaddb</crc32>
+<sha1>d57ff94758bcfe7e741094ccb5e2fda57961bfbd</sha1>
+</file>
+<file name="041.mp3" source="original">
+<mtime>1575456340</mtime>
+<size>2112784</size>
+<md5>b500932947befaf9e6dccd3e49a7b088</md5>
+<crc32>fcc9f38d</crc32>
+<sha1>f8fad2f9081fbb33f912fe6b1ec5bf9a9b963ba0</sha1>
+<format>VBR MP3</format>
+<length>1055.37</length>
+<height>0</height>
+<width>0</width>
+<title/>
+<creator/>
+<album/>
+<track>41</track>
+</file>
+<file name="041.ogg" source="derivative">
+<format>Ogg Vorbis</format>
+<original>041.mp3</original>
+<mtime>1575473304</mtime>
+<size>3611919</size>
+<md5>530765b6b766193c59f4f1395d6c854c</md5>
+<crc32>444f3024</crc32>
+<sha1>8be6dada70532335989600ca7bef133b35486a8c</sha1>
+<length>1055.3</length>
+<height>0</height>
+<width>0</width>
+</file>
+<file name="041.png" source="derivative">
+<format>PNG</format>
+<original>041.mp3</original>
+<mtime>1575475329</mtime>
+<size>35831</size>
+<md5>4012f6f22e3b667dac6640ca0f0a25e7</md5>
+<crc32>2faabdf2</crc32>
+<sha1>9d5955bfd23b6c2054e634a85b333bfefccce375</sha1>
+</file>
+<file name="041_spectrogram.png" source="derivative">
+<format>Spectrogram</format>
+<original>041.mp3</original>
+<mtime>1575475702</mtime>
+<size>188088</size>
+<md5>b97eeac242e87c7ec16b8477f4305a69</md5>
+<crc32>8056d08b</crc32>
+<sha1>e3d91608bbcdbc8a5b5c1d4fd6021a3bcfc3f5e8</sha1>
+</file>
+<file name="042.afpk" source="derivative">
+<format>Columbia Peaks</format>
+<original>042.mp3</original>
+<mtime>1575477013</mtime>
+<size>176736</size>
+<md5>f775e6a5f2bc288e0ab5fa04cbf40cfa</md5>
+<crc32>08fe5f84</crc32>
+<sha1>a901b0ade016c4d8e78b9268b49ec60b30a09e1d</sha1>
+</file>
+<file name="042.mp3" source="original">
+<mtime>1575456356</mtime>
+<size>2171104</size>
+<md5>3d14bcbf4908ff9c1991ddb719529c45</md5>
+<crc32>5e2940c3</crc32>
+<sha1>ea0a8cd094c843c9cf05708569b7cc9fe6d42053</sha1>
+<format>VBR MP3</format>
+<length>1084.53</length>
+<height>0</height>
+<width>0</width>
+<title/>
+<creator/>
+<album/>
+<track>42</track>
+</file>
+<file name="042.ogg" source="derivative">
+<format>Ogg Vorbis</format>
+<original>042.mp3</original>
+<mtime>1575473381</mtime>
+<size>3735778</size>
+<md5>ef3c773e4fb0862a659562c72cd15dee</md5>
+<crc32>9cadc909</crc32>
+<sha1>c5b0e1936917a0e670fb09d31f2b045a3404945e</sha1>
+<length>1084.46</length>
+<height>0</height>
+<width>0</width>
+</file>
+<file name="042.png" source="derivative">
+<format>PNG</format>
+<original>042.mp3</original>
+<mtime>1575475210</mtime>
+<size>38714</size>
+<md5>506855135ad03939a06e5c7761e04a7b</md5>
+<crc32>425cf638</crc32>
+<sha1>46760e569dbac00f9015f628b104bc9e0ffb2e82</sha1>
+</file>
+<file name="042_spectrogram.png" source="derivative">
+<format>Spectrogram</format>
+<original>042.mp3</original>
+<mtime>1575475732</mtime>
+<size>186667</size>
+<md5>32bcd7abe5c920d57b1a778495b424b2</md5>
+<crc32>6b5187c5</crc32>
+<sha1>6f1e33d21a3fae5a36b02b61ef7d85601fd0dfd0</sha1>
+</file>
+<file name="043.afpk" source="derivative">
+<format>Columbia Peaks</format>
+<original>043.mp3</original>
+<mtime>1575477098</mtime>
+<size>193664</size>
+<md5>af4f273e4c054bf2f7d8cfaf5b6f3df6</md5>
+<crc32>1425a2a5</crc32>
+<sha1>c757bc9dac315f411acdca481a456f010c924cd8</sha1>
+</file>
+<file name="043.mp3" source="original">
+<mtime>1575456365</mtime>
+<size>2329576</size>
+<md5>9d9c571067cac5329e1d66a279d41b1d</md5>
+<crc32>9fce93d5</crc32>
+<sha1>692606123e16358bdc4fa8dbebfbe208f4cb0fa8</sha1>
+<format>VBR MP3</format>
+<length>1163.76</length>
+<height>0</height>
+<width>0</width>
+<title/>
+<creator/>
+<album/>
+<track>43</track>
+</file>
+<file name="043.ogg" source="derivative">
+<format>Ogg Vorbis</format>
+<original>043.mp3</original>
+<mtime>1575473327</mtime>
+<size>3991578</size>
+<md5>0f719952fea355465f261e1b95275c3a</md5>
+<crc32>ae0f1f97</crc32>
+<sha1>2d47fa3f2452d0873ea62830e94f35b115efd634</sha1>
+<length>1163.7</length>
+<height>0</height>
+<width>0</width>
+</file>
+<file name="043.png" source="derivative">
+<format>PNG</format>
+<original>043.mp3</original>
+<mtime>1575475411</mtime>
+<size>37968</size>
+<md5>a337204016cf06ef3b8547b05042f4d0</md5>
+<crc32>e6bc9df4</crc32>
+<sha1>6dff36642e1ddae633242f76c8cd484b8e71f7d0</sha1>
+</file>
+<file name="043_spectrogram.png" source="derivative">
+<format>Spectrogram</format>
+<original>043.mp3</original>
+<mtime>1575475661</mtime>
+<size>186701</size>
+<md5>3e7f12759bf32d1a65484adc81ec2f91</md5>
+<crc32>c8c40f7b</crc32>
+<sha1>f5d2e377bf2381b46024a60f8e2f483732a219c6</sha1>
+</file>
+<file name="044.afpk" source="derivative">
+<format>Columbia Peaks</format>
+<original>044.mp3</original>
+<mtime>1575476903</mtime>
+<size>76064</size>
+<md5>4e198697b52f21e3fcd3a402e5fbf521</md5>
+<crc32>af13fd5a</crc32>
+<sha1>fcc761268e9a51078c6988f8dd5befe2f3f5c26c</sha1>
+</file>
+<file name="044.mp3" source="original">
+<mtime>1575456385</mtime>
+<size>936232</size>
+<md5>f7175ffd40be1e12189ef2a8afa7d550</md5>
+<crc32>bc1c6551</crc32>
+<sha1>43feea8d826da2fc208ddd228c0937381bdb59b3</sha1>
+<format>VBR MP3</format>
+<length>467.09</length>
+<height>0</height>
+<width>0</width>
+<title/>
+<creator/>
+<album/>
+<track>44</track>
+</file>
+<file name="044.ogg" source="derivative">
+<format>Ogg Vorbis</format>
+<original>044.mp3</original>
+<mtime>1575473142</mtime>
+<size>1625738</size>
+<md5>f7a244ac9e19de55bdd089e3985182ef</md5>
+<crc32>4d95c2a8</crc32>
+<sha1>c71040fccbe5fdf1570d2eb21db17bb19dbcf9a1</sha1>
+<length>467.03</length>
+<height>0</height>
+<width>0</width>
+</file>
+<file name="044.png" source="derivative">
+<format>PNG</format>
+<original>044.mp3</original>
+<mtime>1575475496</mtime>
+<size>39117</size>
+<md5>d316d10a96c67c0fa60ab1540e7dd0a6</md5>
+<crc32>a7c5ff64</crc32>
+<sha1>6e70c853de1cea22b569a42d33c01bacf204e3e9</sha1>
+</file>
+<file name="044_spectrogram.png" source="derivative">
+<format>Spectrogram</format>
+<original>044.mp3</original>
+<mtime>1575475641</mtime>
+<size>193760</size>
+<md5>7cc94a84a8698427fc61add832e7b2bf</md5>
+<crc32>8c606f55</crc32>
+<sha1>32c99e66e35f9749c9832c14d4075664a345d654</sha1>
+</file>
+<file name="045.afpk" source="derivative">
+<format>Columbia Peaks</format>
+<original>045.mp3</original>
+<mtime>1575476975</mtime>
+<size>109576</size>
+<md5>444cc956d9712f10d35406031569c6d2</md5>
+<crc32>333a93eb</crc32>
+<sha1>fbb44500dcabbb7a5cc04eba23d96fa608adcf7a</sha1>
+</file>
+<file name="045.mp3" source="original">
+<mtime>1575456391</mtime>
+<size>1281904</size>
+<md5>fefa0418bf6bd613352c24eae9691783</md5>
+<crc32>6cb48ab2</crc32>
+<sha1>a5ff779fd20ed638e33cd7d1909b3638f418f235</sha1>
+<format>VBR MP3</format>
+<length>639.93</length>
+<height>0</height>
+<width>0</width>
+<title/>
+<creator/>
+<album/>
+<track>45</track>
+</file>
+<file name="045.ogg" source="derivative">
+<format>Ogg Vorbis</format>
+<original>045.mp3</original>
+<mtime>1575473248</mtime>
+<size>2236476</size>
+<md5>42e8a1bbe8553fe582b58f15c020d354</md5>
+<crc32>3cdc25ef</crc32>
+<sha1>bfbf0f05ae64aebd0f983b1947ebcd508744f9f7</sha1>
+<length>639.86</length>
+<height>0</height>
+<width>0</width>
+</file>
+<file name="045.png" source="derivative">
+<format>PNG</format>
+<original>045.mp3</original>
+<mtime>1575475468</mtime>
+<size>39868</size>
+<md5>3b2faa6c3f8c489c24d6b1ba55cb4f34</md5>
+<crc32>b8240317</crc32>
+<sha1>ef816fa70a82bb5270532d74a82a1ac420694bcd</sha1>
+</file>
+<file name="045_spectrogram.png" source="derivative">
+<format>Spectrogram</format>
+<original>045.mp3</original>
+<mtime>1575475835</mtime>
+<size>190142</size>
+<md5>bbe3c8b97c46331423251a3475964f65</md5>
+<crc32>a6ac8c50</crc32>
+<sha1>0b4d3d6915124ee4eb8c06a7e38c8f95cd29ce0b</sha1>
+</file>
+<file name="046.afpk" source="derivative">
+<format>Columbia Peaks</format>
+<original>046.mp3</original>
+<mtime>1575476946</mtime>
+<size>131912</size>
+<md5>cd2bef38d938f2c7f49d94025980c7a9</md5>
+<crc32>79564944</crc32>
+<sha1>0559206855a2079fab549f30942bf91df31aeff2</sha1>
+</file>
+<file name="046.mp3" source="original">
+<mtime>1575456413</mtime>
+<size>1645432</size>
+<md5>ccf5036c88af0e5bbd74deee27ea58ea</md5>
+<crc32>f39ed02d</crc32>
+<sha1>ae7ae5a4c28e512793f1372894a12b9f83b6fb78</sha1>
+<format>VBR MP3</format>
+<length>821.69</length>
+<height>0</height>
+<width>0</width>
+<title/>
+<creator/>
+<album/>
+<track>46</track>
+</file>
+<file name="046.ogg" source="derivative">
+<format>Ogg Vorbis</format>
+<original>046.mp3</original>
+<mtime>1575473236</mtime>
+<size>2867825</size>
+<md5>e2f8d9d172394be0ac68cacf58b404a1</md5>
+<crc32>10611623</crc32>
+<sha1>41453851263c0ab482d7c87026d25e4f02d21b19</sha1>
+<length>821.63</length>
+<height>0</height>
+<width>0</width>
+</file>
+<file name="046.png" source="derivative">
+<format>PNG</format>
+<original>046.mp3</original>
+<mtime>1575474807</mtime>
+<size>37964</size>
+<md5>5f5fe9b564ed622e13ac4e4ec0c5b525</md5>
+<crc32>7e7c827d</crc32>
+<sha1>81fabf43046644094bcdff8f8eaeb4aee028dd9c</sha1>
+</file>
+<file name="046_spectrogram.png" source="derivative">
+<format>Spectrogram</format>
+<original>046.mp3</original>
+<mtime>1575475916</mtime>
+<size>187505</size>
+<md5>1d43dca5c79e940a9324655f9e5fde58</md5>
+<crc32>b2d23c72</crc32>
+<sha1>83a4add03113ed934080373ca6eea33ddf91ed9c</sha1>
+</file>
+<file name="047.afpk" source="derivative">
+<format>Columbia Peaks</format>
+<original>047.mp3</original>
+<mtime>1575476838</mtime>
+<size>115496</size>
+<md5>9384ce81a11d942349629c2af5097211</md5>
+<crc32>8f1aef48</crc32>
+<sha1>8f94a76abf22647654cf203952e08e9674409f3e</sha1>
+</file>
+<file name="047.mp3" source="original">
+<mtime>1575456423</mtime>
+<size>1388536</size>
+<md5>f71f81aa9f3ee924292685fcd0fa956a</md5>
+<crc32>cc0a362d</crc32>
+<sha1>2f1241447912e1ae2fea77765dba875805e18b7d</sha1>
+<format>VBR MP3</format>
+<length>693.24</length>
+<height>0</height>
+<width>0</width>
+<title/>
+<creator/>
+<album/>
+<track>47</track>
+</file>
+<file name="047.ogg" source="derivative">
+<format>Ogg Vorbis</format>
+<original>047.mp3</original>
+<mtime>1575473175</mtime>
+<size>2426257</size>
+<md5>1ddda40aaa714120d158765950c1ea16</md5>
+<crc32>1a7ec310</crc32>
+<sha1>17dd2799d94c3dbc8b7ef6d7d6461f472986fe66</sha1>
+<length>693.18</length>
+<height>0</height>
+<width>0</width>
+</file>
+<file name="047.png" source="derivative">
+<format>PNG</format>
+<original>047.mp3</original>
+<mtime>1575475364</mtime>
+<size>39204</size>
+<md5>d0569ae526807da285b79be9c6f56b1a</md5>
+<crc32>763f86a3</crc32>
+<sha1>098e40b4f1d48223b41fda9145c8ef10201ddcb3</sha1>
+</file>
+<file name="047_spectrogram.png" source="derivative">
+<format>Spectrogram</format>
+<original>047.mp3</original>
+<mtime>1575475585</mtime>
+<size>186510</size>
+<md5>c15d502a9feac5233e2fbe0f61a36eb2</md5>
+<crc32>a5905685</crc32>
+<sha1>776bb66ddc314c9b9f4b80188d107c377e48e437</sha1>
+</file>
+<file name="048.afpk" source="derivative">
+<format>Columbia Peaks</format>
+<original>048.mp3</original>
+<mtime>1575476627</mtime>
+<size>106936</size>
+<md5>976770ffba464778c9ad44914b74c37f</md5>
+<crc32>7d0b7549</crc32>
+<sha1>b1c9fe6b6e240e2bd0e8a15f87df05552e3b7d7f</sha1>
+</file>
+<file name="048.mp3" source="original">
+<mtime>1575456429</mtime>
+<size>1286512</size>
+<md5>8439448ab8aafc89ec704c4fa4b236e5</md5>
+<crc32>fa4ba7bd</crc32>
+<sha1>40bc0610d4080764222721aac28da1feb5add336</sha1>
+<format>VBR MP3</format>
+<length>642.23</length>
+<height>0</height>
+<width>0</width>
+<title/>
+<creator/>
+<album/>
+<track>48</track>
+</file>
+<file name="048.ogg" source="derivative">
+<format>Ogg Vorbis</format>
+<original>048.mp3</original>
+<mtime>1575473449</mtime>
+<size>2240245</size>
+<md5>0d6b3601380ed45fe7c344d66abf30fe</md5>
+<crc32>c6241500</crc32>
+<sha1>e66f2b89a498e5872d426992a6b72630528ee9ef</sha1>
+<length>642.17</length>
+<height>0</height>
+<width>0</width>
+</file>
+<file name="048.png" source="derivative">
+<format>PNG</format>
+<original>048.mp3</original>
+<mtime>1575475382</mtime>
+<size>37720</size>
+<md5>b059d31fa09b420e06ea70dea57f91fa</md5>
+<crc32>ae080c87</crc32>
+<sha1>704e6406b8529868f8d5171040e93f628428d75c</sha1>
+</file>
+<file name="048_spectrogram.png" source="derivative">
+<format>Spectrogram</format>
+<original>048.mp3</original>
+<mtime>1575475646</mtime>
+<size>187161</size>
+<md5>76cef1fbde2e4a50d8245894037d39c9</md5>
+<crc32>29cced19</crc32>
+<sha1>6685791da232733b078de8d1a820c515357195d7</sha1>
+</file>
+<file name="049.afpk" source="derivative">
+<format>Columbia Peaks</format>
+<original>049.mp3</original>
+<mtime>1575477031</mtime>
+<size>74936</size>
+<md5>b9948d377560124f7df854fe2a0dac20</md5>
+<crc32>9bfc3800</crc32>
+<sha1>e8bdc2f0ca7ebeaee3637d9d07a82b13dd252e64</sha1>
+</file>
+<file name="049.mp3" source="original">
+<mtime>1575456436</mtime>
+<size>888424</size>
+<md5>2830ed5e3bf8b2890273d36c7b6fef42</md5>
+<crc32>4a041336</crc32>
+<sha1>1e26249430c1ad7534d86a7c6ad28761a3a17ad1</sha1>
+<format>VBR MP3</format>
+<length>443.19</length>
+<height>0</height>
+<width>0</width>
+<title/>
+<creator/>
+<album/>
+<track>49</track>
+</file>
+<file name="049.ogg" source="derivative">
+<format>Ogg Vorbis</format>
+<original>049.mp3</original>
+<mtime>1575473391</mtime>
+<size>1539157</size>
+<md5>92be003ce1ae2915afcfd5bc6f78989f</md5>
+<crc32>bd51c667</crc32>
+<sha1>5a09bedebe3fa92af1270f5d911b79f2d68dccb7</sha1>
+<length>443.12</length>
+<height>0</height>
+<width>0</width>
+</file>
+<file name="049.png" source="derivative">
+<format>PNG</format>
+<original>049.mp3</original>
+<mtime>1575474748</mtime>
+<size>38621</size>
+<md5>5e5d75ca487c7f206309d9df19ca0376</md5>
+<crc32>ded39476</crc32>
+<sha1>e51c0cf4e9e2b85d3f3d67b782eff00d2248ab57</sha1>
+</file>
+<file name="049_spectrogram.png" source="derivative">
+<format>Spectrogram</format>
+<original>049.mp3</original>
+<mtime>1575475928</mtime>
+<size>191586</size>
+<md5>ccdf011945d8e4622e09f9e3c583c91c</md5>
+<crc32>a326df97</crc32>
+<sha1>ed0f1b40a0c04a1086a30134e3f31a74d817082c</sha1>
+</file>
+<file name="050.afpk" source="derivative">
+<format>Columbia Peaks</format>
+<original>050.mp3</original>
+<mtime>1575476205</mtime>
+<size>86904</size>
+<md5>30422d89d87f558817a46c3ceaa8d7a7</md5>
+<crc32>dec110ff</crc32>
+<sha1>885fa519c9a23dd2040ab7df1698b827c496dbd7</sha1>
+</file>
+<file name="050.mp3" source="original">
+<mtime>1575456444</mtime>
+<size>1005064</size>
+<md5>61a47d11e7a2154f2036d44a584ef4d1</md5>
+<crc32>ca4cf29d</crc32>
+<sha1>3527743369b06c5cd7059804384d0833f02031c2</sha1>
+<format>VBR MP3</format>
+<length>501.51</length>
+<height>0</height>
+<width>0</width>
+<title/>
+<creator/>
+<album/>
+<track>50</track>
+</file>
+<file name="050.ogg" source="derivative">
+<format>Ogg Vorbis</format>
+<original>050.mp3</original>
+<mtime>1575472935</mtime>
+<size>1727428</size>
+<md5>4037decb72d4896d5dfe1ac24c620869</md5>
+<crc32>21f063fc</crc32>
+<sha1>161bf7d838cfa54ed4292a9e1a6e82b548186578</sha1>
+<length>501.44</length>
+<height>0</height>
+<width>0</width>
+</file>
+<file name="050.png" source="derivative">
+<format>PNG</format>
+<original>050.mp3</original>
+<mtime>1575475274</mtime>
+<size>37522</size>
+<md5>d8016d602aa21c414c64011169052c87</md5>
+<crc32>ec786862</crc32>
+<sha1>33cfd7f32ab8a7423556b189e7a3ebc3ecdbc100</sha1>
+</file>
+<file name="050_spectrogram.png" source="derivative">
+<format>Spectrogram</format>
+<original>050.mp3</original>
+<mtime>1575475615</mtime>
+<size>193191</size>
+<md5>a087aa14996d1c318a1cb116a0402678</md5>
+<crc32>be9ebdf1</crc32>
+<sha1>1b6ea583120db514f8866ed1eef57555adb86f38</sha1>
+</file>
+<file name="051.afpk" source="derivative">
+<format>Columbia Peaks</format>
+<original>051.mp3</original>
+<mtime>1575476559</mtime>
+<size>73184</size>
+<md5>0f04c9c098c54b21b67353a8d6f7ccf6</md5>
+<crc32>faa9ba92</crc32>
+<sha1>5907484fe7e8925a071090d3440fd2b34de689d1</sha1>
+</file>
+<file name="051.mp3" source="original">
+<mtime>1575456457</mtime>
+<size>867400</size>
+<md5>82e30c53978b7e20c40abbdd7c64969d</md5>
+<crc32>9737fc70</crc32>
+<sha1>b61ee61154fccf37105c65722a96dda026f7fb80</sha1>
+<format>VBR MP3</format>
+<length>432.68</length>
+<height>0</height>
+<width>0</width>
+<title/>
+<creator/>
+<album/>
+<track>51</track>
+</file>
+<file name="051.ogg" source="derivative">
+<format>Ogg Vorbis</format>
+<original>051.mp3</original>
+<mtime>1575474617</mtime>
+<size>1492796</size>
+<md5>40a7a6d7f35bcfa74d3881c54a2a0be6</md5>
+<crc32>86c84549</crc32>
+<sha1>edd250ac661804a6b03906977174695d9bcd381e</sha1>
+<length>432.61</length>
+<height>0</height>
+<width>0</width>
+</file>
+<file name="051.png" source="derivative">
+<format>PNG</format>
+<original>051.mp3</original>
+<mtime>1575475395</mtime>
+<size>38718</size>
+<md5>4c71f6b1ac217865f5c2bb403a8a264d</md5>
+<crc32>88b53eac</crc32>
+<sha1>c98d9f9f27a047e7af0f0799c59869adc5751a28</sha1>
+</file>
+<file name="051_spectrogram.png" source="derivative">
+<format>Spectrogram</format>
+<original>051.mp3</original>
+<mtime>1575475638</mtime>
+<size>192245</size>
+<md5>2eac12ce79c9a14bf24b8445f72d54f7</md5>
+<crc32>d062d96e</crc32>
+<sha1>4613547bb8738133cc67fa703a97478432565249</sha1>
+</file>
+<file name="052.afpk" source="derivative">
+<format>Columbia Peaks</format>
+<original>052.mp3</original>
+<mtime>1575476349</mtime>
+<size>66272</size>
+<md5>19dd1765110cdd869ba50ce5fd536253</md5>
+<crc32>4a61586a</crc32>
+<sha1>82c91dba2944cb5e09f402a1c1f95591d42e59ec</sha1>
+</file>
+<file name="052.mp3" source="original">
+<mtime>1575456462</mtime>
+<size>786256</size>
+<md5>2c4301414c4df7b66c51dc2cfd75611e</md5>
+<crc32>bfbd36da</crc32>
+<sha1>e4c650208c105a9b7417cffabac329f9f4021ea4</sha1>
+<format>VBR MP3</format>
+<length>392.1</length>
+<height>0</height>
+<width>0</width>
+<title/>
+<creator/>
+<album/>
+<track>52</track>
+</file>
+<file name="052.ogg" source="derivative">
+<format>Ogg Vorbis</format>
+<original>052.mp3</original>
+<mtime>1575474593</mtime>
+<size>1352660</size>
+<md5>1cfe2394bdc63d79472b7290e769e14a</md5>
+<crc32>e674fc2f</crc32>
+<sha1>c5be46eccd2d91f9377ab50505ee9faf0f9c6cc2</sha1>
+<length>392.04</length>
+<height>0</height>
+<width>0</width>
+</file>
+<file name="052.png" source="derivative">
+<format>PNG</format>
+<original>052.mp3</original>
+<mtime>1575475509</mtime>
+<size>38919</size>
+<md5>5db423d0b2eb8659ce124a0f6b05e8da</md5>
+<crc32>ded37aca</crc32>
+<sha1>796196d008f03e3b0b2b35b8b38b5d00d17a6ab0</sha1>
+</file>
+<file name="052_spectrogram.png" source="derivative">
+<format>Spectrogram</format>
+<original>052.mp3</original>
+<mtime>1575475664</mtime>
+<size>192905</size>
+<md5>7194f33d48386a394cb3c01fbd11e473</md5>
+<crc32>4c262e4f</crc32>
+<sha1>b895ddc3482db212d42b7eaf1d9a72610e1d2095</sha1>
+</file>
+<file name="053.afpk" source="derivative">
+<format>Columbia Peaks</format>
+<original>053.mp3</original>
+<mtime>1575476060</mtime>
+<size>73032</size>
+<md5>8e4887dc594df8be80551a399f83b568</md5>
+<crc32>144c3c46</crc32>
+<sha1>81b903415a51d46af5408a75decb3254a896188f</sha1>
+</file>
+<file name="053.mp3" source="original">
+<mtime>1575456466</mtime>
+<size>885112</size>
+<md5>d8fab7036c515951364d618cad1948fd</md5>
+<crc32>1088f6f9</crc32>
+<sha1>97189ac0e9933830b65a5b61cac47265d304a549</sha1>
+<format>VBR MP3</format>
+<length>441.53</length>
+<height>0</height>
+<width>0</width>
+<title/>
+<creator/>
+<album/>
+<track>53</track>
+</file>
+<file name="053.ogg" source="derivative">
+<format>Ogg Vorbis</format>
+<original>053.mp3</original>
+<mtime>1575474530</mtime>
+<size>1528235</size>
+<md5>641c133511a1adc73bdd14eddb614ef5</md5>
+<crc32>a2fa8e1f</crc32>
+<sha1>5d28d8447f80bcd6ff5e9b757a301db94eefb291</sha1>
+<length>441.47</length>
+<height>0</height>
+<width>0</width>
+</file>
+<file name="053.png" source="derivative">
+<format>PNG</format>
+<original>053.mp3</original>
+<mtime>1575475441</mtime>
+<size>37062</size>
+<md5>c7c9d199eec5582d5cc02bf1e11f76d3</md5>
+<crc32>9cafec4f</crc32>
+<sha1>35dbc727253884a4d9888621bc4f4818ec53db0b</sha1>
+</file>
+<file name="053_spectrogram.png" source="derivative">
+<format>Spectrogram</format>
+<original>053.mp3</original>
+<mtime>1575475575</mtime>
+<size>192051</size>
+<md5>bf616b72c5b458bf7677965eb1025535</md5>
+<crc32>96551ea9</crc32>
+<sha1>73dd0b674ad1e37ba1310792349b3dd3259b67ca</sha1>
+</file>
+<file name="054.afpk" source="derivative">
+<format>Columbia Peaks</format>
+<original>054.mp3</original>
+<mtime>1575476102</mtime>
+<size>75104</size>
+<md5>7107eb9db337242305d8e7626c572d0c</md5>
+<crc32>1ed2cc6f</crc32>
+<sha1>93bf58300e5d118eba0d10e0264534830cb74a99</sha1>
+</file>
+<file name="054.mp3" source="original">
+<mtime>1575456471</mtime>
+<size>922192</size>
+<md5>438032519e3149062fb2b8745cf2f6ef</md5>
+<crc32>6be0a950</crc32>
+<sha1>0af7605740c870f4034fc13a0af6414388b79552</sha1>
+<format>VBR MP3</format>
+<length>460.07</length>
+<height>0</height>
+<width>0</width>
+<title/>
+<creator/>
+<album/>
+<track>54</track>
+</file>
+<file name="054.ogg" source="derivative">
+<format>Ogg Vorbis</format>
+<original>054.mp3</original>
+<mtime>1575474505</mtime>
+<size>1640866</size>
+<md5>e27cf51de76c77bc4c798113bf278d3b</md5>
+<crc32>c6724acb</crc32>
+<sha1>cfb00bead5ab74f34d7bb15df9c846a1fa5ddba8</sha1>
+<length>460.01</length>
+<height>0</height>
+<width>0</width>
+</file>
+<file name="054.png" source="derivative">
+<format>PNG</format>
+<original>054.mp3</original>
+<mtime>1575475415</mtime>
+<size>37299</size>
+<md5>fb11975c134a3e2f059ef66c73593f19</md5>
+<crc32>1e463961</crc32>
+<sha1>bcb11dc9a6486de4dbb3fbe6d81cd14b8ce53788</sha1>
+</file>
+<file name="054_spectrogram.png" source="derivative">
+<format>Spectrogram</format>
+<original>054.mp3</original>
+<mtime>1575475911</mtime>
+<size>191434</size>
+<md5>e947295353087101b60ea4e721cd35a2</md5>
+<crc32>b36d9ffd</crc32>
+<sha1>d826880bf44f24fc27d6c621fda5ff8cab476e62</sha1>
+</file>
+<file name="055.afpk" source="derivative">
+<format>Columbia Peaks</format>
+<original>055.mp3</original>
+<mtime>1575476129</mtime>
+<size>87584</size>
+<md5>2285463bb47515f2bda2f0c42f1b2a04</md5>
+<crc32>6d8efb8d</crc32>
+<sha1>e77af377bd76511d7b4a040bf97926ca00d89b5d</sha1>
+</file>
+<file name="055.mp3" source="original">
+<mtime>1575456478</mtime>
+<size>1089808</size>
+<md5>adcf5969753d8ac87f168d1e67024dc0</md5>
+<crc32>939df06b</crc32>
+<sha1>bac1865542116780e73aebdad416481bbd25e9e8</sha1>
+<format>VBR MP3</format>
+<length>543.88</length>
+<height>0</height>
+<width>0</width>
+<title/>
+<creator/>
+<album/>
+<track>55</track>
+</file>
+<file name="055.ogg" source="derivative">
+<format>Ogg Vorbis</format>
+<original>055.mp3</original>
+<mtime>1575474629</mtime>
+<size>1952633</size>
+<md5>a00cca2fce360378bb8642c3b004c081</md5>
+<crc32>9fbbb5b7</crc32>
+<sha1>b90a76b5e6435962c0961aa99c45dcab49f182f9</sha1>
+<length>543.82</length>
+<height>0</height>
+<width>0</width>
+</file>
+<file name="055.png" source="derivative">
+<format>PNG</format>
+<original>055.mp3</original>
+<mtime>1575474820</mtime>
+<size>38681</size>
+<md5>6fd00b7048b8b363de399dcb7ce2f594</md5>
+<crc32>3f54d268</crc32>
+<sha1>4e17d766876c71861ce97acf3ccdf00e81c71ce3</sha1>
+</file>
+<file name="055_spectrogram.png" source="derivative">
+<format>Spectrogram</format>
+<original>055.mp3</original>
+<mtime>1575475890</mtime>
+<size>190938</size>
+<md5>a72586aae7520d449995dc3a0929d39a</md5>
+<crc32>b96f0206</crc32>
+<sha1>fff87f5d79ff2f7707938e1fe114f3d078641896</sha1>
+</file>
+<file name="056.afpk" source="derivative">
+<format>Columbia Peaks</format>
+<original>056.mp3</original>
+<mtime>1575476163</mtime>
+<size>96384</size>
+<md5>6136ec25c6511b1915236494a8193287</md5>
+<crc32>a50386f2</crc32>
+<sha1>ef6d58cb96022aa48b9c6ea5f547a469a81ca29a</sha1>
+</file>
+<file name="056.mp3" source="original">
+<mtime>1575456485</mtime>
+<size>1142368</size>
+<md5>01e879cebf9e561d4b8a05e269da1904</md5>
+<crc32>31c84d8e</crc32>
+<sha1>7aaa3c4ff826f1578df43f4253908fc61631a5e4</sha1>
+<format>VBR MP3</format>
+<length>570.16</length>
+<height>0</height>
+<width>0</width>
+<title/>
+<creator/>
+<album/>
+<track>56</track>
+</file>
+<file name="056.ogg" source="derivative">
+<format>Ogg Vorbis</format>
+<original>056.mp3</original>
+<mtime>1575474656</mtime>
+<size>2029302</size>
+<md5>b11ac059b964641adc809af451a406ed</md5>
+<crc32>7848be42</crc32>
+<sha1>2ff4634f5c28d60b73c343b55aabd730844b5a7e</sha1>
+<length>570.1</length>
+<height>0</height>
+<width>0</width>
+</file>
+<file name="056.png" source="derivative">
+<format>PNG</format>
+<original>056.mp3</original>
+<mtime>1575474780</mtime>
+<size>37303</size>
+<md5>f42a07cf51270711e93514855de5dca7</md5>
+<crc32>5ba81e83</crc32>
+<sha1>95684e11116634620101e44dc907b95c04ed1b36</sha1>
+</file>
+<file name="056_spectrogram.png" source="derivative">
+<format>Spectrogram</format>
+<original>056.mp3</original>
+<mtime>1575475572</mtime>
+<size>193520</size>
+<md5>451ce115a51670574191a2d0a3d1660a</md5>
+<crc32>a44764b2</crc32>
+<sha1>5b810c70c46891d42103eae8ef7861341e0c5adf</sha1>
+</file>
+<file name="057.afpk" source="derivative">
+<format>Columbia Peaks</format>
+<original>057.mp3</original>
+<mtime>1575476533</mtime>
+<size>116776</size>
+<md5>2c78ca188ee02d0e99ed562adef23680</md5>
+<crc32>6f1b5ed9</crc32>
+<sha1>05491d7fc532799247bc9569487c0036f54529df</sha1>
+</file>
+<file name="057.mp3" source="original">
+<mtime>1575456502</mtime>
+<size>1453480</size>
+<md5>858f1a584fefc97de7272ba836adc090</md5>
+<crc32>e30d06c3</crc32>
+<sha1>d167fe0f22c00bc78b2e201287fbbbe6c90f46a0</sha1>
+<format>VBR MP3</format>
+<length>725.72</length>
+<height>0</height>
+<width>0</width>
+<title/>
+<creator/>
+<album/>
+<track>57</track>
+</file>
+<file name="057.ogg" source="derivative">
+<format>Ogg Vorbis</format>
+<original>057.mp3</original>
+<mtime>1575474553</mtime>
+<size>2603603</size>
+<md5>e235d86b44ec5e2104150c606f09d5f3</md5>
+<crc32>7d7f2546</crc32>
+<sha1>b32e60840b18037e3ea6d43d820b3e34eb578ee7</sha1>
+<length>725.65</length>
+<height>0</height>
+<width>0</width>
+</file>
+<file name="057.png" source="derivative">
+<format>PNG</format>
+<original>057.mp3</original>
+<mtime>1575475459</mtime>
+<size>38569</size>
+<md5>59f28caf8dca87110e0da7ecbdcfa2b8</md5>
+<crc32>36932686</crc32>
+<sha1>12af79e910a8b9a2f64d4b8cfc86bb76eaf6e8dd</sha1>
+</file>
+<file name="057_spectrogram.png" source="derivative">
+<format>Spectrogram</format>
+<original>057.mp3</original>
+<mtime>1575475618</mtime>
+<size>188062</size>
+<md5>ae5ab01b810398c07aebf8db0becc3cb</md5>
+<crc32>45b58743</crc32>
+<sha1>8062365968d30100bee65f90676b81162f500156</sha1>
+</file>
+<file name="058.afpk" source="derivative">
+<format>Columbia Peaks</format>
+<original>058.mp3</original>
+<mtime>1575476409</mtime>
+<size>93304</size>
+<md5>783ee09dff2ecdc9b223d5ef41253815</md5>
+<crc32>27b5f135</crc32>
+<sha1>72f6f755b869ff5ccfd5e240fe7146493a6c4b64</sha1>
+</file>
+<file name="058.mp3" source="original">
+<mtime>1575456507</mtime>
+<size>1137760</size>
+<md5>d0fb22f41510998187917cd1604f2d66</md5>
+<crc32>5a9b6f1d</crc32>
+<sha1>022db3fbe9af64cae104225320da4f05861deb9a</sha1>
+<format>VBR MP3</format>
+<length>567.86</length>
+<height>0</height>
+<width>0</width>
+<title/>
+<creator/>
+<album/>
+<track>58</track>
+</file>
+<file name="058.ogg" source="derivative">
+<format>Ogg Vorbis</format>
+<original>058.mp3</original>
+<mtime>1575472777</mtime>
+<size>2027183</size>
+<md5>a726b7dfac9557918cf6c68540b3887b</md5>
+<crc32>f1c75c33</crc32>
+<sha1>f0fa46d22ad9c36ede0702dc4572de8a6e2d060c</sha1>
+<length>567.79</length>
+<height>0</height>
+<width>0</width>
+</file>
+<file name="058.png" source="derivative">
+<format>PNG</format>
+<original>058.mp3</original>
+<mtime>1575475515</mtime>
+<size>38821</size>
+<md5>c9708b9f67aea2b84c34b663b59a18a1</md5>
+<crc32>af711347</crc32>
+<sha1>297320b7a3c2a97cd8b03445ed3519b13dc6254c</sha1>
+</file>
+<file name="058_spectrogram.png" source="derivative">
+<format>Spectrogram</format>
+<original>058.mp3</original>
+<mtime>1575475658</mtime>
+<size>191145</size>
+<md5>29f149fb25d0e3cabe25675d54a4c44d</md5>
+<crc32>4e9e5dee</crc32>
+<sha1>6d70cf38cc402778ba9dd45c30c904a0442274f6</sha1>
+</file>
+<file name="059.afpk" source="derivative">
+<format>Columbia Peaks</format>
+<original>059.mp3</original>
+<mtime>1575476422</mtime>
+<size>100640</size>
+<md5>2d2a23bf83cc334c6957fd0912b8e451</md5>
+<crc32>a1c2334e</crc32>
+<sha1>7c8ba6e969042441ec86fce1cdac66d88d18e747</sha1>
+</file>
+<file name="059.mp3" source="original">
+<mtime>1575456521</mtime>
+<size>1240072</size>
+<md5>2c27c98a07d9505cb73d5ca27cb62e84</md5>
+<crc32>ce20bc17</crc32>
+<sha1>85e749d96fe05dea44fcf25d46488d4473e19f75</sha1>
+<format>VBR MP3</format>
+<length>619.01</length>
+<height>0</height>
+<width>0</width>
+<title/>
+<creator/>
+<album/>
+<track>59</track>
+</file>
+<file name="059.ogg" source="derivative">
+<format>Ogg Vorbis</format>
+<original>059.mp3</original>
+<mtime>1575472919</mtime>
+<size>2150007</size>
+<md5>bc3557fb303df442460885200663cfc6</md5>
+<crc32>9dfe345a</crc32>
+<sha1>f7d95abe6da8f31330dea5c7c41831c93862b0de</sha1>
+<length>618.95</length>
+<height>0</height>
+<width>0</width>
+</file>
+<file name="059.png" source="derivative">
+<format>PNG</format>
+<original>059.mp3</original>
+<mtime>1575475431</mtime>
+<size>37358</size>
+<md5>7fdb47d0b87cf1bafb1ac6e16d2bdc77</md5>
+<crc32>1a5c812a</crc32>
+<sha1>51feb2b465d86d6bb6af8a6667cf1304642f045a</sha1>
+</file>
+<file name="059_spectrogram.png" source="derivative">
+<format>Spectrogram</format>
+<original>059.mp3</original>
+<mtime>1575475863</mtime>
+<size>193068</size>
+<md5>c9f8b2863b868c330731ec621f4fe1af</md5>
+<crc32>8e2ca182</crc32>
+<sha1>faf31ddc359e77e817b300369135070a2b975ade</sha1>
+</file>
+<file name="060.afpk" source="derivative">
+<format>Columbia Peaks</format>
+<original>060.mp3</original>
+<mtime>1575476396</mtime>
+<size>72608</size>
+<md5>aa074fa8202f1bd5589bf546fe8c7a7e</md5>
+<crc32>953430b2</crc32>
+<sha1>ca00040c19fa80e021a6499a21bb8f4dd9f3d516</sha1>
+</file>
+<file name="060.mp3" source="original">
+<mtime>1575456525</mtime>
+<size>941776</size>
+<md5>0afc5688106faf40b8a93b8bfecc5f41</md5>
+<crc32>3dee879d</crc32>
+<sha1>08d13801ecc204bd0970018f0de643a0f791f06d</sha1>
+<format>VBR MP3</format>
+<length>469.86</length>
+<height>0</height>
+<width>0</width>
+<title/>
+<creator/>
+<album/>
+<track>60</track>
+</file>
+<file name="060.ogg" source="derivative">
+<format>Ogg Vorbis</format>
+<original>060.mp3</original>
+<mtime>1575474448</mtime>
+<size>1649137</size>
+<md5>745e88e5709f8cd877c5530debbc5e49</md5>
+<crc32>a2f5fd1b</crc32>
+<sha1>ddcf942f09ddd9ca4f2379a80beae873289c617f</sha1>
+<length>469.8</length>
+<height>0</height>
+<width>0</width>
+</file>
+<file name="060.png" source="derivative">
+<format>PNG</format>
+<original>060.mp3</original>
+<mtime>1575475420</mtime>
+<size>37841</size>
+<md5>dfcdfd3cf007b687412a7c4b3f89faa9</md5>
+<crc32>79f10cf1</crc32>
+<sha1>cab1c1910e7dab7d720cc48850e4f5e58c01c888</sha1>
+</file>
+<file name="060_spectrogram.png" source="derivative">
+<format>Spectrogram</format>
+<original>060.mp3</original>
+<mtime>1575475710</mtime>
+<size>194156</size>
+<md5>40d206cf7bec162f3f25d6b7ac76aa43</md5>
+<crc32>6b3874d4</crc32>
+<sha1>db96d4fbba231d21ba12b3a5f83ca10000046f72</sha1>
+</file>
+<file name="061.afpk" source="derivative">
+<format>Columbia Peaks</format>
+<original>061.mp3</original>
+<mtime>1575478664</mtime>
+<size>42720</size>
+<md5>cdc4da57cb5bfeec603786017b8ce9f1</md5>
+<crc32>51adfe05</crc32>
+<sha1>186a8238379be491ddad0cd1658893dcd7edd7f9</sha1>
+</file>
+<file name="061.mp3" source="original">
+<mtime>1575456533</mtime>
+<size>525832</size>
+<md5>984dfe9d649019c5892cb93d8fa2e945</md5>
+<crc32>58f99fc8</crc32>
+<sha1>2f46ee0b5a03ea27c45bd9d83a51521f39097738</sha1>
+<format>VBR MP3</format>
+<length>261.89</length>
+<height>0</height>
+<width>0</width>
+<title/>
+<creator/>
+<album/>
+<track>61</track>
+</file>
+<file name="061.ogg" source="derivative">
+<format>Ogg Vorbis</format>
+<original>061.mp3</original>
+<mtime>1575473041</mtime>
+<size>914203</size>
+<md5>153ebaff416801e584d8525aa57e6620</md5>
+<crc32>d9f11be9</crc32>
+<sha1>396dd37d15b2bc36fe205b3746b0e7c1ab045fcf</sha1>
+<length>261.83</length>
+<height>0</height>
+<width>0</width>
+</file>
+<file name="061.png" source="derivative">
+<format>PNG</format>
+<original>061.mp3</original>
+<mtime>1575474996</mtime>
+<size>37753</size>
+<md5>9f744e5dc57d68252733f6b0c51e9f75</md5>
+<crc32>68f7bf96</crc32>
+<sha1>0342637913aad231007342e7c31269a927ddeb58</sha1>
+</file>
+<file name="061_spectrogram.png" source="derivative">
+<format>Spectrogram</format>
+<original>061.mp3</original>
+<mtime>1575475699</mtime>
+<size>198555</size>
+<md5>6264fdff64413e2a0830ff55c440f66e</md5>
+<crc32>477f19be</crc32>
+<sha1>b00128ab60af5adc65473e88cea2aa067728ed7a</sha1>
+</file>
+<file name="062.afpk" source="derivative">
+<format>Columbia Peaks</format>
+<original>062.mp3</original>
+<mtime>1575476495</mtime>
+<size>33824</size>
+<md5>996f7ac836a1df2b82c6dca54b2611f2</md5>
+<crc32>fa1059e3</crc32>
+<sha1>25602e468f3c13cc3e36703ad0acd6d9aec277dc</sha1>
+</file>
+<file name="062.mp3" source="original">
+<mtime>1575456538</mtime>
+<size>420136</size>
+<md5>0028d0896f59d84ae1273578e2fd203c</md5>
+<crc32>c5c3e995</crc32>
+<sha1>b9fb91fda06daa69f0ccad86b63ce66b4fcbef68</sha1>
+<format>VBR MP3</format>
+<length>209.04</length>
+<height>0</height>
+<width>0</width>
+<title/>
+<creator/>
+<album/>
+<track>62</track>
+</file>
+<file name="062.ogg" source="derivative">
+<format>Ogg Vorbis</format>
+<original>062.mp3</original>
+<mtime>1575474676</mtime>
+<size>734869</size>
+<md5>b2ccd95ebfdb1db2b21b033b8ebd974f</md5>
+<crc32>b7848762</crc32>
+<sha1>39165c7276bd48e65fc1abbcdd9dfd994da0dd58</sha1>
+<length>208.98</length>
+<height>0</height>
+<width>0</width>
+</file>
+<file name="062.png" source="derivative">
+<format>PNG</format>
+<original>062.mp3</original>
+<mtime>1575475527</mtime>
+<size>35939</size>
+<md5>e52a591edda5be282f6ff85fe269c369</md5>
+<crc32>ca0179df</crc32>
+<sha1>59d02a6d47fea7c8f966bc78ab04a033be67ff62</sha1>
+</file>
+<file name="062_spectrogram.png" source="derivative">
+<format>Spectrogram</format>
+<original>062.mp3</original>
+<mtime>1575475758</mtime>
+<size>201258</size>
+<md5>ad25c00f9381450c416dc57b60bc96b2</md5>
+<crc32>74de1280</crc32>
+<sha1>949a094c9648138f315fe70cd09c4cc2a9806524</sha1>
+</file>
+<file name="063.afpk" source="derivative">
+<format>Columbia Peaks</format>
+<original>063.mp3</original>
+<mtime>1575476431</mtime>
+<size>36440</size>
+<md5>a6cebd6eb434d2f1be5ff1dc9506a231</md5>
+<crc32>5cc8e6b6</crc32>
+<sha1>78d3d5898548fb5c800f484516ce2be8af9452cd</sha1>
+</file>
+<file name="063.mp3" source="original">
+<mtime>1575456544</mtime>
+<size>465064</size>
+<md5>41e0b18a9e237777080fbbc88941836a</md5>
+<crc32>72bb24c9</crc32>
+<sha1>c82f01dc1c93c34b1d7ca09cc65ef5cf3a3d78a9</sha1>
+<format>VBR MP3</format>
+<length>231.51</length>
+<height>0</height>
+<width>0</width>
+<title/>
+<creator/>
+<album/>
+<track>63</track>
+</file>
+<file name="063.ogg" source="derivative">
+<format>Ogg Vorbis</format>
+<original>063.mp3</original>
+<mtime>1575474639</mtime>
+<size>815141</size>
+<md5>4656247f512d67d57f4584feb9f6d6ea</md5>
+<crc32>96cbd2d3</crc32>
+<sha1>831cfaf162055c4df28b889cd151b4d7053323a3</sha1>
+<length>231.44</length>
+<height>0</height>
+<width>0</width>
+</file>
+<file name="063.png" source="derivative">
+<format>PNG</format>
+<original>063.mp3</original>
+<mtime>1575475403</mtime>
+<size>38308</size>
+<md5>5626b6face7ce45c5f1f2ba82011a348</md5>
+<crc32>62b42da2</crc32>
+<sha1>24ed3b73763dfbc6795719438e37a6386e0f15f7</sha1>
+</file>
+<file name="063_spectrogram.png" source="derivative">
+<format>Spectrogram</format>
+<original>063.mp3</original>
+<mtime>1575475808</mtime>
+<size>199353</size>
+<md5>4f71acf32c2605624a6840ea5c9ff899</md5>
+<crc32>e84038e9</crc32>
+<sha1>e25119d0188b51b133fa39247da48f9e99105218</sha1>
+</file>
+<file name="064.afpk" source="derivative">
+<format>Columbia Peaks</format>
+<original>064.mp3</original>
+<mtime>1575476455</mtime>
+<size>46704</size>
+<md5>3e096677e6d6390c230005822c81243c</md5>
+<crc32>dec27824</crc32>
+<sha1>9a454b095c3e0ccc0d4e04fb1816df78ec156af6</sha1>
+</file>
+<file name="064.mp3" source="original">
+<mtime>1575456551</mtime>
+<size>591064</size>
+<md5>d74961dc1732a8e4a7717e639c3a7030</md5>
+<crc32>b9bf1309</crc32>
+<sha1>af7050c9cfeb14d62d33ddae93214f6a8c50a408</sha1>
+<format>VBR MP3</format>
+<length>294.51</length>
+<height>0</height>
+<width>0</width>
+<title/>
+<creator/>
+<album/>
+<track>64</track>
+</file>
+<file name="064.ogg" source="derivative">
+<format>Ogg Vorbis</format>
+<original>064.mp3</original>
+<mtime>1575474600</mtime>
+<size>1039165</size>
+<md5>b0dd4ece071232df1d8ba1887de14422</md5>
+<crc32>022e57fb</crc32>
+<sha1>e198e5e03e737d6edbaf098be0e359223d8a94e0</sha1>
+<length>294.44</length>
+<height>0</height>
+<width>0</width>
+</file>
+<file name="064.png" source="derivative">
+<format>PNG</format>
+<original>064.mp3</original>
+<mtime>1575475314</mtime>
+<size>38702</size>
+<md5>de02c7ce73312e33b3743bcecb2d5922</md5>
+<crc32>8ca5fe24</crc32>
+<sha1>276aa299844d75c9ff3ecc93d3ebb99bad17763a</sha1>
+</file>
+<file name="064_spectrogram.png" source="derivative">
+<format>Spectrogram</format>
+<original>064.mp3</original>
+<mtime>1575475788</mtime>
+<size>197517</size>
+<md5>73f85824dea2ce56008cb37306e5c3c3</md5>
+<crc32>58ce554b</crc32>
+<sha1>450782786982a2d14b6ad35521b8ce14e7bab256</sha1>
+</file>
+<file name="065.afpk" source="derivative">
+<format>Columbia Peaks</format>
+<original>065.mp3</original>
+<mtime>1575476384</mtime>
+<size>56128</size>
+<md5>39e4f9f147902b9e6d73be63c5d723a6</md5>
+<crc32>fe7258a8</crc32>
+<sha1>58ee09054a6b7b1b3bf8a5a468903522a326072c</sha1>
+</file>
+<file name="065.mp3" source="original">
+<mtime>1575456560</mtime>
+<size>695968</size>
+<md5>def05e0f6b64008ab8b9812590875ca9</md5>
+<crc32>8e47a795</crc32>
+<sha1>ab370f18f21aa17a771918414248fb0f03e453c0</sha1>
+<format>VBR MP3</format>
+<length>346.96</length>
+<height>0</height>
+<width>0</width>
+<title/>
+<creator/>
+<album/>
+<track>65</track>
+</file>
+<file name="065.ogg" source="derivative">
+<format>Ogg Vorbis</format>
+<original>065.mp3</original>
+<mtime>1575474512</mtime>
+<size>1219406</size>
+<md5>b990b93abaa311692929652c26c69912</md5>
+<crc32>e5f21e73</crc32>
+<sha1>ef2b177932bf328c10a82af618e9dfffe5ae414b</sha1>
+<length>346.9</length>
+<height>0</height>
+<width>0</width>
+</file>
+<file name="065.png" source="derivative">
+<format>PNG</format>
+<original>065.mp3</original>
+<mtime>1575475347</mtime>
+<size>39490</size>
+<md5>11c92f9ce3537de510aeec22b31018ee</md5>
+<crc32>1965dcab</crc32>
+<sha1>1aee1f543d53afd3f0369db2d34e869cb6b84a53</sha1>
+</file>
+<file name="065_spectrogram.png" source="derivative">
+<format>Spectrogram</format>
+<original>065.mp3</original>
+<mtime>1575475773</mtime>
+<size>195684</size>
+<md5>ae03a67cb8bb8e8abd37186616416374</md5>
+<crc32>1d8b1fed</crc32>
+<sha1>900971125738b2e3bb7b18c80b2c01bdd010264d</sha1>
+</file>
+<file name="066.afpk" source="derivative">
+<format>Columbia Peaks</format>
+<original>066.mp3</original>
+<mtime>1575477520</mtime>
+<size>53600</size>
+<md5>2f50ada7b4d1edf6ad7df373e34a13df</md5>
+<crc32>0b2fef12</crc32>
+<sha1>d581324b7d3c828f441c39a8846ab60ec9d55d71</sha1>
+</file>
+<file name="066.mp3" source="original">
+<mtime>1575456567</mtime>
+<size>667024</size>
+<md5>c1a14f69902b8080268f871112acbf2b</md5>
+<crc32>9bf4137d</crc32>
+<sha1>0a1e58c3f052e472b460d40880886a2a945df796</sha1>
+<format>VBR MP3</format>
+<length>332.49</length>
+<height>0</height>
+<width>0</width>
+<title/>
+<creator/>
+<album/>
+<track>66</track>
+</file>
+<file name="066.ogg" source="derivative">
+<format>Ogg Vorbis</format>
+<original>066.mp3</original>
+<mtime>1575474520</mtime>
+<size>1178490</size>
+<md5>9afe45eb9c889b32121cd9225c92a320</md5>
+<crc32>0d39c4bc</crc32>
+<sha1>2c7fb4aa6245d2525105be88f74899f9f912bef1</sha1>
+<length>332.42</length>
+<height>0</height>
+<width>0</width>
+</file>
+<file name="066.png" source="derivative">
+<format>PNG</format>
+<original>066.mp3</original>
+<mtime>1575474698</mtime>
+<size>36268</size>
+<md5>d6ef7a9f36ba0786f70b187090ccee3e</md5>
+<crc32>06973bbc</crc32>
+<sha1>bcabe187b52243decb260aa5b05635607e27bc8a</sha1>
+</file>
+<file name="066_spectrogram.png" source="derivative">
+<format>Spectrogram</format>
+<original>066.mp3</original>
+<mtime>1575475737</mtime>
+<size>197032</size>
+<md5>c78aea74600b65366fdc0d20c98c0caf</md5>
+<crc32>90f89515</crc32>
+<sha1>6e04d47b3bc1233463e3c4a48453c5ab4ef3a7d9</sha1>
+</file>
+<file name="067.afpk" source="derivative">
+<format>Columbia Peaks</format>
+<original>067.mp3</original>
+<mtime>1575476701</mtime>
+<size>67128</size>
+<md5>5d648b947fa4f6a398c68c7233bfbb03</md5>
+<crc32>87b2322e</crc32>
+<sha1>58d3d68a1ceab15578eba04ab4b2e059801c3924</sha1>
+</file>
+<file name="067.mp3" source="original">
+<mtime>1575456573</mtime>
+<size>786616</size>
+<md5>34c923dfa979c5da13dfd3dce056292b</md5>
+<crc32>784ec2cb</crc32>
+<sha1>b649b7e58fd3d3a7b47e575c4b62c3fa5833650c</sha1>
+<format>VBR MP3</format>
+<length>392.28</length>
+<height>0</height>
+<width>0</width>
+<title/>
+<creator/>
+<album/>
+<track>67</track>
+</file>
+<file name="067.ogg" source="derivative">
+<format>Ogg Vorbis</format>
+<original>067.mp3</original>
+<mtime>1575474569</mtime>
+<size>1353105</size>
+<md5>d56294b8b7da88a187c5858a5bef8893</md5>
+<crc32>8b52c5d1</crc32>
+<sha1>a1efb6b4e3e0b0a6cc971ca6be59e2099eafb7af</sha1>
+<length>392.22</length>
+<height>0</height>
+<width>0</width>
+</file>
+<file name="067.png" source="derivative">
+<format>PNG</format>
+<original>067.mp3</original>
+<mtime>1575475043</mtime>
+<size>40078</size>
+<md5>c79134307372a59765234fe013a1cf21</md5>
+<crc32>b2c24c14</crc32>
+<sha1>3dac785800df8457b5343c994e50a6b290dde5a8</sha1>
+</file>
+<file name="067_spectrogram.png" source="derivative">
+<format>Spectrogram</format>
+<original>067.mp3</original>
+<mtime>1575475853</mtime>
+<size>195885</size>
+<md5>9dc8a7e722dc26e5f739d0bcaccec1b6</md5>
+<crc32>beaae508</crc32>
+<sha1>9d2aba8c38d4dce4ddd3e3cdfc263056468b78b9</sha1>
+</file>
+<file name="068.afpk" source="derivative">
+<format>Columbia Peaks</format>
+<original>068.mp3</original>
+<mtime>1575476876</mtime>
+<size>61664</size>
+<md5>9704b1f5a35e7675c15f6d0ce07c7718</md5>
+<crc32>24a9ab75</crc32>
+<sha1>d4c4892f7e5ebb7ed25f93a207561635faf9c1ec</sha1>
+</file>
+<file name="068.mp3" source="original">
+<mtime>1575456588</mtime>
+<size>742264</size>
+<md5>9af15e01f9748541fa67f50926b5cc49</md5>
+<crc32>a29be57b</crc32>
+<sha1>a5ed8924650b099f039a65db6c4ac314f6e6c99c</sha1>
+<format>VBR MP3</format>
+<length>370.11</length>
+<height>0</height>
+<width>0</width>
+<title/>
+<creator/>
+<album/>
+<track>68</track>
+</file>
+<file name="068.ogg" source="derivative">
+<format>Ogg Vorbis</format>
+<original>068.mp3</original>
+<mtime>1575474496</mtime>
+<size>1279926</size>
+<md5>01e1128f89a95d6fdc61b574e565ea9f</md5>
+<crc32>da27e4c7</crc32>
+<sha1>0a3c2e99ab80dd10b0ba2fd2142a7e447870d5b0</sha1>
+<length>370.04</length>
+<height>0</height>
+<width>0</width>
+</file>
+<file name="068.png" source="derivative">
+<format>PNG</format>
+<original>068.mp3</original>
+<mtime>1575474789</mtime>
+<size>39078</size>
+<md5>ed197091f3baa70bb14b451e0c29e6c4</md5>
+<crc32>8876636e</crc32>
+<sha1>0a8bc57628ba81989463d54f6d8b864db9a3adba</sha1>
+</file>
+<file name="068_spectrogram.png" source="derivative">
+<format>Spectrogram</format>
+<original>068.mp3</original>
+<mtime>1575475687</mtime>
+<size>192085</size>
+<md5>7d79157b2b2aaa1f3a849b9fa5e60bb2</md5>
+<crc32>b4a0fa45</crc32>
+<sha1>b5d5575571bc5c3408484eea7c6ba83188d9926d</sha1>
+</file>
+<file name="069.afpk" source="derivative">
+<format>Columbia Peaks</format>
+<original>069.mp3</original>
+<mtime>1575476912</mtime>
+<size>64552</size>
+<md5>6da249c58817efaf45ac3707f9d80464</md5>
+<crc32>cf3b6b6e</crc32>
+<sha1>1a44db681ad6d87ce74d958c1f53ec69fb4f81c9</sha1>
+</file>
+<file name="069.mp3" source="original">
+<mtime>1575456597</mtime>
+<size>737080</size>
+<md5>10fba68df248e4a2adfe0dd87d3a84fc</md5>
+<crc32>f9b0364c</crc32>
+<sha1>66981308aad3a932323605c92b5dc8c8ba7cb23b</sha1>
+<format>VBR MP3</format>
+<length>367.52</length>
+<height>0</height>
+<width>0</width>
+<title/>
+<creator/>
+<album/>
+<track>69</track>
+</file>
+<file name="069.ogg" source="derivative">
+<format>Ogg Vorbis</format>
+<original>069.mp3</original>
+<mtime>1575474671</mtime>
+<size>1265805</size>
+<md5>0a33b2241e3490972ebcccb4ac256e87</md5>
+<crc32>c9935123</crc32>
+<sha1>f727b5e85ae68208857fcc462be522c57bfe2df5</sha1>
+<length>367.45</length>
+<height>0</height>
+<width>0</width>
+</file>
+<file name="069.png" source="derivative">
+<format>PNG</format>
+<original>069.mp3</original>
+<mtime>1575475449</mtime>
+<size>37198</size>
+<md5>70c4435cf4a80fc17bdab550765da313</md5>
+<crc32>9c8602d7</crc32>
+<sha1>aa00b003f53f5eec1b986b854e8d729aa2d0a150</sha1>
+</file>
+<file name="069_spectrogram.png" source="derivative">
+<format>Spectrogram</format>
+<original>069.mp3</original>
+<mtime>1575475986</mtime>
+<size>195865</size>
+<md5>efa63474543fd4b69793376218815e41</md5>
+<crc32>a919968d</crc32>
+<sha1>5e3d7c9a76a17bfb4fd4f6fc520878a7700243ae</sha1>
+</file>
+<file name="070.afpk" source="derivative">
+<format>Columbia Peaks</format>
+<original>070.mp3</original>
+<mtime>1575477377</mtime>
+<size>43160</size>
+<md5>ce7447c787c75b681035163c1ffbedc3</md5>
+<crc32>6b6e9c51</crc32>
+<sha1>f29d18dc267ba7430209fdd8eacd64eb7d974164</sha1>
+</file>
+<file name="070.mp3" source="original">
+<mtime>1575456603</mtime>
+<size>521368</size>
+<md5>12db9eb8a06d6673e32716fb7a5bda53</md5>
+<crc32>48db56b6</crc32>
+<sha1>9d6cd2fcb24603ae4dbf656ca967b0d1e0683bef</sha1>
+<format>VBR MP3</format>
+<length>259.66</length>
+<height>0</height>
+<width>0</width>
+<title/>
+<creator/>
+<album/>
+<track>70</track>
+</file>
+<file name="070.ogg" source="derivative">
+<format>Ogg Vorbis</format>
+<original>070.mp3</original>
+<mtime>1575474561</mtime>
+<size>896649</size>
+<md5>41c9acc5c242aafb676760c9dec983aa</md5>
+<crc32>dbd6bb72</crc32>
+<sha1>96f1e91f68c7285906d4da111763d5109b772c06</sha1>
+<length>259.6</length>
+<height>0</height>
+<width>0</width>
+</file>
+<file name="070.png" source="derivative">
+<format>PNG</format>
+<original>070.mp3</original>
+<mtime>1575475217</mtime>
+<size>36983</size>
+<md5>125e3fdadf5d282411faa4730790b2ac</md5>
+<crc32>74f60928</crc32>
+<sha1>3b9c46444702566ca9a1556f40c28d58983e3701</sha1>
+</file>
+<file name="070_spectrogram.png" source="derivative">
+<format>Spectrogram</format>
+<original>070.mp3</original>
+<mtime>1575475935</mtime>
+<size>196224</size>
+<md5>8faced40f05ece21c5fab8c9debf22bc</md5>
+<crc32>74148802</crc32>
+<sha1>581319d6716b8ca4317e4b2f6c9862235e8e1af6</sha1>
+</file>
+<file name="071.afpk" source="derivative">
+<format>Columbia Peaks</format>
+<original>071.mp3</original>
+<mtime>1575477021</mtime>
+<size>50776</size>
+<md5>14913adbd106c485fb73e09b8c92555a</md5>
+<crc32>257961f0</crc32>
+<sha1>1ef796741002aaaf3c238306d5d4fedefb3ee9d5</sha1>
+</file>
+<file name="071.mp3" source="original">
+<mtime>1575456607</mtime>
+<size>610864</size>
+<md5>200cf799e441fc50d86157ad80883dc9</md5>
+<crc32>71f17a6d</crc32>
+<sha1>2f66a1f94c2acb0460580b84d41d882ab86b2c30</sha1>
+<format>VBR MP3</format>
+<length>304.41</length>
+<height>0</height>
+<width>0</width>
+<title/>
+<creator/>
+<album/>
+<track>71</track>
+</file>
+<file name="071.ogg" source="derivative">
+<format>Ogg Vorbis</format>
+<original>071.mp3</original>
+<mtime>1575474537</mtime>
+<size>1062925</size>
+<md5>f0f8245958ff1cb323ced221efd60af6</md5>
+<crc32>25b4da30</crc32>
+<sha1>eeb8546025ff6d92ff479617b658c7274846510f</sha1>
+<length>304.34</length>
+<height>0</height>
+<width>0</width>
+</file>
+<file name="071.png" source="derivative">
+<format>PNG</format>
+<original>071.mp3</original>
+<mtime>1575475352</mtime>
+<size>37715</size>
+<md5>c8a9f9d5c9f67f4049df868203273060</md5>
+<crc32>907922fe</crc32>
+<sha1>5bf6d4c114287c7b2687f1d31ee1012e3b360568</sha1>
+</file>
+<file name="071_spectrogram.png" source="derivative">
+<format>Spectrogram</format>
+<original>071.mp3</original>
+<mtime>1575475948</mtime>
+<size>194729</size>
+<md5>d4c8af8d284f2ad556de52c113ae7221</md5>
+<crc32>dc2f403e</crc32>
+<sha1>e3c42656a0275265c5abbe1ba1b404d1e80a9e42</sha1>
+</file>
+<file name="072.afpk" source="derivative">
+<format>Columbia Peaks</format>
+<original>072.mp3</original>
+<mtime>1575477041</mtime>
+<size>62488</size>
+<md5>ce9d6cbd397ed26e4aedc2ad17252ecd</md5>
+<crc32>a47de139</crc32>
+<sha1>e341fde7531209751519084709c97f8ab94f2263</sha1>
+</file>
+<file name="072.mp3" source="original">
+<mtime>1575456614</mtime>
+<size>744280</size>
+<md5>bb0bb9e79edaabff43e6b4bc7a374ae9</md5>
+<crc32>767ad377</crc32>
+<sha1>2566300f173ac9701de8d405353a64432a3ab5bf</sha1>
+<format>VBR MP3</format>
+<length>371.12</length>
+<height>0</height>
+<width>0</width>
+<title/>
+<creator/>
+<album/>
+<track>72</track>
+</file>
+<file name="072.ogg" source="derivative">
+<format>Ogg Vorbis</format>
+<original>072.mp3</original>
+<mtime>1575474488</mtime>
+<size>1291505</size>
+<md5>d72a037f75ff7b4f7221fd1b43313878</md5>
+<crc32>3cf796bb</crc32>
+<sha1>5a57f7b045a768e5a94d02f0a1dc502118be928b</sha1>
+<length>371.05</length>
+<height>0</height>
+<width>0</width>
+</file>
+<file name="072.png" source="derivative">
+<format>PNG</format>
+<original>072.mp3</original>
+<mtime>1575475307</mtime>
+<size>35898</size>
+<md5>cea5f3a9a160548e84d87b9b0dfe3561</md5>
+<crc32>843fc1b7</crc32>
+<sha1>182d5ae490fd0a4887a3f0b69447b3a9be211cfa</sha1>
+</file>
+<file name="072_spectrogram.png" source="derivative">
+<format>Spectrogram</format>
+<original>072.mp3</original>
+<mtime>1575475760</mtime>
+<size>199150</size>
+<md5>c0c806959650c6f421e7541ecaf07dcf</md5>
+<crc32>6013ed28</crc32>
+<sha1>805b44a95746507e0990fbd94120537f5fa00063</sha1>
+</file>
+<file name="073.afpk" source="derivative">
+<format>Columbia Peaks</format>
+<original>073.mp3</original>
+<mtime>1575476033</mtime>
+<size>39352</size>
+<md5>c0c0d6f318f31807d59f63b6bd11e1ee</md5>
+<crc32>71fedd5c</crc32>
+<sha1>4562a97abc9d40aa6f5b77f08357c8903a4a18b1</sha1>
+</file>
+<file name="073.mp3" source="original">
+<mtime>1575456623</mtime>
+<size>498904</size>
+<md5>ff0f94ee7067e4399d5f35b617f8ea04</md5>
+<crc32>25f27012</crc32>
+<sha1>914451e00f3f7053aeb76869b459751e76a551ab</sha1>
+<format>VBR MP3</format>
+<length>248.43</length>
+<height>0</height>
+<width>0</width>
+<title/>
+<creator/>
+<album/>
+<track>73</track>
+</file>
+<file name="073.ogg" source="derivative">
+<format>Ogg Vorbis</format>
+<original>073.mp3</original>
+<mtime>1575474691</mtime>
+<size>874889</size>
+<md5>c489fb1bcfc84c795db2d63d43fdac04</md5>
+<crc32>c342a926</crc32>
+<sha1>26817785e5c8351ced5aecfe8d5dd078612229a1</sha1>
+<length>248.36</length>
+<height>0</height>
+<width>0</width>
+</file>
+<file name="073.png" source="derivative">
+<format>PNG</format>
+<original>073.mp3</original>
+<mtime>1575475121</mtime>
+<size>39599</size>
+<md5>124da6f862e3449a34f9ff3684a1ffde</md5>
+<crc32>2cb57692</crc32>
+<sha1>37443e5f88e42eb78c4b9c1685f489f03c6b975b</sha1>
+</file>
+<file name="073_spectrogram.png" source="derivative">
+<format>Spectrogram</format>
+<original>073.mp3</original>
+<mtime>1575475610</mtime>
+<size>196494</size>
+<md5>98e322e79ff31cd895b0215b919773a7</md5>
+<crc32>e53d5152</crc32>
+<sha1>0dbe459a571e1f28cb9732716831860440a65761</sha1>
+</file>
+<file name="074.afpk" source="derivative">
+<format>Columbia Peaks</format>
+<original>074.mp3</original>
+<mtime>1575476931</mtime>
+<size>59752</size>
+<md5>776b1259b1cfd0c6b2f29fc41c42bb45</md5>
+<crc32>f0b9a681</crc32>
+<sha1>1b19149067e5b3258fe3fc789e5d7f143051559f</sha1>
+</file>
+<file name="074.mp3" source="original">
+<mtime>1575456629</mtime>
+<size>712528</size>
+<md5>b67457e7445c7d226d7fff093e01d52d</md5>
+<crc32>10469bc7</crc32>
+<sha1>537f6b91c481c683376cb781bbf2338e82a8fc98</sha1>
+<format>VBR MP3</format>
+<length>355.24</length>
+<height>0</height>
+<width>0</width>
+<title/>
+<creator/>
+<album/>
+<track>74</track>
+</file>
+<file name="074.ogg" source="derivative">
+<format>Ogg Vorbis</format>
+<original>074.mp3</original>
+<mtime>1575474584</mtime>
+<size>1238615</size>
+<md5>a0b2cf1ea3b6bdab04116ce132a1b261</md5>
+<crc32>92bc3827</crc32>
+<sha1>439fa1e51dfea40a0461d2fdb9571cebca983a37</sha1>
+<length>355.18</length>
+<height>0</height>
+<width>0</width>
+</file>
+<file name="074.png" source="derivative">
+<format>PNG</format>
+<original>074.mp3</original>
+<mtime>1575475005</mtime>
+<size>40123</size>
+<md5>700004f45e8793661fdebd251a25670f</md5>
+<crc32>16452d23</crc32>
+<sha1>d48203fc2a53de4668a104609c9bf7c2268a979d</sha1>
+</file>
+<file name="074_spectrogram.png" source="derivative">
+<format>Spectrogram</format>
+<original>074.mp3</original>
+<mtime>1575475818</mtime>
+<size>197269</size>
+<md5>7586b2e227bff394025b1bad609560e9</md5>
+<crc32>4586337a</crc32>
+<sha1>2ab1bfcefd46a73d1afcb6a95618433f5dcc9f28</sha1>
+</file>
+<file name="075.afpk" source="derivative">
+<format>Columbia Peaks</format>
+<original>075.mp3</original>
+<mtime>1575476575</mtime>
+<size>40256</size>
+<md5>a15f54a2e928bb25e188db95716e8efd</md5>
+<crc32>bb002676</crc32>
+<sha1>d66ead9c6dd4e7e793a820869b0681bd87bbfd18</sha1>
+</file>
+<file name="075.mp3" source="original">
+<mtime>1575456634</mtime>
+<size>491272</size>
+<md5>69ee891ff2077647bdaa0e2dfede25bd</md5>
+<crc32>7c486c61</crc32>
+<sha1>0aad6f0242aab81321da4dc584693d3b7ebfd24d</sha1>
+<format>VBR MP3</format>
+<length>244.61</length>
+<height>0</height>
+<width>0</width>
+<title/>
+<creator/>
+<album/>
+<track>75</track>
+</file>
+<file name="075.ogg" source="derivative">
+<format>Ogg Vorbis</format>
+<original>075.mp3</original>
+<mtime>1575474663</mtime>
+<size>849692</size>
+<md5>0272539b7cf72fe6a14046d850c76b06</md5>
+<crc32>f7d3da42</crc32>
+<sha1>77ae0577118b7a28efe89ae9c55ba8591606a1a3</sha1>
+<length>244.55</length>
+<height>0</height>
+<width>0</width>
+</file>
+<file name="075.png" source="derivative">
+<format>PNG</format>
+<original>075.mp3</original>
+<mtime>1575474864</mtime>
+<size>38649</size>
+<md5>c8227a5fd16506f43e9ed2ecdfa91b6b</md5>
+<crc32>cfe1b4ad</crc32>
+<sha1>c8750f5424b57df7fc65bd1765b643635a26673b</sha1>
+</file>
+<file name="075_spectrogram.png" source="derivative">
+<format>Spectrogram</format>
+<original>075.mp3</original>
+<mtime>1575475821</mtime>
+<size>199250</size>
+<md5>0f4ebf6b4bc1bf15eff4e09677f9dae5</md5>
+<crc32>bf20eb93</crc32>
+<sha1>092241a72cd4cd51c12df58aeb550df31ef373b3</sha1>
+</file>
+<file name="076.afpk" source="derivative">
+<format>Columbia Peaks</format>
+<original>076.mp3</original>
+<mtime>1575477212</mtime>
+<size>55728</size>
+<md5>ca43624c4a21c78421f293aafac71556</md5>
+<crc32>9805ca4b</crc32>
+<sha1>15b892a31547e93a00862645565a6a7473ad5b55</sha1>
+</file>
+<file name="076.mp3" source="original">
+<mtime>1575456640</mtime>
+<size>693376</size>
+<md5>3cbf4246ceae836bcd31c2ebcf4f8507</md5>
+<crc32>778ecd13</crc32>
+<sha1>6cf59969a2a702b3a534db578e056f375fab2da5</sha1>
+<format>VBR MP3</format>
+<length>345.66</length>
+<height>0</height>
+<width>0</width>
+<title/>
+<creator/>
+<album/>
+<track>76</track>
+</file>
+<file name="076.ogg" source="derivative">
+<format>Ogg Vorbis</format>
+<original>076.mp3</original>
+<mtime>1575474685</mtime>
+<size>1201487</size>
+<md5>4ab0243364d72bbaba642269109bf787</md5>
+<crc32>a70c0182</crc32>
+<sha1>9094c7acdeede5e11521e4f374f498d99d949f2d</sha1>
+<length>345.6</length>
+<height>0</height>
+<width>0</width>
+</file>
+<file name="076.png" source="derivative">
+<format>PNG</format>
+<original>076.mp3</original>
+<mtime>1575475034</mtime>
+<size>38272</size>
+<md5>f30f17892c5fe976abdc5042f0dadbf6</md5>
+<crc32>1b0385b3</crc32>
+<sha1>f3ad8a8943e444d98c33c499204dc342d743233b</sha1>
+</file>
+<file name="076_spectrogram.png" source="derivative">
+<format>Spectrogram</format>
+<original>076.mp3</original>
+<mtime>1575475945</mtime>
+<size>192713</size>
+<md5>70e26494474b2c9ec1e67c8a7f928c98</md5>
+<crc32>82932fde</crc32>
+<sha1>0ee66ea349a40fee925e23b1f83706b576de3c7e</sha1>
+</file>
+<file name="077.afpk" source="derivative">
+<format>Columbia Peaks</format>
+<original>077.mp3</original>
+<mtime>1575477386</mtime>
+<size>45744</size>
+<md5>c26b81eaf45cc231eb0a1d914ee65f4e</md5>
+<crc32>9637d544</crc32>
+<sha1>7a1cca30a1bfdb8073c31b541f3b90a29c0375a8</sha1>
+</file>
+<file name="077.mp3" source="original">
+<mtime>1575456657</mtime>
+<size>570760</size>
+<md5>78c1a2f58fc3e3afd3b7839ff4586618</md5>
+<crc32>ad40c15c</crc32>
+<sha1>a2bfaeb358fff46361cd9ce84fae65871bd55eef</sha1>
+<format>VBR MP3</format>
+<length>284.36</length>
+<height>0</height>
+<width>0</width>
+<title/>
+<creator/>
+<album/>
+<track>77</track>
+</file>
+<file name="077.ogg" source="derivative">
+<format>Ogg Vorbis</format>
+<original>077.mp3</original>
+<mtime>1575474608</mtime>
+<size>984328</size>
+<md5>405aabbde94c44491daac2255d347860</md5>
+<crc32>6184daaa</crc32>
+<sha1>2834d3cd95104db66a5808158afca81c8ba4afd4</sha1>
+<length>284.29</length>
+<height>0</height>
+<width>0</width>
+</file>
+<file name="077.png" source="derivative">
+<format>PNG</format>
+<original>077.mp3</original>
+<mtime>1575475114</mtime>
+<size>40005</size>
+<md5>2924e9aed76ba55228726ac3f95ce9e4</md5>
+<crc32>55a47ad9</crc32>
+<sha1>f72a31f8ec482e850582ae3f839401e8b3de1727</sha1>
+</file>
+<file name="077_spectrogram.png" source="derivative">
+<format>Spectrogram</format>
+<original>077.mp3</original>
+<mtime>1575475957</mtime>
+<size>197334</size>
+<md5>474316fda9dc74bad73c51e4cfe44c2a</md5>
+<crc32>2adc5105</crc32>
+<sha1>f5b17e1adc1d5680b8d8d9ea5cd84b5e06fa1968</sha1>
+</file>
+<file name="078.afpk" source="derivative">
+<format>Columbia Peaks</format>
+<original>078.mp3</original>
+<mtime>1575477220</mtime>
+<size>45360</size>
+<md5>d1fac7e4c410a02329de4444eb7bd7c9</md5>
+<crc32>90374f36</crc32>
+<sha1>06c4ea8c262df69ee79224a7958851cdc0e1b7f4</sha1>
+</file>
+<file name="078.mp3" source="original">
+<mtime>1575456668</mtime>
+<size>532672</size>
+<md5>2cf8aac15c097aba010553d7db0b1e38</md5>
+<crc32>7d661829</crc32>
+<sha1>8fc316657cadcf10a22c7a13f9310973c0a23682</sha1>
+<format>VBR MP3</format>
+<length>265.31</length>
+<height>0</height>
+<width>0</width>
+<title/>
+<creator/>
+<album/>
+<track>78</track>
+</file>
+<file name="078.ogg" source="derivative">
+<format>Ogg Vorbis</format>
+<original>078.mp3</original>
+<mtime>1575474480</mtime>
+<size>945609</size>
+<md5>005f204f76afba6a4ea6c6676f536c6d</md5>
+<crc32>1bd22da6</crc32>
+<sha1>06b0c49e2e68284d6931b8b69da8ceda25d1f8d6</sha1>
+<length>265.25</length>
+<height>0</height>
+<width>0</width>
+</file>
+<file name="078.png" source="derivative">
+<format>PNG</format>
+<original>078.mp3</original>
+<mtime>1575474990</mtime>
+<size>40458</size>
+<md5>f238aa7e0d156e6f337e3e7350fa657e</md5>
+<crc32>25dc2633</crc32>
+<sha1>72353ff450a462639ee4636c93b23c66adc0682f</sha1>
+</file>
+<file name="078_spectrogram.png" source="derivative">
+<format>Spectrogram</format>
+<original>078.mp3</original>
+<mtime>1575475965</mtime>
+<size>200689</size>
+<md5>86323e0faa5966018235d39c342100b1</md5>
+<crc32>4f79aea8</crc32>
+<sha1>f05998cee271b90b8bd6676d3a08c869b602a123</sha1>
+</file>
+<file name="079.afpk" source="derivative">
+<format>Columbia Peaks</format>
+<original>079.mp3</original>
+<mtime>1575477529</mtime>
+<size>43720</size>
+<md5>8985118cc7dd8a9144b0c53ea711dd2c</md5>
+<crc32>ad828cae</crc32>
+<sha1>42bbbe313b8734db94cab1766d6b245b9e2f5a4b</sha1>
+</file>
+<file name="079.mp3" source="original">
+<mtime>1575456683</mtime>
+<size>501496</size>
+<md5>ded3536f854ea8d9936a7ef7bce32ee3</md5>
+<crc32>fba19e48</crc32>
+<sha1>8df52fcce530c95961507e8b83e31b32c918499a</sha1>
+<format>VBR MP3</format>
+<length>249.72</length>
+<height>0</height>
+<width>0</width>
+<title/>
+<creator/>
+<album/>
+<track>79</track>
+</file>
+<file name="079.ogg" source="derivative">
+<format>Ogg Vorbis</format>
+<original>079.mp3</original>
+<mtime>1575474575</mtime>
+<size>884553</size>
+<md5>5371a8901931c8ef38a44ed61fed3eef</md5>
+<crc32>99ba1cde</crc32>
+<sha1>5c74d02a68f93eab0b107ce156c6da9e00f3b812</sha1>
+<length>249.66</length>
+<height>0</height>
+<width>0</width>
+</file>
+<file name="079.png" source="derivative">
+<format>PNG</format>
+<original>079.mp3</original>
+<mtime>1575474961</mtime>
+<size>40035</size>
+<md5>dc632b4deb5c2836ac93487bb733ca71</md5>
+<crc32>063acea0</crc32>
+<sha1>bb16ef3068320a86e790b71696b8d72a2312094e</sha1>
+</file>
+<file name="079_spectrogram.png" source="derivative">
+<format>Spectrogram</format>
+<original>079.mp3</original>
+<mtime>1575475860</mtime>
+<size>199823</size>
+<md5>862e24c005e873ca8d15a233ddbebcf7</md5>
+<crc32>837e9eeb</crc32>
+<sha1>4bb728871332ca4bc1dcbfd06fd4ab03074a4133</sha1>
+</file>
+<file name="080.afpk" source="derivative">
+<format>Columbia Peaks</format>
+<original>080.mp3</original>
+<mtime>1575478192</mtime>
+<size>34832</size>
+<md5>dd703f8ae09802a9a74a33ff627f8786</md5>
+<crc32>58bda41f</crc32>
+<sha1>31b33ab932f71f3d13471d1d2a0e001e7688de8b</sha1>
+</file>
+<file name="080.mp3" source="original">
+<mtime>1575456687</mtime>
+<size>382192</size>
+<md5>a44e4195e98d25cce86bc19cdc85d7ea</md5>
+<crc32>91f218b9</crc32>
+<sha1>1bcb8814eb72449c8237cbac357dcb9317f241e6</sha1>
+<format>VBR MP3</format>
+<length>190.07</length>
+<height>0</height>
+<width>0</width>
+<title/>
+<creator/>
+<album/>
+<track>80</track>
+</file>
+<file name="080.ogg" source="derivative">
+<format>Ogg Vorbis</format>
+<original>080.mp3</original>
+<mtime>1575474634</mtime>
+<size>675617</size>
+<md5>6125c65028423949ad6dc3435fa1ebc2</md5>
+<crc32>5ab6c303</crc32>
+<sha1>2a628d11ea959da7a2875b6eb75a93e45ed4269e</sha1>
+<length>190.01</length>
+<height>0</height>
+<width>0</width>
+</file>
+<file name="080.png" source="derivative">
+<format>PNG</format>
+<original>080.mp3</original>
+<mtime>1575475191</mtime>
+<size>39557</size>
+<md5>fc6fb774a9651f30a6fa3da706059891</md5>
+<crc32>9b13fac9</crc32>
+<sha1>e5bb71b8845160f5c1f3d6e1007bf6f4562f1998</sha1>
+</file>
+<file name="080_spectrogram.png" source="derivative">
+<format>Spectrogram</format>
+<original>080.mp3</original>
+<mtime>1575475991</mtime>
+<size>201226</size>
+<md5>f7efd86d4ff11cd6cc17519baf7e63ad</md5>
+<crc32>b1432233</crc32>
+<sha1>fa940f8aff06f2d79f44dd3c25b41a8a6ed14c14</sha1>
+</file>
+<file name="081.afpk" source="derivative">
+<format>Columbia Peaks</format>
+<original>081.mp3</original>
+<mtime>1575478616</mtime>
+<size>25256</size>
+<md5>6a12f7c256a352f7b3261209d2eac478</md5>
+<crc32>0b87820f</crc32>
+<sha1>3392ad0fcc0b8d3e45ba9061a9f662d3c6bfd583</sha1>
+</file>
+<file name="081.mp3" source="original">
+<mtime>1575456692</mtime>
+<size>279880</size>
+<md5>84ec32300c4cbe866daa677cffc4aa08</md5>
+<crc32>cd0f9e8a</crc32>
+<sha1>f650bf516ec0d635074eaacbb9265f0d129ca38e</sha1>
+<format>VBR MP3</format>
+<length>138.92</length>
+<height>0</height>
+<width>0</width>
+<title/>
+<creator/>
+<album/>
+<track>81</track>
+</file>
+<file name="081.ogg" source="derivative">
+<format>Ogg Vorbis</format>
+<original>081.mp3</original>
+<mtime>1575474644</mtime>
+<size>494973</size>
+<md5>783d982f7acb5e8d0eeb1c5b45fb6d7e</md5>
+<crc32>236aa841</crc32>
+<sha1>cb6e4657d6f6a2e901f09cb5dca41a5b72391f81</sha1>
+<length>138.85</length>
+<height>0</height>
+<width>0</width>
+</file>
+<file name="081.png" source="derivative">
+<format>PNG</format>
+<original>081.mp3</original>
+<mtime>1575474921</mtime>
+<size>39404</size>
+<md5>fc9fdbbf556d54df0869492a0a98008f</md5>
+<crc32>b784257a</crc32>
+<sha1>3becb29bfab546b3df90ea2b02d2bb32e4995c0f</sha1>
+</file>
+<file name="081_spectrogram.png" source="derivative">
+<format>Spectrogram</format>
+<original>081.mp3</original>
+<mtime>1575476006</mtime>
+<size>204823</size>
+<md5>7f1dda1a05db43ef29b7cc238562a461</md5>
+<crc32>b63ab1f4</crc32>
+<sha1>71bacd5c854c05659867b65511d15afa06cf6dd5</sha1>
+</file>
+<file name="082.afpk" source="derivative">
+<format>Columbia Peaks</format>
+<original>082.mp3</original>
+<mtime>1575476211</mtime>
+<size>17704</size>
+<md5>37a99e2303fcd1bb7bb204eea5ccf959</md5>
+<crc32>40a5f836</crc32>
+<sha1>0aa579f357d9ee17bc2ecf9497c42d25f558779f</sha1>
+</file>
+<file name="082.mp3" source="original">
+<mtime>1575456695</mtime>
+<size>206512</size>
+<md5>4a7442cddbc5d9c9bd68f2429dead20b</md5>
+<crc32>32ca4e49</crc32>
+<sha1>139404c16a6bfb8c4e438286f2c41cb5e7fac89d</sha1>
+<format>VBR MP3</format>
+<length>102.23</length>
+<height>0</height>
+<width>0</width>
+<title/>
+<creator/>
+<album/>
+<track>82</track>
+</file>
+<file name="082.ogg" source="derivative">
+<format>Ogg Vorbis</format>
+<original>082.mp3</original>
+<mtime>1575472924</mtime>
+<size>366558</size>
+<md5>4bcf029e53343535bf7a49ce1035e6a9</md5>
+<crc32>3930066c</crc32>
+<sha1>ae3a44a2a95ad35cad029611df188e897ad3a6b1</sha1>
+<length>102.17</length>
+<height>0</height>
+<width>0</width>
+</file>
+<file name="082.png" source="derivative">
+<format>PNG</format>
+<original>082.mp3</original>
+<mtime>1575475534</mtime>
+<size>38122</size>
+<md5>f138fa84aa7e3a00f7607d881d3ce644</md5>
+<crc32>1ca29281</crc32>
+<sha1>7bdce52f6b966404a7dd551429e8f4a073077675</sha1>
+</file>
+<file name="082_spectrogram.png" source="derivative">
+<format>Spectrogram</format>
+<original>082.mp3</original>
+<mtime>1575476018</mtime>
+<size>207466</size>
+<md5>58ee11dc4421ee1c2389621e5a9c8618</md5>
+<crc32>7f25a6ea</crc32>
+<sha1>04fdac6cba7506e4a741221ded97ef61aa89c137</sha1>
+</file>
+<file name="083.afpk" source="derivative">
+<format>Columbia Peaks</format>
+<original>083.mp3</original>
+<mtime>1575476112</mtime>
+<size>41128</size>
+<md5>29a77563722bd2282c857c35e6bfb75c</md5>
+<crc32>69600d3b</crc32>
+<sha1>56db41194ae424d497f145733fed0e28c9868071</sha1>
+</file>
+<file name="083.mp3" source="original">
+<mtime>1575456699</mtime>
+<size>455272</size>
+<md5>d75f6f3bdd36e2c68a717c3efa3dc731</md5>
+<crc32>49e6dd4d</crc32>
+<sha1>e8078d5d4a3ec56df973b8f0fb6f876cea03859a</sha1>
+<format>VBR MP3</format>
+<length>226.61</length>
+<height>0</height>
+<width>0</width>
+<title/>
+<creator/>
+<album/>
+<track>83</track>
+</file>
+<file name="083.ogg" source="derivative">
+<format>Ogg Vorbis</format>
+<original>083.mp3</original>
+<mtime>1575472872</mtime>
+<size>801900</size>
+<md5>be27c7652c37bd62e3595900ad19d814</md5>
+<crc32>4e86daf3</crc32>
+<sha1>6acba3c051c0f6ce1f5ee4b60143485b0dcf6963</sha1>
+<length>226.55</length>
+<height>0</height>
+<width>0</width>
+</file>
+<file name="083.png" source="derivative">
+<format>PNG</format>
+<original>083.mp3</original>
+<mtime>1575475425</mtime>
+<size>40753</size>
+<md5>40695212597b524b963b5d83609933e9</md5>
+<crc32>ee8b7d38</crc32>
+<sha1>055da99c55ea85f8fa97720817badbed31753ac0</sha1>
+</file>
+<file name="083_spectrogram.png" source="derivative">
+<format>Spectrogram</format>
+<original>083.mp3</original>
+<mtime>1575475924</mtime>
+<size>200574</size>
+<md5>7155f8cd592a04c0e990d7a126b8c2fa</md5>
+<crc32>0e874c7c</crc32>
+<sha1>e8758a7f53652f3f3eb1fa7e3ce1d4ea4c369ca1</sha1>
+</file>
+<file name="084.afpk" source="derivative">
+<format>Columbia Peaks</format>
+<original>084.mp3</original>
+<mtime>1575476090</mtime>
+<size>23160</size>
+<md5>de570f4c5917cd0500c153798285cf18</md5>
+<crc32>bce81bb5</crc32>
+<sha1>d54324a2292f82cc7c195de7001048dbcdb305be</sha1>
+</file>
+<file name="084.mp3" source="original">
+<mtime>1575456705</mtime>
+<size>263536</size>
+<md5>fb71e6f55978b7159d58e8ef23aee555</md5>
+<crc32>144ababd</crc32>
+<sha1>f43b4b36a36b47ed8854a329201a344913005127</sha1>
+<format>VBR MP3</format>
+<length>130.74</length>
+<height>0</height>
+<width>0</width>
+<title/>
+<creator/>
+<album/>
+<track>84</track>
+</file>
+<file name="084.ogg" source="derivative">
+<format>Ogg Vorbis</format>
+<original>084.mp3</original>
+<mtime>1575472724</mtime>
+<size>466781</size>
+<md5>f8db1da971ee16b8ab2b9211a2d5c3c1</md5>
+<crc32>438e2d38</crc32>
+<sha1>d314dd51977ba9dca394e4c8f24b65edbef86a67</sha1>
+<length>130.68</length>
+<height>0</height>
+<width>0</width>
+</file>
+<file name="084.png" source="derivative">
+<format>PNG</format>
+<original>084.mp3</original>
+<mtime>1575475436</mtime>
+<size>38746</size>
+<md5>7097d8b0af8d33f314b0ebffad4eacbb</md5>
+<crc32>d59490ae</crc32>
+<sha1>629ed6b7e4f76f57003d4e880f059c5eac51a60f</sha1>
+</file>
+<file name="084_spectrogram.png" source="derivative">
+<format>Spectrogram</format>
+<original>084.mp3</original>
+<mtime>1575475856</mtime>
+<size>204082</size>
+<md5>6ec6490aa681c791e2441d838e1ea016</md5>
+<crc32>f285d0df</crc32>
+<sha1>c7972f62972502e5e9203c1de28b8b6455d41399</sha1>
+</file>
+<file name="085.afpk" source="derivative">
+<format>Columbia Peaks</format>
+<original>085.mp3</original>
+<mtime>1575476082</mtime>
+<size>24992</size>
+<md5>7f6a8528d6f7ba6f0bb55941501d3b63</md5>
+<crc32>efb71fb3</crc32>
+<sha1>55107c1e0a59cc41c0c521bcd8b580642e1ddcd2</sha1>
+</file>
+<file name="085.mp3" source="original">
+<mtime>1575456738</mtime>
+<size>270592</size>
+<md5>b0887d559e252b10f054413fefa8acea</md5>
+<crc32>7d420ad8</crc32>
+<sha1>81ba6c095a930365afa4a725ec806cd40bbc840f</sha1>
+<format>VBR MP3</format>
+<length>134.27</length>
+<height>0</height>
+<width>0</width>
+<title/>
+<creator/>
+<album/>
+<track>85</track>
+</file>
+<file name="085.ogg" source="derivative">
+<format>Ogg Vorbis</format>
+<original>085.mp3</original>
+<mtime>1575472720</mtime>
+<size>480339</size>
+<md5>6cac946a08e272ce31b6da01245338fc</md5>
+<crc32>c8e2d4c4</crc32>
+<sha1>21340f45513e663d187871eb34f45dbbdc2afb49</sha1>
+<length>134.21</length>
+<height>0</height>
+<width>0</width>
+</file>
+<file name="085.png" source="derivative">
+<format>PNG</format>
+<original>085.mp3</original>
+<mtime>1575475454</mtime>
+<size>39602</size>
+<md5>fedff4b9a6dfc37191cca99f533191bd</md5>
+<crc32>3007be46</crc32>
+<sha1>13eb56bdbab6563bd8ba680ca40c9022a11478d2</sha1>
+</file>
+<file name="085_spectrogram.png" source="derivative">
+<format>Spectrogram</format>
+<original>085.mp3</original>
+<mtime>1575475967</mtime>
+<size>204829</size>
+<md5>332584db7e7bcccf4963fa8682923442</md5>
+<crc32>e15c9893</crc32>
+<sha1>e7bdaf3434b17c600418deaa39d3584516a09a06</sha1>
+</file>
+<file name="086.afpk" source="derivative">
+<format>Columbia Peaks</format>
+<original>086.mp3</original>
+<mtime>1575476065</mtime>
+<size>14096</size>
+<md5>e912c7b8a9f167be1e355de4e8457ae9</md5>
+<crc32>e38380b0</crc32>
+<sha1>fa4901482f239220bc429ad57c3e5d3f0e009474</sha1>
+</file>
+<file name="086.mp3" source="original">
+<mtime>1575456744</mtime>
+<size>161728</size>
+<md5>ccd86edb620c5fdc880829f328418cf6</md5>
+<crc32>be2d391f</crc32>
+<sha1>474180ad1c81c182740f34065719b09d5fec6522</sha1>
+<format>VBR MP3</format>
+<length>79.84</length>
+<height>0</height>
+<width>0</width>
+<title/>
+<creator/>
+<album/>
+<track>86</track>
+</file>
+<file name="086.ogg" source="derivative">
+<format>Ogg Vorbis</format>
+<original>086.mp3</original>
+<mtime>1575472716</mtime>
+<size>287816</size>
+<md5>e9c96b07ab0143edcee7f4afa823ef63</md5>
+<crc32>32a69c8d</crc32>
+<sha1>07ec079ca55db4f4fde8da5f09ac7db344c3f82a</sha1>
+<length>79.78</length>
+<height>0</height>
+<width>0</width>
+</file>
+<file name="086.png" source="derivative">
+<format>PNG</format>
+<original>086.mp3</original>
+<mtime>1575475552</mtime>
+<size>36743</size>
+<md5>a4d0b11514f43f6f30b3e9495c3c3526</md5>
+<crc32>a4b1be37</crc32>
+<sha1>36b339c431d581373f9fb4e7dd39aeb07be64296</sha1>
+</file>
+<file name="086_spectrogram.png" source="derivative">
+<format>Spectrogram</format>
+<original>086.mp3</original>
+<mtime>1575475771</mtime>
+<size>208003</size>
+<md5>7a8f41d2e048c87b5a73b15061808f48</md5>
+<crc32>ad6ccaa6</crc32>
+<sha1>1b94c9bed3e7a8e030a13674872959d148815b6e</sha1>
+</file>
+<file name="087.afpk" source="derivative">
+<format>Columbia Peaks</format>
+<original>087.mp3</original>
+<mtime>1575476046</mtime>
+<size>14216</size>
+<md5>196cd9ffff36b286476e8cc2fedd8c52</md5>
+<crc32>f38009f1</crc32>
+<sha1>c37620aa74effa2c5fe117c44a307f1efd599dbe</sha1>
+</file>
+<file name="087.mp3" source="original">
+<mtime>1575456749</mtime>
+<size>180304</size>
+<md5>89e3712f04a2032b8fa2a29bc3246420</md5>
+<crc32>410e28d2</crc32>
+<sha1>d2f1a6ea3037194173d60e0e5799c420ef29c6fd</sha1>
+<format>VBR MP3</format>
+<length>89.13</length>
+<height>0</height>
+<width>0</width>
+<title/>
+<creator/>
+<album/>
+<track>87</track>
+</file>
+<file name="087.ogg" source="derivative">
+<format>Ogg Vorbis</format>
+<original>087.mp3</original>
+<mtime>1575472713</mtime>
+<size>319554</size>
+<md5>31c42cf5189cc386f42bf2b80ddb4de4</md5>
+<crc32>38da7a93</crc32>
+<sha1>944e4192a1d410e51a9f015e396271ff8949598d</sha1>
+<length>89.06</length>
+<height>0</height>
+<width>0</width>
+</file>
+<file name="087.png" source="derivative">
+<format>PNG</format>
+<original>087.mp3</original>
+<mtime>1575475490</mtime>
+<size>37140</size>
+<md5>106236f5e9b49684897b233092d1061a</md5>
+<crc32>00fcb6e7</crc32>
+<sha1>c37385eb151be7ed87cffa511415e99f56eff6cc</sha1>
+</file>
+<file name="087_spectrogram.png" source="derivative">
+<format>Spectrogram</format>
+<original>087.mp3</original>
+<mtime>1575475775</mtime>
+<size>206531</size>
+<md5>bb3a14597f9e818c0897afefb1d65c47</md5>
+<crc32>1a25a70f</crc32>
+<sha1>0b649189e5a2d61fb1ec078393431c18fed9a7e5</sha1>
+</file>
+<file name="088.afpk" source="derivative">
+<format>Columbia Peaks</format>
+<original>088.mp3</original>
+<mtime>1575476338</mtime>
+<size>18960</size>
+<md5>9a1f46934776381724485dbb53784be2</md5>
+<crc32>971b90b4</crc32>
+<sha1>2937f81a53dae9b915d1eaa35c1c99d809c414e1</sha1>
+</file>
+<file name="088.mp3" source="original">
+<mtime>1575456761</mtime>
+<size>240496</size>
+<md5>aee0f81628ade733479dbcc3ee529de9</md5>
+<crc32>8cc3f965</crc32>
+<sha1>4ed2d9005e5293cff69fa66f9836d1bd2ce8551c</sha1>
+<format>VBR MP3</format>
+<length>119.22</length>
+<height>0</height>
+<width>0</width>
+<title/>
+<creator/>
+<album/>
+<track>88</track>
+</file>
+<file name="088.ogg" source="derivative">
+<format>Ogg Vorbis</format>
+<original>088.mp3</original>
+<mtime>1575472867</mtime>
+<size>423561</size>
+<md5>a06586bd58a532ca098b19b56d03ab5e</md5>
+<crc32>e7c8014b</crc32>
+<sha1>f772b8a752ba4fdb0d411de6a99346d94ca9b1ed</sha1>
+<length>119.16</length>
+<height>0</height>
+<width>0</width>
+</file>
+<file name="088.png" source="derivative">
+<format>PNG</format>
+<original>088.mp3</original>
+<mtime>1575475503</mtime>
+<size>37307</size>
+<md5>dde049ae42d5ea13475302284f3d7390</md5>
+<crc32>4cdfee31</crc32>
+<sha1>da9a224b8a620c9aa6450449dfefd96cf2a16b00</sha1>
+</file>
+<file name="088_spectrogram.png" source="derivative">
+<format>Spectrogram</format>
+<original>088.mp3</original>
+<mtime>1575475786</mtime>
+<size>204593</size>
+<md5>4b628bd314c667ae996add8025d75c29</md5>
+<crc32>d10a823d</crc32>
+<sha1>12865554378f82f9f9c31060661681710d7a123e</sha1>
+</file>
+<file name="089.afpk" source="derivative">
+<format>Columbia Peaks</format>
+<original>089.mp3</original>
+<mtime>1575476148</mtime>
+<size>30480</size>
+<md5>9d9bb3a8dfbac6b48b46a8fe708ba5d2</md5>
+<crc32>e9bb9e36</crc32>
+<sha1>215e07799e0d683bf529684c9bae63a9fe4945fd</sha1>
+</file>
+<file name="089.mp3" source="original">
+<mtime>1575456770</mtime>
+<size>349144</size>
+<md5>8c7c9aedd8fdb9845800706590c11f0b</md5>
+<crc32>479b0aec</crc32>
+<sha1>4f14b6b1ef414ced532aba9076f963de6bccfcf2</sha1>
+<format>VBR MP3</format>
+<length>173.55</length>
+<height>0</height>
+<width>0</width>
+<title/>
+<creator/>
+<album/>
+<track>89</track>
+</file>
+<file name="089.ogg" source="derivative">
+<format>Ogg Vorbis</format>
+<original>089.mp3</original>
+<mtime>1575472743</mtime>
+<size>615260</size>
+<md5>75efb7351d98d98e4df2351de37edb93</md5>
+<crc32>4b671df3</crc32>
+<sha1>24b3da003dd806231d163f1e6de68f8352b39c1b</sha1>
+<length>173.48</length>
+<height>0</height>
+<width>0</width>
+</file>
+<file name="089.png" source="derivative">
+<format>PNG</format>
+<original>089.mp3</original>
+<mtime>1575475546</mtime>
+<size>39495</size>
+<md5>79d4ad28fad59e27c28574eadaaafb95</md5>
+<crc32>b5a60ac6</crc32>
+<sha1>a822f042f0ffa0ed27be1b8db488d426974d2630</sha1>
+</file>
+<file name="089_spectrogram.png" source="derivative">
+<format>Spectrogram</format>
+<original>089.mp3</original>
+<mtime>1575475793</mtime>
+<size>199778</size>
+<md5>fa0ffaf8fc0c6c07c38505cb38681df0</md5>
+<crc32>ebe9aeeb</crc32>
+<sha1>5d673fe2d3f2e4cbd64d0a02fdbc2ab6c4b9ff92</sha1>
+</file>
+<file name="090.afpk" source="derivative">
+<format>Columbia Peaks</format>
+<original>090.mp3</original>
+<mtime>1575476071</mtime>
+<size>18352</size>
+<md5>7505164325907da524c22a4c89fca760</md5>
+<crc32>48ed61d9</crc32>
+<sha1>2675db13f5745b6ed822f7dfc549a760fd08a062</sha1>
+</file>
+<file name="090.mp3" source="original">
+<mtime>1575456775</mtime>
+<size>211696</size>
+<md5>5dbb8da226aae8679dc969e39b71c8f5</md5>
+<crc32>c8bdad16</crc32>
+<sha1>985b3912937cbbf2635457254fcb9929d787ac23</sha1>
+<format>VBR MP3</format>
+<length>104.82</length>
+<height>0</height>
+<width>0</width>
+<title/>
+<creator/>
+<album/>
+<track>90</track>
+</file>
+<file name="090.ogg" source="derivative">
+<format>Ogg Vorbis</format>
+<original>090.mp3</original>
+<mtime>1575472729</mtime>
+<size>368001</size>
+<md5>5ca634828fca3628e3a1cc0ddbe2f641</md5>
+<crc32>51fc3a9b</crc32>
+<sha1>2f2cc57a6c0d0027f096571bb2cc29855b938914</sha1>
+<length>104.76</length>
+<height>0</height>
+<width>0</width>
+</file>
+<file name="090.png" source="derivative">
+<format>PNG</format>
+<original>090.mp3</original>
+<mtime>1575475299</mtime>
+<size>36877</size>
+<md5>66737d8d2e95690c8d75d7bfca791221</md5>
+<crc32>93e3c7c2</crc32>
+<sha1>ccff2f429a411707ff4cd9c7cd66576ff10c9f8c</sha1>
+</file>
+<file name="090_spectrogram.png" source="derivative">
+<format>Spectrogram</format>
+<original>090.mp3</original>
+<mtime>1575475800</mtime>
+<size>200164</size>
+<md5>6b0390fe9adb482e77b8eac0dbe88731</md5>
+<crc32>75a1c316</crc32>
+<sha1>9b49014792f9ea75653ef7bbd4aee3e8b0eb65bf</sha1>
+</file>
+<file name="091.afpk" source="derivative">
+<format>Columbia Peaks</format>
+<original>091.mp3</original>
+<mtime>1575476192</mtime>
+<size>13528</size>
+<md5>8cfcc7163faf2ec1e2af4b336c595946</md5>
+<crc32>794aeedd</crc32>
+<sha1>d8cc4f0704e6eb1915e076c400daef4f7fdd36da</sha1>
+</file>
+<file name="091.mp3" source="original">
+<mtime>1575456780</mtime>
+<size>151000</size>
+<md5>86b78bf649563488a3bf61dcd9428cf3</md5>
+<crc32>49769ad3</crc32>
+<sha1>354a33b1a0e9b0ae9b0e18ea7aad27d7229def7f</sha1>
+<format>VBR MP3</format>
+<length>74.48</length>
+<height>0</height>
+<width>0</width>
+<title/>
+<creator/>
+<album/>
+<track>91</track>
+</file>
+<file name="091.ogg" source="derivative">
+<format>Ogg Vorbis</format>
+<original>091.mp3</original>
+<mtime>1575472751</mtime>
+<size>259348</size>
+<md5>d3317b8722d1ed84e48e5f4536915eb4</md5>
+<crc32>66d56a62</crc32>
+<sha1>c8a0751cdc8ac6f9df4b2512e847ab8010864c46</sha1>
+<length>74.41</length>
+<height>0</height>
+<width>0</width>
+</file>
+<file name="091.png" source="derivative">
+<format>PNG</format>
+<original>091.mp3</original>
+<mtime>1575474753</mtime>
+<size>35883</size>
+<md5>91aaf9656e12563a631c4054aa63b4f8</md5>
+<crc32>62a9d291</crc32>
+<sha1>870a98576d99565d79665cc50400101776d7fa6f</sha1>
+</file>
+<file name="091_spectrogram.png" source="derivative">
+<format>Spectrogram</format>
+<original>091.mp3</original>
+<mtime>1575475815</mtime>
+<size>202018</size>
+<md5>c6341d2b87ae0e3d7469d810a45b541e</md5>
+<crc32>ccfff907</crc32>
+<sha1>0f78ec4b047910986f3b16080e486c73d3712376</sha1>
+</file>
+<file name="092.afpk" source="derivative">
+<format>Columbia Peaks</format>
+<original>092.mp3</original>
+<mtime>1575476187</mtime>
+<size>21456</size>
+<md5>bb2d315de47d6733e7750e08b17c716f</md5>
+<crc32>0306f68e</crc32>
+<sha1>4bad94481739dedf1bbcf2ad5938419558a726ca</sha1>
+</file>
+<file name="092.mp3" source="original">
+<mtime>1575456786</mtime>
+<size>223360</size>
+<md5>e3df663761597221fe7aa9461f21ceac</md5>
+<crc32>6cf8abf5</crc32>
+<sha1>b213a9fd79e54019ccc42485887f2307f0268649</sha1>
+<format>VBR MP3</format>
+<length>110.66</length>
+<height>0</height>
+<width>0</width>
+<title/>
+<creator/>
+<album/>
+<track>92</track>
+</file>
+<file name="092.ogg" source="derivative">
+<format>Ogg Vorbis</format>
+<original>092.mp3</original>
+<mtime>1575472765</mtime>
+<size>383439</size>
+<md5>91b5345c47713757d97f3f57d9726f86</md5>
+<crc32>9ed040a2</crc32>
+<sha1>dd72dc42c27b8badab27c885ba3bb77633e62d13</sha1>
+<length>110.59</length>
+<height>0</height>
+<width>0</width>
+</file>
+<file name="092.png" source="derivative">
+<format>PNG</format>
+<original>092.mp3</original>
+<mtime>1575474768</mtime>
+<size>37028</size>
+<md5>4862c43f8816d01cf886e67938461257</md5>
+<crc32>a7afed98</crc32>
+<sha1>721f4a65d70104bb6de146715496f9a39cd6459d</sha1>
+</file>
+<file name="092_spectrogram.png" source="derivative">
+<format>Spectrogram</format>
+<original>092.mp3</original>
+<mtime>1575475791</mtime>
+<size>202199</size>
+<md5>31bfd1383a0c713e337d4c9ef24d64d7</md5>
+<crc32>dbf76e20</crc32>
+<sha1>87093663e34ac7265f608e059d05f03ddfd57947</sha1>
+</file>
+<file name="093.afpk" source="derivative">
+<format>Columbia Peaks</format>
+<original>093.mp3</original>
+<mtime>1575476175</mtime>
+<size>10072</size>
+<md5>647b5f3495607233a3a26efa738b1668</md5>
+<crc32>2e95572e</crc32>
+<sha1>c4877fb2948792b9b412b039dca937de8fdd7ff2</sha1>
+</file>
+<file name="093.mp3" source="original">
+<mtime>1575456791</mtime>
+<size>113056</size>
+<md5>866bc67a92660f78238c050ef835c6ef</md5>
+<crc32>8602cb86</crc32>
+<sha1>52536513d87ed3b51d2d31036f39fa162b7ba9e0</sha1>
+<format>VBR MP3</format>
+<length>55.5</length>
+<height>0</height>
+<width>0</width>
+<title/>
+<creator/>
+<album/>
+<track>93</track>
+</file>
+<file name="093.ogg" source="derivative">
+<format>Ogg Vorbis</format>
+<original>093.mp3</original>
+<mtime>1575472756</mtime>
+<size>195366</size>
+<md5>fd3618fe688518539bbed49a0d4c48cf</md5>
+<crc32>8b792a51</crc32>
+<sha1>a011fc18485df8b4b18798b25440fb593d312dee</sha1>
+<length>55.44</length>
+<height>0</height>
+<width>0</width>
+</file>
+<file name="093.png" source="derivative">
+<format>PNG</format>
+<original>093.mp3</original>
+<mtime>1575474774</mtime>
+<size>34613</size>
+<md5>f64376bdb1bdc8c0bb0f396bd2efa810</md5>
+<crc32>83007227</crc32>
+<sha1>a6b39953e6a6e6406b399c0f2c62833e9ea6b134</sha1>
+</file>
+<file name="093_spectrogram.png" source="derivative">
+<format>Spectrogram</format>
+<original>093.mp3</original>
+<mtime>1575475694</mtime>
+<size>203107</size>
+<md5>043aeb66001905a173dee0875c9c4a99</md5>
+<crc32>4ff0743b</crc32>
+<sha1>16a8a58cfd2ed320445dd1da371b5e834a6b9ec9</sha1>
+</file>
+<file name="094.afpk" source="derivative">
+<format>Columbia Peaks</format>
+<original>094.mp3</original>
+<mtime>1575476170</mtime>
+<size>5760</size>
+<md5>8617cefcd358e128ca483f0df58021c2</md5>
+<crc32>a42d197a</crc32>
+<sha1>1bd9e4c048b91b154af45f9951ac9e9f790af315</sha1>
+</file>
+<file name="094.mp3" source="original">
+<mtime>1575456795</mtime>
+<size>66616</size>
+<md5>7cacfae4151143e0ba333240f8a83e92</md5>
+<crc32>4c4db88b</crc32>
+<sha1>f10d305dda7912f3e42a550ac61e151ed9dc4a66</sha1>
+<format>VBR MP3</format>
+<length>32.28</length>
+<height>0</height>
+<width>0</width>
+<title/>
+<creator/>
+<album/>
+<track>94</track>
+</file>
+<file name="094.ogg" source="derivative">
+<format>Ogg Vorbis</format>
+<original>094.mp3</original>
+<mtime>1575472754</mtime>
+<size>115810</size>
+<md5>cc9a238e7428ccb6618ca8fddf5efae3</md5>
+<crc32>9aa05d81</crc32>
+<sha1>77d7df10478d081adf49f9b612fd1f786a16a273</sha1>
+<length>32.22</length>
+<height>0</height>
+<width>0</width>
+</file>
+<file name="094.png" source="derivative">
+<format>PNG</format>
+<original>094.mp3</original>
+<mtime>1575474794</mtime>
+<size>34098</size>
+<md5>8e3f6f797802f8e2598a089d4177fda6</md5>
+<crc32>f32774b5</crc32>
+<sha1>d200870644ac6327f9e58cb7bc363d41bc152a94</sha1>
+</file>
+<file name="094_spectrogram.png" source="derivative">
+<format>Spectrogram</format>
+<original>094.mp3</original>
+<mtime>1575475696</mtime>
+<size>206128</size>
+<md5>8cabe07659ad78994ebd8babf90ac417</md5>
+<crc32>041c1da1</crc32>
+<sha1>70d1d68719c432fa294cb17cbb48055dae326575</sha1>
+</file>
+<file name="095.afpk" source="derivative">
+<format>Columbia Peaks</format>
+<original>095.mp3</original>
+<mtime>1575476141</mtime>
+<size>8696</size>
+<md5>27084b88bf4378c8896ac5bb62de9e00</md5>
+<crc32>5d2e6d1d</crc32>
+<sha1>571d52df90419eb67c86cb752dee6445ece27917</sha1>
+</file>
+<file name="095.mp3" source="original">
+<mtime>1575456801</mtime>
+<size>95848</size>
+<md5>e8b1363f0c8c38524258de74a5497b56</md5>
+<crc32>bed7b0c6</crc32>
+<sha1>e39d2e0e1b068b717c54457c9e40bd0babc1c62a</sha1>
+<format>VBR MP3</format>
+<length>46.9</length>
+<height>0</height>
+<width>0</width>
+<title/>
+<creator/>
+<album/>
+<track>95</track>
+</file>
+<file name="095.ogg" source="derivative">
+<format>Ogg Vorbis</format>
+<original>095.mp3</original>
+<mtime>1575472732</mtime>
+<size>166870</size>
+<md5>56ea9589095c4b2a26402b3be07f8d3f</md5>
+<crc32>45c9b1ec</crc32>
+<sha1>d548884abe0624a1a7b761b1ec4db08a00e9b1b3</sha1>
+<length>46.84</length>
+<height>0</height>
+<width>0</width>
+</file>
+<file name="095.png" source="derivative">
+<format>PNG</format>
+<original>095.mp3</original>
+<mtime>1575474799</mtime>
+<size>34276</size>
+<md5>71b13fa6a5654db3d5974ccc75f71023</md5>
+<crc32>0714234c</crc32>
+<sha1>ba03f3184ac9decfd85a825e9bd87e36e9afd3de</sha1>
+</file>
+<file name="095_spectrogram.png" source="derivative">
+<format>Spectrogram</format>
+<original>095.mp3</original>
+<mtime>1575475704</mtime>
+<size>207334</size>
+<md5>54ef0b75aa9592d611daa58ebf711e07</md5>
+<crc32>d01c91ca</crc32>
+<sha1>9b250d0e9fb2771688e7d94b25d017ac1bcc6fe7</sha1>
+</file>
+<file name="096.afpk" source="derivative">
+<format>Columbia Peaks</format>
+<original>096.mp3</original>
+<mtime>1575476039</mtime>
+<size>15984</size>
+<md5>5981fefa0dae266be4dabc9771051784</md5>
+<crc32>9609e806</crc32>
+<sha1>2dfc13a781d146bcae421773c42ba851070b396e</sha1>
+</file>
+<file name="096.mp3" source="original">
+<mtime>1575456805</mtime>
+<size>178432</size>
+<md5>3a1453871b65ed5081095c56d944b81a</md5>
+<crc32>5726527b</crc32>
+<sha1>f438793a5ff25a6e11407af17a4cade244da7c0b</sha1>
+<format>VBR MP3</format>
+<length>88.19</length>
+<height>0</height>
+<width>0</width>
+<title/>
+<creator/>
+<album/>
+<track>96</track>
+</file>
+<file name="096.ogg" source="derivative">
+<format>Ogg Vorbis</format>
+<original>096.mp3</original>
+<mtime>1575472739</mtime>
+<size>313407</size>
+<md5>d5e7b67e7f6ea8b5ac078ba45ca04dd8</md5>
+<crc32>70accc01</crc32>
+<sha1>409e86e24e37fa3f41300d54690896f6b2139411</sha1>
+<length>88.13</length>
+<height>0</height>
+<width>0</width>
+</file>
+<file name="096.png" source="derivative">
+<format>PNG</format>
+<original>096.mp3</original>
+<mtime>1575474814</mtime>
+<size>35985</size>
+<md5>79d2830e523a07620479d7203d1ccb37</md5>
+<crc32>bec14e65</crc32>
+<sha1>d16ba57fb46db7c40a3a98012332846336a386e7</sha1>
+</file>
+<file name="096_spectrogram.png" source="derivative">
+<format>Spectrogram</format>
+<original>096.mp3</original>
+<mtime>1575475691</mtime>
+<size>203452</size>
+<md5>8dc57d68b12bf24e323f3ed37fa9c1af</md5>
+<crc32>2527568b</crc32>
+<sha1>afed54361b3ea370c2f3b74cdc02dbf74eab543f</sha1>
+</file>
+<file name="097.afpk" source="derivative">
+<format>Columbia Peaks</format>
+<original>097.mp3</original>
+<mtime>1575476136</mtime>
+<size>7344</size>
+<md5>45c8ad0bd4c22d2df78656b84ef20b82</md5>
+<crc32>1b4141e0</crc32>
+<sha1>711e514b8cdbef5fe72071dbead2604167b44eed</sha1>
+</file>
+<file name="097.mp3" source="original">
+<mtime>1575456810</mtime>
+<size>80008</size>
+<md5>d24ac07124d346f0990b3cb060b9fde2</md5>
+<crc32>4bddcd92</crc32>
+<sha1>08e66d7e8d5476f6d14af67e7156b204be051f7a</sha1>
+<format>VBR MP3</format>
+<length>38.98</length>
+<height>0</height>
+<width>0</width>
+<title/>
+<creator/>
+<album/>
+<track>97</track>
+</file>
+<file name="097.ogg" source="derivative">
+<format>Ogg Vorbis</format>
+<original>097.mp3</original>
+<mtime>1575472710</mtime>
+<size>138755</size>
+<md5>674f1e032dd412143fe6a25cb17046ff</md5>
+<crc32>12993a5e</crc32>
+<sha1>ccaa7052825f545639c9323d1403b58b6c3f7af7</sha1>
+<length>38.92</length>
+<height>0</height>
+<width>0</width>
+</file>
+<file name="097.png" source="derivative">
+<format>PNG</format>
+<original>097.mp3</original>
+<mtime>1575474836</mtime>
+<size>34330</size>
+<md5>c7ad77a0945ef74bcfb1855675869bbf</md5>
+<crc32>1858862f</crc32>
+<sha1>56bb50c404de89f0d1d6e7dd820041c2205703a1</sha1>
+</file>
+<file name="097_spectrogram.png" source="derivative">
+<format>Spectrogram</format>
+<original>097.mp3</original>
+<mtime>1575475723</mtime>
+<size>205259</size>
+<md5>d5608eb53354c31d1cffeb39b075712a</md5>
+<crc32>f2be93f9</crc32>
+<sha1>3c9609317fbf9e383635a5a96249c46c3aa74a34</sha1>
+</file>
+<file name="098.afpk" source="derivative">
+<format>Columbia Peaks</format>
+<original>098.mp3</original>
+<mtime>1575476117</mtime>
+<size>18344</size>
+<md5>b6db73785a5ecd11407b4ff17b0603b0</md5>
+<crc32>eda9ab5e</crc32>
+<sha1>c19bba43594cc07cb4b1b05d3bbb760c7bf61288</sha1>
+</file>
+<file name="098.mp3" source="original">
+<mtime>1575456814</mtime>
+<size>214504</size>
+<md5>14cf1e9dd284e35fa2a54a70351b7759</md5>
+<crc32>909e5a34</crc32>
+<sha1>f6e3ec4cae09d283b577dbb4759af32bc4c823c5</sha1>
+<format>VBR MP3</format>
+<length>106.23</length>
+<height>0</height>
+<width>0</width>
+<title/>
+<creator/>
+<album/>
+<track>98</track>
+</file>
+<file name="098.ogg" source="derivative">
+<format>Ogg Vorbis</format>
+<original>098.mp3</original>
+<mtime>1575472736</mtime>
+<size>373943</size>
+<md5>73bb53d6bde38df88098e1eff5eea4e4</md5>
+<crc32>e54098f3</crc32>
+<sha1>62eefcbe3a3a85f692fedc5d1809b50de487831a</sha1>
+<length>106.16</length>
+<height>0</height>
+<width>0</width>
+</file>
+<file name="098.png" source="derivative">
+<format>PNG</format>
+<original>098.mp3</original>
+<mtime>1575475557</mtime>
+<size>36845</size>
+<md5>3020421f406037a9319fbfa4ed8b54dd</md5>
+<crc32>2ceb8f96</crc32>
+<sha1>d07c7f65d1385839c70559c362788ce5bd9e2714</sha1>
+</file>
+<file name="098_spectrogram.png" source="derivative">
+<format>Spectrogram</format>
+<original>098.mp3</original>
+<mtime>1575475871</mtime>
+<size>199501</size>
+<md5>801aaeedb1b6656a1fb97b054ed85cb4</md5>
+<crc32>4db93506</crc32>
+<sha1>2cffe27574e8fe371579f9dcfc11b54fe7c3097a</sha1>
+</file>
+<file name="099.afpk" source="derivative">
+<format>Columbia Peaks</format>
+<original>099.mp3</original>
+<mtime>1575476488</mtime>
+<size>8848</size>
+<md5>2081f0cb22a4b68312a8897befb13f3b</md5>
+<crc32>2ca19fa6</crc32>
+<sha1>708fcbcf150432178e0d93addcca7e71f776a502</sha1>
+</file>
+<file name="099.mp3" source="original">
+<mtime>1575456818</mtime>
+<size>95632</size>
+<md5>f17d11cfa2c5fbac62df5486b499fe22</md5>
+<crc32>40cfd4da</crc32>
+<sha1>e4428fed086b0032f579f31f863b0bea6fe9df21</sha1>
+<format>VBR MP3</format>
+<length>46.79</length>
+<height>0</height>
+<width>0</width>
+<title/>
+<creator/>
+<album/>
+<track>99</track>
+</file>
+<file name="099.ogg" source="derivative">
+<format>Ogg Vorbis</format>
+<original>099.mp3</original>
+<mtime>1575472962</mtime>
+<size>166812</size>
+<md5>ba7962a167bc117b43798fca1d5e9f57</md5>
+<crc32>04875777</crc32>
+<sha1>878040fad97f10a2e8fb68e4936d2ca5452c054f</sha1>
+<length>46.73</length>
+<height>0</height>
+<width>0</width>
+</file>
+<file name="099.png" source="derivative">
+<format>PNG</format>
+<original>099.mp3</original>
+<mtime>1575475358</mtime>
+<size>34834</size>
+<md5>a719d0736c967089bc5e4ece5fcd6c7d</md5>
+<crc32>a13857af</crc32>
+<sha1>83e2d928d99bcb997380d35d0e57827cc6e6e877</sha1>
+</file>
+<file name="099_spectrogram.png" source="derivative">
+<format>Spectrogram</format>
+<original>099.mp3</original>
+<mtime>1575475599</mtime>
+<size>204953</size>
+<md5>e7812a8e8c396570e6f5929724ef7552</md5>
+<crc32>46055711</crc32>
+<sha1>a5b5188ea1d8a34b7adbab3a93514a20a8f0c02f</sha1>
+</file>
+<file name="100.afpk" source="derivative">
+<format>Columbia Peaks</format>
+<original>100.mp3</original>
+<mtime>1575476479</mtime>
+<size>9520</size>
+<md5>66c86d071ae3c2a62296bc47a7d8d142</md5>
+<crc32>4de4af1e</crc32>
+<sha1>baa3f3b4a664d2d8a479950fcff670269b960e5c</sha1>
+</file>
+<file name="100.mp3" source="original">
+<mtime>1575456823</mtime>
+<size>109168</size>
+<md5>dbbf819b9947f070b1c14a7306d2374b</md5>
+<crc32>73cacc90</crc32>
+<sha1>1e28651bad5a1937914193a1afa9df1d0f92a3e5</sha1>
+<format>VBR MP3</format>
+<length>53.56</length>
+<height>0</height>
+<width>0</width>
+<title/>
+<creator/>
+<album/>
+<track>100</track>
+</file>
+<file name="100.ogg" source="derivative">
+<format>Ogg Vorbis</format>
+<original>100.mp3</original>
+<mtime>1575472955</mtime>
+<size>189184</size>
+<md5>92429730e7963b00091169cef4fb4ef7</md5>
+<crc32>d309b483</crc32>
+<sha1>89e517301e22ca199b8aa9d507071c97bd67f3f2</sha1>
+<length>53.5</length>
+<height>0</height>
+<width>0</width>
+</file>
+<file name="100.png" source="derivative">
+<format>PNG</format>
+<original>100.mp3</original>
+<mtime>1575475388</mtime>
+<size>35169</size>
+<md5>cfefcc19e2b3633e2df502423b507832</md5>
+<crc32>5bea61ec</crc32>
+<sha1>e5fa59f19b49c4fd6a45dffd7d9d0d7fd1e56e6b</sha1>
+</file>
+<file name="100_spectrogram.png" source="derivative">
+<format>Spectrogram</format>
+<original>100.mp3</original>
+<mtime>1575476015</mtime>
+<size>204247</size>
+<md5>babc36b3fc664346ef12c0376edbb7f5</md5>
+<crc32>4d9167cf</crc32>
+<sha1>9cb649637a8d64a10fbc1d95d6b5cba5146edc89</sha1>
+</file>
+<file name="101.afpk" source="derivative">
+<format>Columbia Peaks</format>
+<original>101.mp3</original>
+<mtime>1575476475</mtime>
+<size>9376</size>
+<md5>bfeeeb59c403b786a136afb0da274da7</md5>
+<crc32>10b8a6b1</crc32>
+<sha1>d4fbfb14e8c1d4a800f8b9374029397ca71b2563</sha1>
+</file>
+<file name="101.mp3" source="original">
+<mtime>1575456826</mtime>
+<size>99304</size>
+<md5>82c029930d3908937b580998ee23cc87</md5>
+<crc32>3c548703</crc32>
+<sha1>bb2adb5cc129a91d4df5a9eb0b35e08489cfa319</sha1>
+<format>VBR MP3</format>
+<length>48.63</length>
+<height>0</height>
+<width>0</width>
+<title/>
+<creator/>
+<album/>
+<track>101</track>
+</file>
+<file name="101.ogg" source="derivative">
+<format>Ogg Vorbis</format>
+<original>101.mp3</original>
+<mtime>1575472907</mtime>
+<size>171060</size>
+<md5>1bc51b1a498868e516a215e74dd93abb</md5>
+<crc32>0df41658</crc32>
+<sha1>ab5fcf6e43dde04d9e72d26bc39f27f6d9f89f1d</sha1>
+<length>48.56</length>
+<height>0</height>
+<width>0</width>
+</file>
+<file name="101.png" source="derivative">
+<format>PNG</format>
+<original>101.mp3</original>
+<mtime>1575475197</mtime>
+<size>34535</size>
+<md5>ea7de21e716ba008c73a98c28d6b92fe</md5>
+<crc32>3bd352bc</crc32>
+<sha1>a545b3e4974a6616d384c5db083186114a2fafe1</sha1>
+</file>
+<file name="101_spectrogram.png" source="derivative">
+<format>Spectrogram</format>
+<original>101.mp3</original>
+<mtime>1575475643</mtime>
+<size>205056</size>
+<md5>ddc53778b6429e034bf32f1b54bd4aae</md5>
+<crc32>f595930e</crc32>
+<sha1>608e81ed83710f1e08a680b745ed790fb8f406f3</sha1>
+</file>
+<file name="102.afpk" source="derivative">
+<format>Columbia Peaks</format>
+<original>102.mp3</original>
+<mtime>1575476467</mtime>
+<size>7296</size>
+<md5>81b26c386502fe1aa375405896ff4b1d</md5>
+<crc32>dbf564a8</crc32>
+<sha1>62943d89bd3ef80761722def62e6c319162fa163</sha1>
+</file>
+<file name="102.mp3" source="original">
+<mtime>1575456835</mtime>
+<size>81880</size>
+<md5>370095afdc8255415bae1baf5000294f</md5>
+<crc32>536de384</crc32>
+<sha1>42a5b3b78553dbfe41dc91303ac452bc213482d4</sha1>
+<format>VBR MP3</format>
+<length>39.92</length>
+<height>0</height>
+<width>0</width>
+<title/>
+<creator/>
+<album/>
+<track>102</track>
+</file>
+<file name="102.ogg" source="derivative">
+<format>Ogg Vorbis</format>
+<original>102.mp3</original>
+<mtime>1575472952</mtime>
+<size>143261</size>
+<md5>d31d812a1a9cc1171701407eb4e63873</md5>
+<crc32>4f7bbde6</crc32>
+<sha1>053988bd64f29724581edc283641ce24ecf688fc</sha1>
+<length>39.85</length>
+<height>0</height>
+<width>0</width>
+</file>
+<file name="102.png" source="derivative">
+<format>PNG</format>
+<original>102.mp3</original>
+<mtime>1575475371</mtime>
+<size>34021</size>
+<md5>e1f487a68b34080d41e9e5ffe93c2dca</md5>
+<crc32>76a9ecf8</crc32>
+<sha1>9b30a47654f746978653d67de96eb2b3d5344ff9</sha1>
+</file>
+<file name="102_spectrogram.png" source="derivative">
+<format>Spectrogram</format>
+<original>102.mp3</original>
+<mtime>1575475597</mtime>
+<size>204106</size>
+<md5>36fe20b9756cc1081c03dd41d0f4171d</md5>
+<crc32>89631042</crc32>
+<sha1>f1c598e5e9743008c7fcb471eed680135b0010d3</sha1>
+</file>
+<file name="103.afpk" source="derivative">
+<format>Columbia Peaks</format>
+<original>103.mp3</original>
+<mtime>1575476460</mtime>
+<size>3856</size>
+<md5>f12e5f3029d545ae4d62e6165dcecb83</md5>
+<crc32>127a594c</crc32>
+<sha1>63b71dcb0649b5cba173c9ed5015bf4ecd357d77</sha1>
+</file>
+<file name="103.mp3" source="original">
+<mtime>1575456838</mtime>
+<size>44728</size>
+<md5>b9d93d8719c1178754475d86602f5dd5</md5>
+<crc32>78fa9b7a</crc32>
+<sha1>1d5d62805455c2925b531a19968eee83709d9394</sha1>
+<format>VBR MP3</format>
+<length>21.34</length>
+<height>0</height>
+<width>0</width>
+<title/>
+<creator/>
+<album/>
+<track>103</track>
+</file>
+<file name="103.ogg" source="derivative">
+<format>Ogg Vorbis</format>
+<original>103.mp3</original>
+<mtime>1575472939</mtime>
+<size>78537</size>
+<md5>b077ed3a84c72aa219031577668b9d1d</md5>
+<crc32>80d8fe86</crc32>
+<sha1>4386c1df42cebfa08d0801ae202e9a7ff47acb72</sha1>
+<length>21.28</length>
+<height>0</height>
+<width>0</width>
+</file>
+<file name="103.png" source="derivative">
+<format>PNG</format>
+<original>103.mp3</original>
+<mtime>1575475340</mtime>
+<size>32756</size>
+<md5>4e42970452a5d36e504363458bf6581c</md5>
+<crc32>f5654845</crc32>
+<sha1>991038ca9c4c6de5daea8681626ae78463071bbc</sha1>
+</file>
+<file name="103_spectrogram.png" source="derivative">
+<format>Spectrogram</format>
+<original>103.mp3</original>
+<mtime>1575476010</mtime>
+<size>208900</size>
+<md5>358ee5464c06a42c1ee5af3893359035</md5>
+<crc32>936d9bfc</crc32>
+<sha1>8b9fdf2eeeab671d8bbceea8426ff12f08f49e68</sha1>
+</file>
+<file name="104.afpk" source="derivative">
+<format>Columbia Peaks</format>
+<original>104.mp3</original>
+<mtime>1575476442</mtime>
+<size>8024</size>
+<md5>80bd89d8200509506bd11f5a75f9ef58</md5>
+<crc32>25214d53</crc32>
+<sha1>b88cacac10b48f987b5418d050b87dd04a82ac6b</sha1>
+</file>
+<file name="104.mp3" source="original">
+<mtime>1575456841</mtime>
+<size>91528</size>
+<md5>30e4771344fe026b6e287df75a57f2c9</md5>
+<crc32>e245f350</crc32>
+<sha1>ea68015f8bd840729664dd8eff39c6930100e244</sha1>
+<format>VBR MP3</format>
+<length>44.74</length>
+<height>0</height>
+<width>0</width>
+<title/>
+<creator/>
+<album/>
+<track>104</track>
+</file>
+<file name="104.ogg" source="derivative">
+<format>Ogg Vorbis</format>
+<original>104.mp3</original>
+<mtime>1575472949</mtime>
+<size>161518</size>
+<md5>cd0a1e2e162e0d1d54619604fa5e3170</md5>
+<crc32>9bca90a5</crc32>
+<sha1>40b96f56ac29c0e8a6b34cd6f4d0892c6ba6b3ee</sha1>
+<length>44.68</length>
+<height>0</height>
+<width>0</width>
+</file>
+<file name="104.png" source="derivative">
+<format>PNG</format>
+<original>104.mp3</original>
+<mtime>1575475281</mtime>
+<size>34904</size>
+<md5>0383ec8df9d1c1148037ec758b240c8d</md5>
+<crc32>e353d906</crc32>
+<sha1>ad07c2658b06fca8ce5e38e1f5a0da70629cc0b1</sha1>
+</file>
+<file name="104_spectrogram.png" source="derivative">
+<format>Spectrogram</format>
+<original>104.mp3</original>
+<mtime>1575475569</mtime>
+<size>206431</size>
+<md5>9b28c1210b84eaf0c61131ef8dbb5226</md5>
+<crc32>d0ed0539</crc32>
+<sha1>68a538baa9a46740b6340d029e0fa10f2100220b</sha1>
+</file>
+<file name="105.afpk" source="derivative">
+<format>Columbia Peaks</format>
+<original>105.mp3</original>
+<mtime>1575476437</mtime>
+<size>5896</size>
+<md5>13fa69bdb6799a8688e6c1b520d3f740</md5>
+<crc32>27920624</crc32>
+<sha1>fa7bab2573d4cbd97be200d7e16e3be2d0a81bef</sha1>
+</file>
+<file name="105.mp3" source="original">
+<mtime>1575456850</mtime>
+<size>66832</size>
+<md5>4799f70230a20be8f3811ad502c02c04</md5>
+<crc32>005d21d6</crc32>
+<sha1>b2ffedeb3d03567dca3a94e4f045a39d7e8eb8e1</sha1>
+<format>VBR MP3</format>
+<length>32.39</length>
+<height>0</height>
+<width>0</width>
+<title/>
+<creator/>
+<album/>
+<track>105</track>
+</file>
+<file name="105.ogg" source="derivative">
+<format>Ogg Vorbis</format>
+<original>105.mp3</original>
+<mtime>1575472945</mtime>
+<size>117335</size>
+<md5>f10025f4a49be3e64d16e0db39e22a13</md5>
+<crc32>6f3667ce</crc32>
+<sha1>11604dbbdd95fde1a8fb292bf996928a0d89f654</sha1>
+<length>32.33</length>
+<height>0</height>
+<width>0</width>
+</file>
+<file name="105.png" source="derivative">
+<format>PNG</format>
+<original>105.mp3</original>
+<mtime>1575475225</mtime>
+<size>34393</size>
+<md5>5fc6f370bc2a31919580e38877e2bbd7</md5>
+<crc32>d294565b</crc32>
+<sha1>7265b10fff9f200bfea220459e8a03a688a3a623</sha1>
+</file>
+<file name="105_spectrogram.png" source="derivative">
+<format>Spectrogram</format>
+<original>105.mp3</original>
+<mtime>1575475892</mtime>
+<size>206222</size>
+<md5>b3ff242c1d5f1d5c37aa8d1dde698959</md5>
+<crc32>19861e11</crc32>
+<sha1>a1d3e4d4b95f662357989b6a998b331c8efb0872</sha1>
+</file>
+<file name="106.afpk" source="derivative">
+<format>Columbia Peaks</format>
+<original>106.mp3</original>
+<mtime>1575476484</mtime>
+<size>5448</size>
+<md5>e5b9e8cc5b5d4506307ec227326dece8</md5>
+<crc32>a22b8781</crc32>
+<sha1>c32281c9f16dc3a86263b6346a9495b60224b0d0</sha1>
+</file>
+<file name="106.mp3" source="original">
+<mtime>1575456854</mtime>
+<size>63160</size>
+<md5>c1f6067f4c6e0098f5dbe66fe5bf70e3</md5>
+<crc32>7b5dc611</crc32>
+<sha1>2298a0f5e4a0407ce6da5d46a774c319121da0c7</sha1>
+<format>VBR MP3</format>
+<length>30.56</length>
+<height>0</height>
+<width>0</width>
+<title/>
+<creator/>
+<album/>
+<track>106</track>
+</file>
+<file name="106.ogg" source="derivative">
+<format>Ogg Vorbis</format>
+<original>106.mp3</original>
+<mtime>1575472942</mtime>
+<size>109309</size>
+<md5>73866038c6dec1854258a20d771f937e</md5>
+<crc32>2d09961b</crc32>
+<sha1>7e18febe583191fa9d95e5f5ddc828fbd246a873</sha1>
+<length>30.49</length>
+<height>0</height>
+<width>0</width>
+</file>
+<file name="106.png" source="derivative">
+<format>PNG</format>
+<original>106.mp3</original>
+<mtime>1575475376</mtime>
+<size>32887</size>
+<md5>e45f0bdd6d3a0a0240fdb968fc18dddf</md5>
+<crc32>35fe4340</crc32>
+<sha1>cc02dc3497b9c01ebc763c8e3dad64ff1ebd529c</sha1>
+</file>
+<file name="106_spectrogram.png" source="derivative">
+<format>Spectrogram</format>
+<original>106.mp3</original>
+<mtime>1575475608</mtime>
+<size>204585</size>
+<md5>e8389a4f81059b6ce2eb86624734c9e8</md5>
+<crc32>795c634f</crc32>
+<sha1>d75a77b52540bcaa85b789001225fdc1f53807a1</sha1>
+</file>
+<file name="107.afpk" source="derivative">
+<format>Columbia Peaks</format>
+<original>107.mp3</original>
+<mtime>1575476543</mtime>
+<size>6184</size>
+<md5>68f1d62e568ab6aeb997a59ffb3daa0d</md5>
+<crc32>e330e9f0</crc32>
+<sha1>26f717266fcc6b97668b3f88343bf86a662c9705</sha1>
+</file>
+<file name="107.mp3" source="original">
+<mtime>1575456858</mtime>
+<size>76264</size>
+<md5>ac079ce7bb8b5d89a78dfa914bee5f3d</md5>
+<crc32>21c48bcd</crc32>
+<sha1>c5dba6214fd660c80781f8215985df27631ccfb4</sha1>
+<format>VBR MP3</format>
+<length>37.11</length>
+<height>0</height>
+<width>0</width>
+<title/>
+<creator/>
+<album/>
+<track>107</track>
+</file>
+<file name="107.ogg" source="derivative">
+<format>Ogg Vorbis</format>
+<original>107.mp3</original>
+<mtime>1575472959</mtime>
+<size>134628</size>
+<md5>d5d5ee07e38ba59ad4cda8e2aa4e43a8</md5>
+<crc32>b7051a88</crc32>
+<sha1>fbf795c2cb3c26ef28f63c19f6f23f8c8ababca9</sha1>
+<length>37.04</length>
+<height>0</height>
+<width>0</width>
+</file>
+<file name="107.png" source="derivative">
+<format>PNG</format>
+<original>107.mp3</original>
+<mtime>1575475475</mtime>
+<size>32428</size>
+<md5>fba4ab1f48001ec4b0d863efec37b6c6</md5>
+<crc32>05b4b0dd</crc32>
+<sha1>fb15a77e4ab71f3ea6a49c48b497d43a519fc66e</sha1>
+</file>
+<file name="107_spectrogram.png" source="derivative">
+<format>Spectrogram</format>
+<original>107.mp3</original>
+<mtime>1575475920</mtime>
+<size>204846</size>
+<md5>5c32930c73a3b189f5dd16da11366d56</md5>
+<crc32>c9ecfd7f</crc32>
+<sha1>d8a4d4bdf2480a42226f1e8299ece19d134ad5ed</sha1>
+</file>
+<file name="108.afpk" source="derivative">
+<format>Columbia Peaks</format>
+<original>108.mp3</original>
+<mtime>1575476567</mtime>
+<size>2880</size>
+<md5>b4ad3393e7063256dad2becacbecbba9</md5>
+<crc32>46f2dc65</crc32>
+<sha1>5f2307ad25f735ce7a7718c928d9de92d94d906a</sha1>
+</file>
+<file name="108.mp3" source="original">
+<mtime>1575456863</mtime>
+<size>36232</size>
+<md5>1da722759347fd1d5bc19e8a0b90e802</md5>
+<crc32>4354391b</crc32>
+<sha1>83aa45fff00c94f3cb5a068c3e7d02cdf4f6c477</sha1>
+<format>VBR MP3</format>
+<length>17.09</length>
+<height>0</height>
+<width>0</width>
+<title/>
+<creator/>
+<album/>
+<track>108</track>
+</file>
+<file name="108.ogg" source="derivative">
+<format>Ogg Vorbis</format>
+<original>108.mp3</original>
+<mtime>1575472957</mtime>
+<size>63749</size>
+<md5>bcf6cc9d058de659edec5b63b0b2c16c</md5>
+<crc32>22128620</crc32>
+<sha1>bac74ab6d7459b4c9133293cdb07103536df7143</sha1>
+<length>17.03</length>
+<height>0</height>
+<width>0</width>
+</file>
+<file name="108.png" source="derivative">
+<format>PNG</format>
+<original>108.mp3</original>
+<mtime>1575475398</mtime>
+<size>34237</size>
+<md5>3a96283e0ce091bda6c04093202b3ad3</md5>
+<crc32>fd907e0a</crc32>
+<sha1>cb031450f503cc1c2a8979e3dfd07a0bda24c16c</sha1>
+</file>
+<file name="108_spectrogram.png" source="derivative">
+<format>Spectrogram</format>
+<original>108.mp3</original>
+<mtime>1575475689</mtime>
+<size>206916</size>
+<md5>a1873833eb8ebdb949e46b1ac1c7b870</md5>
+<crc32>88c2c932</crc32>
+<sha1>912249f5f58d2edb6fed8726e0a12cace1910108</sha1>
+</file>
+<file name="109.afpk" source="derivative">
+<format>Columbia Peaks</format>
+<original>109.mp3</original>
+<mtime>1575476563</mtime>
+<size>5672</size>
+<md5>8d64fa3a35b02c964ffe2e20f634c204</md5>
+<crc32>012c0c53</crc32>
+<sha1>defd7a05631cf8874cd668314691d6091f333218</sha1>
+</file>
+<file name="109.mp3" source="original">
+<mtime>1575456871</mtime>
+<size>66616</size>
+<md5>497a030b72fb027d130d17334f5ac33d</md5>
+<crc32>91403531</crc32>
+<sha1>a761d7425cefc1673a94c42a37dac09647f28dd8</sha1>
+<format>VBR MP3</format>
+<length>32.28</length>
+<height>0</height>
+<width>0</width>
+<title/>
+<creator/>
+<album/>
+<track>109</track>
+</file>
+<file name="109.ogg" source="derivative">
+<format>Ogg Vorbis</format>
+<original>109.mp3</original>
+<mtime>1575472979</mtime>
+<size>117476</size>
+<md5>04e21980ba03c9e6bc1240b960fe5b45</md5>
+<crc32>73275f5f</crc32>
+<sha1>0d1e9ada246824c83d31d10723674a40f34c9d27</sha1>
+<length>32.22</length>
+<height>0</height>
+<width>0</width>
+</file>
+<file name="109.png" source="derivative">
+<format>PNG</format>
+<original>109.mp3</original>
+<mtime>1575475237</mtime>
+<size>34287</size>
+<md5>bf2ed3fde29a401b16f12917df86b4b8</md5>
+<crc32>189f7975</crc32>
+<sha1>f0243bd60df6757ba6560fb6bf570bf4a5055d1d</sha1>
+</file>
+<file name="109_spectrogram.png" source="derivative">
+<format>Spectrogram</format>
+<original>109.mp3</original>
+<mtime>1575475560</mtime>
+<size>205587</size>
+<md5>d7d2a1d4ad5da885a56ffc2e7c57aa93</md5>
+<crc32>bc6bf9d1</crc32>
+<sha1>67216df19e73b445b69ec565665af171a2a2178a</sha1>
+</file>
+<file name="110.afpk" source="derivative">
+<format>Columbia Peaks</format>
+<original>110.mp3</original>
+<mtime>1575476548</mtime>
+<size>4800</size>
+<md5>93cb1a79db98ccb7a5128cd3f74f9da6</md5>
+<crc32>3266324e</crc32>
+<sha1>400aee46c436328e28acf3b41e28c80ebf3097e8</sha1>
+</file>
+<file name="110.mp3" source="original">
+<mtime>1575456874</mtime>
+<size>53584</size>
+<md5>0ae467ec95e812216ac77f2bdeeb4594</md5>
+<crc32>54c17db5</crc32>
+<sha1>c5865300b57f6878d01ebb0343537130a5552f61</sha1>
+<format>VBR MP3</format>
+<length>25.77</length>
+<height>0</height>
+<width>0</width>
+<title/>
+<creator/>
+<album/>
+<track>110</track>
+</file>
+<file name="110.ogg" source="derivative">
+<format>Ogg Vorbis</format>
+<original>110.mp3</original>
+<mtime>1575472977</mtime>
+<size>93688</size>
+<md5>41ffb3ca3b8f0627666e74cd268ab345</md5>
+<crc32>fcf78855</crc32>
+<sha1>be3225401efda8ea7aa3097295a13105d8ce2a34</sha1>
+<length>25.7</length>
+<height>0</height>
+<width>0</width>
+</file>
+<file name="110.png" source="derivative">
+<format>PNG</format>
+<original>110.mp3</original>
+<mtime>1575475251</mtime>
+<size>35289</size>
+<md5>40267ddddbc3037498ab59078fc62d72</md5>
+<crc32>b12ad403</crc32>
+<sha1>eb029f319569a050108205cbbd6f8f98a37270e9</sha1>
+</file>
+<file name="110_spectrogram.png" source="derivative">
+<format>Spectrogram</format>
+<original>110.mp3</original>
+<mtime>1575475666</mtime>
+<size>202598</size>
+<md5>46a9d9c0300bb631382c05ba256a31d1</md5>
+<crc32>8dabc6dc</crc32>
+<sha1>44b1dc7cd91980c9d7f40db354a2d1110c31be8f</sha1>
+</file>
+<file name="111.afpk" source="derivative">
+<format>Columbia Peaks</format>
+<original>111.mp3</original>
+<mtime>1575476501</mtime>
+<size>5768</size>
+<md5>2a9f7555ba958ad0acdcd9f0cf997c53</md5>
+<crc32>7df12e42</crc32>
+<sha1>5165ce586e2851139adc8abb746f936cf1d104aa</sha1>
+</file>
+<file name="111.mp3" source="original">
+<mtime>1575456881</mtime>
+<size>63664</size>
+<md5>24a2f89d918f606125a4b7c6949760c7</md5>
+<crc32>35f0315d</crc32>
+<sha1>4f4cad51f473fe64274abf7e966868d0d6432c06</sha1>
+<format>VBR MP3</format>
+<length>30.81</length>
+<height>0</height>
+<width>0</width>
+<title/>
+<creator/>
+<album/>
+<track>111</track>
+</file>
+<file name="111.ogg" source="derivative">
+<format>Ogg Vorbis</format>
+<original>111.mp3</original>
+<mtime>1575472974</mtime>
+<size>111107</size>
+<md5>45bb71c484926db199cf74fa761ba409</md5>
+<crc32>e2fac40f</crc32>
+<sha1>6d1827df706ba655b71241a2b2711d5b678efa0a</sha1>
+<length>30.74</length>
+<height>0</height>
+<width>0</width>
+</file>
+<file name="111.png" source="derivative">
+<format>PNG</format>
+<original>111.mp3</original>
+<mtime>1575475268</mtime>
+<size>35178</size>
+<md5>92b765e03c5f3ff82959533de320aa72</md5>
+<crc32>a754fedf</crc32>
+<sha1>5821fa9e5d19e707eedba88b3bb33caaba5fdf03</sha1>
+</file>
+<file name="111_spectrogram.png" source="derivative">
+<format>Spectrogram</format>
+<original>111.mp3</original>
+<mtime>1575475648</mtime>
+<size>202731</size>
+<md5>74c045ab94446765f396658320d27990</md5>
+<crc32>dd5befe9</crc32>
+<sha1>5dce3141d3fd9a368c2f83d2ea370080f6235a05</sha1>
+</file>
+<file name="112.afpk" source="derivative">
+<format>Columbia Peaks</format>
+<original>112.mp3</original>
+<mtime>1575476538</mtime>
+<size>3408</size>
+<md5>675cd8a1b8e8a54c375b9513a1186ef1</md5>
+<crc32>243adce5</crc32>
+<sha1>afcf4376f810ebfebed1af2272e4b7ebd0285c10</sha1>
+</file>
+<file name="112.mp3" source="original">
+<mtime>1575456924</mtime>
+<size>38032</size>
+<md5>8dcc0775fb71e5116772aa660cb9980d</md5>
+<crc32>a3ea1900</crc32>
+<sha1>c9fdeb4b7ba4ba80fd7e1e43a6f5808b5f4f0044</sha1>
+<format>VBR MP3</format>
+<length>17.99</length>
+<height>0</height>
+<width>0</width>
+<title/>
+<creator/>
+<album/>
+<track>112</track>
+</file>
+<file name="112.ogg" source="derivative">
+<format>Ogg Vorbis</format>
+<original>112.mp3</original>
+<mtime>1575472970</mtime>
+<size>65829</size>
+<md5>05a921cb06bf4551aca6e340dd63c660</md5>
+<crc32>56b654ec</crc32>
+<sha1>ef4bae4b1795c66eb04e71d6b8c61cc3d2bf3feb</sha1>
+<length>17.93</length>
+<height>0</height>
+<width>0</width>
+</file>
+<file name="112.png" source="derivative">
+<format>PNG</format>
+<original>112.mp3</original>
+<mtime>1575475295</mtime>
+<size>34005</size>
+<md5>1f8c8d5a6356d61f480db1b9dc762cdc</md5>
+<crc32>9ffbd828</crc32>
+<sha1>4cc7b14e82ace8a7e339eb458dbe1d9285286424</sha1>
+</file>
+<file name="112_spectrogram.png" source="derivative">
+<format>Spectrogram</format>
+<original>112.mp3</original>
+<mtime>1575475635</mtime>
+<size>204775</size>
+<md5>ab81556e68133abfbef31f437c86a6e2</md5>
+<crc32>02b4014c</crc32>
+<sha1>265c240a8fa2804d8e393cc1c73b676121e357b2</sha1>
+</file>
+<file name="113.afpk" source="derivative">
+<format>Columbia Peaks</format>
+<original>113.mp3</original>
+<mtime>1575476517</mtime>
+<size>4928</size>
+<md5>27ddf1c29e3f7de405a11fc307d22676</md5>
+<crc32>60126009</crc32>
+<sha1>e9daeff9c3ad4b5e2785e214ca0ee6f79fc7fe55</sha1>
+</file>
+<file name="113.mp3" source="original">
+<mtime>1575456930</mtime>
+<size>55240</size>
+<md5>d4d327448f3895d15e94419edf9b84b8</md5>
+<crc32>5067d8d4</crc32>
+<sha1>3c2b71aba5fe6d7f8ac317920bf9c71703764567</sha1>
+<format>VBR MP3</format>
+<length>26.6</length>
+<height>0</height>
+<width>0</width>
+<title/>
+<creator/>
+<album/>
+<track>113</track>
+</file>
+<file name="113.ogg" source="derivative">
+<format>Ogg Vorbis</format>
+<original>113.mp3</original>
+<mtime>1575472967</mtime>
+<size>96374</size>
+<md5>3c22f7466a16be4c97fa3d8cdd69554c</md5>
+<crc32>3d575a03</crc32>
+<sha1>22fbfe026f6b8f757be78635e940a7291ca881b1</sha1>
+<length>26.53</length>
+<height>0</height>
+<width>0</width>
+</file>
+<file name="113.png" source="derivative">
+<format>PNG</format>
+<original>113.mp3</original>
+<mtime>1575475319</mtime>
+<size>35027</size>
+<md5>7fdf7fbc525744b09ed344688fb7b6b8</md5>
+<crc32>680e0a9b</crc32>
+<sha1>1adc3adc8fc6c20318a83abbba604a8c5905a922</sha1>
+</file>
+<file name="113_spectrogram.png" source="derivative">
+<format>Spectrogram</format>
+<original>113.mp3</original>
+<mtime>1575475621</mtime>
+<size>203158</size>
+<md5>82af04ee2bc6c256ccaec52e77cd4cf6</md5>
+<crc32>08aa66c9</crc32>
+<sha1>de46d813fb4c0f08d49f992655cc325821334e84</sha1>
+</file>
+<file name="114.afpk" source="derivative">
+<format>Columbia Peaks</format>
+<original>114.mp3</original>
+<mtime>1575476508</mtime>
+<size>5984</size>
+<md5>f1062566b93301e97f5dc428bf1d0367</md5>
+<crc32>f788522c</crc32>
+<sha1>dc4f958ac69734e453f292a4fa1040aecab457b3</sha1>
+</file>
+<file name="114.mp3" source="original">
+<mtime>1575456936</mtime>
+<size>64600</size>
+<md5>9c7eef1ff56987696ed455f4cb4ff430</md5>
+<crc32>012ddb59</crc32>
+<sha1>515e238ade1bfe01d010abe2178414705ce8eed9</sha1>
+<format>VBR MP3</format>
+<length>31.28</length>
+<height>0</height>
+<width>0</width>
+<title/>
+<creator/>
+<album/>
+<track>114</track>
+</file>
+<file name="114.ogg" source="derivative">
+<format>Ogg Vorbis</format>
+<original>114.mp3</original>
+<mtime>1575472965</mtime>
+<size>113153</size>
+<md5>37d35dd03be8d10b020973be2784e65a</md5>
+<crc32>19d0ab00</crc32>
+<sha1>43573b7cb9ecf5eae94423d4a1bbe61f8301d611</sha1>
+<length>31.21</length>
+<height>0</height>
+<width>0</width>
+</file>
+<file name="114.png" source="derivative">
+<format>PNG</format>
+<original>114.mp3</original>
+<mtime>1575474720</mtime>
+<size>34123</size>
+<md5>99240b220542eb30ee58ce68916ddd69</md5>
+<crc32>4dcd81bb</crc32>
+<sha1>b5eefe07286d881b8f4ec9e9e9925e2f77173cb2</sha1>
+</file>
+<file name="114_spectrogram.png" source="derivative">
+<format>Spectrogram</format>
+<original>114.mp3</original>
+<mtime>1575475684</mtime>
+<size>205721</size>
+<md5>fd5a0ee946870bc268127c26786bf756</md5>
+<crc32>42737480</crc32>
+<sha1>465801fcf568c48d1a72a4a284f22e9eccdf0f7d</sha1>
+</file>
+<file name="_HOUR_00_002.afpk" source="derivative">
+<format>Columbia Peaks</format>
+<original>002.mp3</original>
+<mtime>1575478411</mtime>
+<size>625208</size>
+<md5>4c966afa7bed8602bbad9985471a035e</md5>
+<crc32>f01a74d1</crc32>
+<sha1>f5fc8f0f755ec64b3ce59706d30a29358d771724</sha1>
+</file>
+<file name="_HOUR_00_003.afpk" source="derivative">
+<format>Columbia Peaks</format>
+<original>003.mp3</original>
+<mtime>1575478257</mtime>
+<size>603704</size>
+<md5>48c97950b31a99b292230d312569a69a</md5>
+<crc32>fb020017</crc32>
+<sha1>5aed8b645297d79585301c9385d4117409d89105</sha1>
+</file>
+<file name="_HOUR_00_004.afpk" source="derivative">
+<format>Columbia Peaks</format>
+<original>004.mp3</original>
+<mtime>1575478083</mtime>
+<size>625608</size>
+<md5>286db4478134bb6f11bb4ce821350b79</md5>
+<crc32>29f09c74</crc32>
+<sha1>679f21ee664392647803f5dd1a7993e6d83d3dc5</sha1>
+</file>
+<file name="_HOUR_00_005.afpk" source="derivative">
+<format>Columbia Peaks</format>
+<original>005.mp3</original>
+<mtime>1575477920</mtime>
+<size>633448</size>
+<md5>aa33f772caed13318a9ff92ed4fecb00</md5>
+<crc32>45ef56f3</crc32>
+<sha1>5fae3165a3576dcf55b5085c996378be9a46df84</sha1>
+</file>
+<file name="_HOUR_00_006.afpk" source="derivative">
+<format>Columbia Peaks</format>
+<original>006.mp3</original>
+<mtime>1575477766</mtime>
+<size>638848</size>
+<md5>5a2c6a974ea9d41d2a314e49ccaf9833</md5>
+<crc32>19d961e2</crc32>
+<sha1>e61e0f0656c0330cb92732537a072825fdeccdc3</sha1>
+</file>
+<file name="_HOUR_00_007.afpk" source="derivative">
+<format>Columbia Peaks</format>
+<original>007.mp3</original>
+<mtime>1575477595</mtime>
+<size>626080</size>
+<md5>4a2d7c79c8f1496096e04bf2a53719ec</md5>
+<crc32>abd425f4</crc32>
+<sha1>d646c16d676a6f0818f8bdbde99127f2396afb50</sha1>
+</file>
+<file name="_HOUR_01_002.afpk" source="derivative">
+<format>Columbia Peaks</format>
+<original>002.mp3</original>
+<mtime>1575478466</mtime>
+<size>633448</size>
+<md5>7eca1b9e813589b442b15d264f67eb7d</md5>
+<crc32>65e207d8</crc32>
+<sha1>305bbc97ffd93c31ad7a1ce96451d80dae28cf0e</sha1>
+</file>
+<file name="_HOUR_01_003.afpk" source="derivative">
+<format>Columbia Peaks</format>
+<original>003.mp3</original>
+<mtime>1575478272</mtime>
+<size>160752</size>
+<md5>d12844bc1d26722913b9fd82a0e9c3b1</md5>
+<crc32>64943480</crc32>
+<sha1>3dc3ace3a5e81fb759a2d6061c3718d77dfd5901</sha1>
+</file>
+<file name="_HOUR_01_004.afpk" source="derivative">
+<format>Columbia Peaks</format>
+<original>004.mp3</original>
+<mtime>1575478108</mtime>
+<size>257848</size>
+<md5>5586618255f814e7410b2534b192cf94</md5>
+<crc32>f5750cb1</crc32>
+<sha1>594494e0ebcb6db8114e9595129fcdab1b9e11c8</sha1>
+</file>
+<file name="_HOUR_01_005.afpk" source="derivative">
+<format>Columbia Peaks</format>
+<original>005.mp3</original>
+<mtime>1575477925</mtime>
+<size>35600</size>
+<md5>51edb8d9e516e2efa64f7577a778052c</md5>
+<crc32>cfe7feab</crc32>
+<sha1>16fc10274d6b35efd90a3fb4af43d56a44f9dd19</sha1>
+</file>
+<file name="_HOUR_01_006.afpk" source="derivative">
+<format>Columbia Peaks</format>
+<original>006.mp3</original>
+<mtime>1575477779</mtime>
+<size>119048</size>
+<md5>2ea006e7a4d0f95b930678359109f3d8</md5>
+<crc32>d2a9e2b6</crc32>
+<sha1>41a946d97e5488612e5077c378629626258ebe7d</sha1>
+</file>
+<file name="_HOUR_01_007.afpk" source="derivative">
+<format>Columbia Peaks</format>
+<original>007.mp3</original>
+<mtime>1575477616</mtime>
+<size>137392</size>
+<md5>657f7337dbe0e24ce0ac9187c0beecfd</md5>
+<crc32>72440a4e</crc32>
+<sha1>a015b40633960387a208a382819902c863ee8c75</sha1>
+</file>
+<file name="_HOUR_02_002.afpk" source="derivative">
+<format>Columbia Peaks</format>
+<original>002.mp3</original>
+<mtime>1575478479</mtime>
+<size>134936</size>
+<md5>c5c7620f417f4e5d11d5db99a5904323</md5>
+<crc32>67b10859</crc32>
+<sha1>49206fd00ce9c0f362994e265dadfaed9f830535</sha1>
+</file>
+<file name="__ia_thumb.jpg" source="original">
+<mtime>1613617545</mtime>
+<size>4110</size>
+<md5>d8b29d5b25ea3e6cea00829272a9b1e7</md5>
+<crc32>748e02c0</crc32>
+<sha1>a3be17796dea70d79b6f3886bb4bb19f3d1774c3</sha1>
+<format>Item Tile</format>
+<rotation>0</rotation>
+</file>
+<file name="quran09031979_archive.torrent" source="metadata">
+<btih>c56fa4ee53ae3f3b046b186244f34fc23e757484</btih>
+<mtime>1613617553</mtime>
+<size>119713</size>
+<md5>f1911f6d88e5574eb7594fa595224c98</md5>
+<crc32>d8420c0b</crc32>
+<sha1>4347d690ae957cc03ad01fe7e511c74ac4260e23</sha1>
+<format>Archive BitTorrent</format>
+</file>
+<file name="quran09031979_files.xml" source="original">
+<format>Metadata</format>
+<md5>e7e435f0c680327c440ba5519fcd40dc</md5>
+<summation>md5</summation>
+</file>
+<file name="quran09031979_meta.sqlite" source="original">
+<mtime>1575456944</mtime>
+<size>169984</size>
+<format>Metadata</format>
+<md5>6abf0087ecd83b0ae7c3a915521390cf</md5>
+<crc32>cd904784</crc32>
+<sha1>4e483dc6d2eca5cdfba5be0bd296d337b23cfb8c</sha1>
+</file>
+<file name="quran09031979_meta.xml" source="original">
+<mtime>1613617545</mtime>
+<size>679</size>
+<format>Metadata</format>
+<md5>97fd1c782bf61d669975b671ca4bcae0</md5>
+<crc32>90d5acbc</crc32>
+<sha1>24120fb2853fa5c2360739210db0dfbbd720bfb0</sha1>
+</file>
+</files>
 </channel>	
 </rss>
